@@ -119,12 +119,11 @@ public class ClassificadorTeste {
 		int counter = 0;
 		for(int i=0; i<3; i++) {
 			f1[i] = (2*precision[i]*recall[i]) / (precision[i] + recall[i]);
-			if(f1[i] != Double.NaN) {
+			if(!Double.isNaN(f1[i])) {
 				macroF1 += f1[i];
 				counter++;
 			}
 		}
-		
 		return macroF1 / counter;
 	}
 	
@@ -137,8 +136,10 @@ public class ClassificadorTeste {
 		}
 		double[] precision = calculatePrecision(matrix);
 		double[] recall = calculateRecall(matrix);
+		double macroF1 = calculateMacroF1(precision, recall);
 		System.out.println("Precision: -1: " + precision[0] + ", 0: " + precision[1] + ", 1: " + precision[2]);
 		System.out.println("Recall: -1: " + recall[0] + ", 0: " + recall[1] + ", 1: " + recall[2]);
+		System.out.println("MacroF1: " + macroF1);
  	}
 	
 	public static void main(String[] args) {

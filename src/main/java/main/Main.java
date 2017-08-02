@@ -39,14 +39,13 @@ public class Main {
 		//CrossValidation.createTestFilesOfText(partitions);
 		
 		String testPath = "target/tmp/test_text/test";
-		double meanAccuracy = 0.0;
+		double meanMacroF1 = 0.0;
 		for(int i = 0; i < 10; i++) {
-			double accuracy = sequencialAnalysis(method, testPath + i + ".txt");
-			System.out.println("Accuracy: " + accuracy + "\n");
-			meanAccuracy += accuracy;
+			double macroF1 = sequencialAnalysis(method, testPath + i + ".txt");
+			meanMacroF1 += macroF1;
 		}
-		meanAccuracy = meanAccuracy / 10.0;
-		System.out.println("Mean Accuracy: "+meanAccuracy);
+		meanMacroF1 /= 10.0;
+		System.out.println("Mean MacroF1: "+meanMacroF1);
 		
 		//System.out.println(sequencialAnalysis(method, "datasets/stanford_tweets.txt"));
 		//analyseViaSpark(method, path, "spark://192.168.43.72:7077");
@@ -113,9 +112,23 @@ public class Main {
 		for(int i=0; i<3; i++) {
 			precision[i] = (double) (matrix[i][i]) / ((double) (matrix[i][0] + matrix[i][1] + matrix[i][2]));
 		}
+		
+		double[] f1 = {0.0, 0.0, 0.0};
+		double macroF1 = 0;
+		int counter = 0;
+		for(int i=0; i<3; i++) {
+			f1[i] = (2*precision[i]*recall[i]) / (precision[i] + recall[i]);
+			if(!Double.isNaN(f1[i])) {
+				macroF1 += f1[i];
+				counter++;
+			}
+		}
+		macroF1 /= counter;
+		
 		System.out.println("Precision: -1: " + precision[0] + ", 0: " + precision[1] + ", 1: " + precision[2]);
 		System.out.println("Recall: -1: " + recall[0] + ", 0: " + recall[1] + ", 1: " + recall[2]);
-		return ((double) (matrix[0][0] + matrix[1][1] + matrix[2][2])) / results.size();
+		System.out.println("MacroF1: " + macroF1);
+		return macroF1;
 	}		
 	
 	private static void analyseViaSpark(Method method, String path, String master){
