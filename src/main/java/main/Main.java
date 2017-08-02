@@ -1,6 +1,7 @@
 package main;
 
 import java.io.BufferedReader;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
@@ -23,7 +24,6 @@ import com.fasterxml.jackson.core.JsonFactory;
 
 import iFeel.Method;
 import iFeel.MethodCreator;
-import iFeel.MethodTest;
 import scala.Tuple2;
 import spark.Spark;
 import util.CrossValidation;
@@ -32,7 +32,7 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		Method method = MethodCreator.getInstance().createMethod(Method.SASA_ID);
+		Method method = MethodCreator.getInstance().createMethod(Method.SASA);
 		//String path = "datasets/stanford_tweets.txt";
 		//Spark.getInstance().initSpark("Spark Sentiments", "local");
 		//List<String> texts = Spark.getInstance().getContext().textFile(path).collect();
