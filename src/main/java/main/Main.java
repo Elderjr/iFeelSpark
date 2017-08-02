@@ -20,10 +20,12 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.function.VoidFunction;
 
 import com.fasterxml.jackson.core.JsonFactory;
-import methods.Method;
-import methods.MethodCreator;
-import methods.MethodTest;
+
+import iFeel.Method;
+import iFeel.MethodCreator;
+import iFeel.MethodTest;
 import scala.Tuple2;
+import spark.Spark;
 import util.CrossValidation;
 
 public class Main {
