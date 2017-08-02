@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {bum,bums}
+@attribute pos {NN,NNS,NNPS,NNP,VB}
+@attribute token0 {does,useless,butt,you,a,flames,with,as,get,he,had,and,rid,burke,be,thing,yes,their,again,classes,of,patted,liners,fair,trouser,councillors,nicholas,jessie,i,smell,to,body,'\'\\\'re\'',buy,like,my,this,that,in,the,fall,pleasantly,shop,want,ourselves,'\'\\\'ve\'',both,cheeks,valley,metal,here,inches,container,bounced,it,unable,when,rolls,ah,-rrb-,just,shots,billiard,has,am,kisses,somebody,should,do,disease,camber,'\'\\\'s\'',up,'\'n\\\'t\'',neat,lonely,lifestyle,on,beach,for,boys,rock,black,at,stu,talk}
+@attribute pos0 {VBZ,JJ,NN,PRP,DT,NNS,IN,VB,VBD,CC,NNP,PRP$,RB,VBN,TO,VBP,WRB,-RRB-,MD,RP}
+@attribute token1 {and,junk,plugs,want,pain,coming,computers,a,right,had,not,of,wore,seen,still,get,fronts,the,headed,three,her,strapped,too,pockets,going,he,hate,rub,need,shape,fills,look,such,baby,an,keep,arse,morning,was,surprise,board,flat,warm,so,smack,turds,got,replacing,be,cul,bar,they,'\'\\\'ve\'',were,remember,for,off,'\'\\\'s\'',to,yeah,grabbed,feel,cheeks,cantharis,color,just,cues,gone,needle,nursing,his,'\'n\\\'t\'',small,plaster,i,-lrb-,like,handy,your,shaking,you,video,artist,it,no,boy,that,scorch,in,pumps,all,man,corps,remembered,steatopygous,about}
+@attribute pos1 {CC,NN,NNS,VBP,VBG,DT,RB,VBD,IN,VBN,VB,CD,PRP,VBZ,JJ,RP,TO,NNP,PRP$,-LRB-}
+@attribute token2 {fight,at,up,a,in,out,freezing,baboon,seen,very,your,blondie,with,working,off,pilot,tums,macho,on,to,many,frank,the,need,having,'\'\\\'s\'',my,lots,no,museum,like,an,food,orangutan,cuntona,hurts,fred,talking,there,parson,number,her,anglo,-lrb-,across,'\'\\\'re\'',burnt,have,gonna,synchronise,does,fiona,of,for,helen,tit,over,little,wipe,boy,recall,one,but,mum,ungrateful,thighs,wandering,acid-dropping,jacket,good,any,girls,1985,and,she,commander,as,monkey,means,women}
+@attribute pos2 {VB,IN,RP,DT,NN,VBN,RB,PRP$,NNP,VBG,NNPS,TO,JJ,VBP,VBZ,NNS,EX,-LRB-,CD,CC,PRP,POS}
+@attribute token3 {a,some,the,smack,o,my,'\'\\\'s\'',dirty,sore,big,gray,their,fudge,your,and,beach,her,ski,shorter,about,branded,his,put-upon,of,waist,with,illiterate,nappies,hot,lowlife,fat,sticks,get,knickered,surf,all,wobbling,arsehole,tender,put,descending,blistering,bruised,red,any,shouting,smelly,gibbous,little,two-dollar,tums,gipsy,cocaine-sniffing,lousy,recalcitrant,exploring,no,matching,was,bare}
+@attribute pos3 {DT,VB,NN,PRP$,POS,JJ,CC,NNP,IN,VBN,NNS,VBZ,VBG,VBD,PRP,NNPS}
+@attribute token4 {a,'\'\\\'s\'',null,that,off,of,what,freezer,on,then,in,is,during,kind,about,bag,here,changing,patted,when,too,and,why,wipes,-rrb-,was,yeah,sandwiches,with,as,two,today,or,slip,be,dented,keep,to,me,though,down,everybody,1-2,oh,like,warmer,making,fluff,up,sticks,all}
+@attribute pos4 {DT,POS,null,IN,RP,WP,NN,RB,VBZ,NNP,VBG,VBN,WRB,CC,NNS,-RRB-,VBD,UH,CD,VB,TO,PRP,JJR}
+@attribute token5 {month,feet,null,'\'\\\'d\'',anyone,big,a,their,little,the,of,though,seats,suddenly,beds,blow-jobs,offensive,do,or,on,tits,i,and,pews,one,caretakers,france,in,poles,flapping,even,all,ascending,off,soaps,is,more,about,fine,ego,further,your,treat,me,hurting,up,going,times,beverly,did,getting,yet,for,out}
+@attribute pos5 {NN,NNS,null,NNP,JJ,DT,PRP$,IN,RB,VBP,CC,PRP,CD,VBG,VBZ,RBR,VB,RP,VBD}
+@attribute token6 {instead,on,null,take,famous,bum,black,fifty-quid,air,more,'\'\\\'60s\'',thing,there,here,legs,to,you,become,cold,his,long,hanging,do,we,and,enormous,of,-rrb-,the,in,if,tums,other,saddle,my,second,important,a,sort,sandpaper,space,right,that,vivid,surf,ow,your,out,know,hills,'\'n\\\'t\'',wet,peach,want,bathroom,her,time}
+@attribute pos6 {RB,IN,null,VB,JJ,NN,JJR,CD,EX,NNS,TO,PRP,PRP$,VBG,VBP,CC,-RRB-,DT,NNP,RP}
+@attribute token7 {of,a,null,wallpaper,before,polo-neck,seat,and,than,decade,was,at,too,their,think,the,subs,blanket,chain,out,'\'n\\\'t\'',shook,see,hand,middle,one,that,were,ghost,zing,generate,or,toilet,thighs,degree,bit,so,boil,'\'\\\'s\'',detail,city,mum,week,i,get,boy,to,liver,air,hottentot}
+@attribute pos7 {IN,DT,null,NN,CC,VBD,RB,PRP$,VB,VBZ,RP,VBP,CD,NNS,NNP,PRP,TO}
+@attribute class {obj,subj}
+
+@data

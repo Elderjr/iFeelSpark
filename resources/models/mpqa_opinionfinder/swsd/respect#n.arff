@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {respect}
+@attribute pos {NN}
+@attribute token0 {remained,_,generous,treating,are,cautious,sits,world,demonstrate,a,is,some,suit,cubs,he,being,and,for,respectability,any,control,to,does,so,out,i,has,plaintiffs,null,the,will,widespread,more,'\'\\\'s\'',other,at,taiwan,power,successful,up,bomb,community-building,of,deal,shows,problem,when,seem,no,said,animal,antonio,our,thomas,law-abiding,where,treat,had,that,have,-rrb-,there,you,in,just,little,his,already,revelations,asked,suddenly,recently,good,personal,figured,still,do,can,upon,principles,they,way,coach,getting,was,about,admitted,than,says,honored}
+@attribute pos0 {VBN,NNP,JJ,VBG,VBP,VBZ,NN,VB,DT,PRP,CC,IN,TO,RB,RP,NNS,null,MD,RBR,WRB,VBD,PRP$,-RRB-,EX}
+@attribute token1 {quiet,with,salary,their,'\'n\\\'t\'',and,alone,now,treated,more,reporter,a,of,it,fans,is,complicated,has,peace,if,law-enforcement,good,fairly,positive,had,brought,give,proper,wink-and-nudge,null,clearly,winning,in,them,'\'\\\'s\'',you,other,thirst,hardly,time,game,yankees,he,the,to,i,longer,video,judges,respect,that,difficulty,opinion,citizens,just,earned,chinese,said,'\'\\\'ll\'',dallas,hang,bit,record,remarkable,being,shock,on,deceased,relationship,conservative,our,life,out,tenure,be,trust,nor,similar,they,utmost,who,love,generally,think,few,insisted,maybe,schroer}
+@attribute pos1 {JJ,IN,NN,PRP$,RB,CC,VBN,RBR,DT,PRP,NNS,VBZ,VBD,VB,null,VBG,POS,NNPS,TO,WDT,MD,NNP,WP,VBP}
+@attribute token2 {out,all,and,artists,treated,prudent,in,they,with,mutual,question,the,commands,given,a,fraternity,not,interest,power,governance,have,statements,so,some,about,him,amount,atmosphere,null,love,but,president,sealed-off,competitor,for,worthy,issues,teaching,care,lack,has,law,save,_,deserves,starving,today,showed,players,watson,consumers,lot,he,gaining,especially,me,too,will,is,monday,developed,of,stand,opponents,citing,timing,show,you,neutral,should,agreement,earned,admiration,can,little,reassuring,we,moments,that,whose}
+@attribute pos2 {IN,DT,CC,NNS,VBN,JJ,PRP,NN,VBZ,RB,VB,null,VBP,VBG,VBD,NNP,MD,WP$}
+@attribute token3 {of,due,the,with,this,want,utmost,caring,same,your,no,another,deep,mutual,total,and,much,newfound,getting,its,null,lakers,in,state,admiration,souls,that,little,our,tremendous,street,for,inadequate,every,offer,healthy,'\'\\\'s\'',deserve,has,common,my,yield,more,about,a,merit,his,enough,maintain,false,command,get,grudging,paying,full,longtime,highest}
+@attribute pos3 {IN,JJ,DT,VBP,NN,PRP$,CC,VBG,null,NNPS,NNS,POS,VBZ,VB,JJR,JJS}
+@attribute token4 {for,to,of,honor,in,null,and,love,pierre,at,owners,by,because,justice,thorn,he,_,based,history,they,a,go,i,as,or,-lrb-,felt,but,that,rtoward,said,being,fair-mindedness,with,knott,among,we,smith,shown,across}
+@attribute pos4 {IN,TO,NN,null,CC,NNP,NNS,PRP,VBN,DT,-LRB-,VBD,VBG}
+@attribute token5 {the,my,his,and,their,american,null,hugo,home,have,more,cowboy,was,those,human,me,himself,dale,prescott,deserves,whether,one,basic,appeared,on,said,deserved,women,so,walking,'\'\\\'re\'',fifteenth,violence,could,that,kile,find,urge,if,fiduciary,him,enjoys,lawyers,esteem,somewhat,gasoline,they,saw,equal,war,her,baffert,camaraderie,past,hiddink,exchanged,pays,recognition,everyone,immunity,also,friendship,these,employees,property,religion,which,european,documents,a,casey,were,relationships,to,tradition,natural,each,wilkinson}
+@attribute pos5 {DT,PRP$,CC,JJ,null,NNP,NN,VBP,JJR,VBD,PRP,VBZ,IN,CD,NNS,RB,VBG,MD,VBN,WDT,TO}
+@attribute token6 {presidency,friends,neighbors,financial,basic,citizens,courthouse,null,fudge,understanding,brazill,said,on,shown,referees,and,values,charity,named,individuals,rights,morales,would,vision,as,who,former,otherwise,that,its,church,human,less,this,see,under,due,the,how,'\'n\\\'t\'',issue,you,they,opponent,responsibilities,but,globe,he,sated,prices,sovereign,another,game,'\'\\\'ve\'',him,treatment,emblem,elders,among,offenses,morning,between,white,to,i,rule,dead,deserve,for,bankruptcy,two,bakers,come,teams,obtained,city,martin,kindred,with,country,in,resources,other,helps,highest}
+@attribute pos6 {NN,NNS,JJ,null,VBP,NNP,VBD,IN,VBN,CC,MD,WP,RB,DT,PRP$,JJR,VB,WRB,PRP,TO,CD,VBZ,JJS}
+@attribute token7 {and,at,as,justice,human,in,across,null,is,of,family,we,sunday,for,even,more,he,executive,said,never,that,a,overnight,president,involves,most,'\'\\\'s\'',rights,balletic,to,the,private,power,be,cardinals,inherited,who,was,romley,when,does,states,but,earned,s,americade,south,scott,house,such,think,carr,verhaeghe,filing,do,_,from,starved,spirits,surrogate,1994,gave,assuage,level}
+@attribute pos7 {CC,IN,NN,JJ,null,VBZ,PRP,NNP,RB,JJR,VBD,DT,RBS,POS,NNS,TO,VB,NNPS,WP,WRB,VBN,VBP,CD}
+@attribute class {obj,subj}
+
+@data

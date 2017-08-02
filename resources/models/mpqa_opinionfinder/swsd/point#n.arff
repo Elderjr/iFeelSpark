@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {point}
+@attribute pos {NN,NNP}
+@attribute token0 {we,however,in,on,null,was,could,records,reeder,kind,strain,scott,congaree,is,_,'\'n\\\'t\'',lower,'\'\\\'s\'',the,get,maybe,predisposition,now,her,another,for,brother,superparamagnetic,presidential,unanswered,to,picked,of,'\'\\\'m\'',that,despite,i,15th,this,going,by,it,been,other,used,rural,sailer,0.8,paddled,center,has,james,discount,shootings,steamed,wimbledon,well,a,quarter-century,values,requests,just,jason,helped,own,be,confronted,least,traded,eastern,harbor,two,wise,emphasis,yzerman,biting,program,conflict,would,lies,up,give,rochus,scene,'\'550,000\'',happy,are}
+@attribute pos0 {PRP,RB,IN,null,VBD,MD,NNS,NNP,NN,VBZ,JJR,POS,DT,VB,JJ,TO,VBP,VBG,VBN,CD,JJS,RP}
+@attribute token1 {'\'\\\'re\'',almost,places,to,null,approaching,be,show,who,of,break,injuries,stevens,joined,a,before,know,after,eventually,testimony,traditional,better,the,considers,up,parade,bill,another,fred,limit,run,questions,understand,phones,sure,was,never,stroke,area,think,half,has,for,'\'\\\'s\'',states,as,still,angst,city,an,missed,site,not,3-1,dowdle,fell,and,went,that,had,set,kidd,pass,past,williams,me,get,adjustments,back,with,got,from,at,spinner,conference,cleanup,pre-derby,is,shot,again,become,fifteen,see,have,point,henman,saved,indeed,she,breeding,been,homes,actually}
+@attribute pos1 {VBP,RB,NNS,TO,null,VBG,VB,WP,IN,NN,NNP,VBD,DT,JJ,JJR,VBZ,RP,PDT,CD,CC,VBN,PRP}
+@attribute token2 {to,at,earn,a,talent,and,delivered,the,particular,all,retail,from,most,passed,crack,of,_,but,only,one,understood,take,made,that,stuck,hbo,an,null,reached,morning-line,benedict,0.05,their,case,management,cellar,starts,follow,on,off,90,more,has,right,today,get}
+@attribute pos2 {TO,IN,VB,DT,NN,CC,VBD,JJ,RBS,RB,VBP,CD,VBN,NNP,null,PRP$,NNS,RBR,VBZ}
+@attribute token3 {the,one,a,this,crisis,turning,that,set,massive,sore,derby,lowest,some,focal,crucial,particular,at,sands,0.52,percentage,match,high,1,race,whole,reference,film,extra,pickup,null,choice,'\'\\\'s\'',starting,west,dynamic,in,nets,bucks,halfway,duke,main,same,patriots,fort,pivotal,for,their,indian,rallying,arab,fundamental,best,break,to,flash,each}
+@attribute pos3 {DT,CD,NN,JJ,NNP,JJS,VBG,IN,null,POS,NNS,NNPS,PRP$,TO}
+@attribute token4 {of,for,null,maybe,and,in,he,the,had,guard,kauffmann,no,when,given,said,whether,_,people,shouting,on,could,it,to,n.y.,at,is,a,we,increase,serena,was,says,where,no.,during,fossett,from,ordered,so,this,wondered,i,that,thursday,behind,naval,channel,because,america,you,represents,-lrb-}
+@attribute pos4 {IN,null,RB,CC,PRP,DT,VBD,NN,NNP,WRB,VBN,NNS,MD,TO,VBZ,-LRB-}
+@attribute token5 {building,despair,example,null,even,he,african,identified,general,never,who,popped,one,as,the,was,more,their,or,are,at,and,involve,view,serious,reduce,but,a,which,nothing,burglary,'\'1,249.44\'',report,would,in,irony,bent,do,what,four,get,3.5,doing,'\'o\\\'donnell\'',it,1,every,tiled,origin,keep,watched,prevailed,will,that,day,told,late,my,mike,season,why,made,two,sam,when,you,fell,could,bridge,its,'\'\\\'s\'',most,we,comes,said,7-6,rather,may,tension}
+@attribute pos5 {VBG,NN,null,RB,PRP,JJ,VBD,WP,IN,DT,JJR,PRP$,CC,VBP,VB,WDT,CD,MD,NNP,VBN,WRB,POS,JJS,VBZ}
+@attribute token6 {up,the,null,carlos,feared,history,himself,manager,met,can,a,knows,manhandled,rev.,than,business,they,going,him,i,said,season,certainly,injuries,if,sister,he,occurs,data,made,have,not,she,over,'\'n\\\'t\'',do,days,out,percent,so,nobody,became,with,session,buildings,which,second,mournfully,next,by,be,trips,his,tuesday,lieutenant,parents,bibby,tiebreaker,it,such,bills,cassell,month,in,series,select,socialist,ernst,england,metrostars,maritime,establishment,evolution,lead,investors,schism,are,from,best,capital,when,ninth,was,since,little,tie}
+@attribute pos6 {RP,DT,null,NNP,VBD,NN,PRP,VBN,MD,VBZ,IN,VBG,RB,NNS,VB,VBP,WDT,JJ,PRP$,NNPS,JJS,WRB}
+@attribute token7 {arm,farmers,moneyed,null,perez,that,as,said,welch,see,forehand,the,derby,donald,9-5,10,model,will,to,you,think,economy,david,i,were,alternative,ruth,tiny,'\'\\\'s\'',tuzman,does,repeatedly,got,going,vacancy,says,in,have,of,bush,been,reads,violence,walt,tinny,takes,score,quarter,two,better,changing,skakel,it,flight,would,had,but,current,was,an,there,busch-reisinger,'\'n\\\'t\'',has,love,either,spirit,young,selectors,museum,3-year-old,having,also,at,lakers,cairo,court,only,markets,league,ferreira,game,spinning,be,auctioned,a,more,-rrb-,make}
+@attribute pos7 {NN,NNS,JJ,null,NNP,IN,VBD,VB,DT,CD,MD,TO,PRP,VBP,VBZ,RB,VBN,VBG,JJR,CC,NNPS,-RRB-}
+@attribute class {obj,subj}
+
+@data

@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {need,needs}
+@attribute pos {NN,NNS}
+@attribute token0 {rightnow,avoided,expensive,of,monday,meanwhile,bush,met,did,the,there,and,from,as,also,past,heartbreak,1949,any,state,be,declaration,have,photographer,but,new,to,which,is,who,he,standpoint,a,null,over,palestinian,still,our,mubarak,california,with,serve,george,that,fighter,way,in,meet,guidelines,tax,fails,resources,served,possible,generalities,opec,a.,sensitive,she,ago,companies,help,effect,talking,last,effort,equipment,different,concerns,do,ergonomics,almost,by,we,vatican,said,advocate,reach,when,nose,developed,loans,under,grubs,petersburg,days,if}
+@attribute pos0 {NNP,VBD,JJ,IN,RB,DT,EX,CC,NN,CD,VB,VBP,TO,WDT,VBZ,WP,PRP,null,PRP$,NNS,VBG,WRB}
+@attribute token1 {there,the,cleanup,emphasized,enrollment,once,all,'\'n\\\'t\'',solution,is,sensitivity,attentive,spoke,and,of,talk,were,divided,also,long,who,teachers,help,overshadows,lagging,meet,has,believes,it,set,null,state,necessary,problems,nation,utilities,proper,day,a,jet,gardening,their,to,base,he,health-care,address,suit,would,knopf,had,god,checked,fulfilling,recently,lineup,year,generates,institutions,against,not,for,perfectly,looking,officials,should,they,begins,capitalize,tight,thereby,bulk,was,ago}
+@attribute pos1 {EX,DT,NN,VBD,RB,VBZ,JJ,CC,IN,VBN,WP,NNS,VB,PRP,null,PRP$,TO,MD,NNP,VBG,PDT}
+@attribute token2 {'\'\\\'s\'',nation,possibly,most,the,and,felt,of,feel,a,to,perspective,then,an,in,but,recognizes,seemed,has,people,our,been,far,meets,null,understood,left,understated,coordination,for,neighbor,was,underscores,is,software,preempt,address,their,short-term,stresses,products,stressed,other,see,sick,were,others,back,lasting,tony,about,sorely,making,demand,match,exceeds,serving,growing,meet,children,accommodate,at,have,addressed,your,those,are,anything,on,understanding,countries,security,reducing,reflect}
+@attribute pos2 {VBZ,NN,RB,RBS,DT,CC,VBD,IN,VB,TO,VBN,NNS,PRP$,null,POS,JJ,NNP,VBG,VBP}
+@attribute token3 {no,'\'\\\'s\'',the,basic,absolute,my,a,more,domestic,of,future,essential,urgent,dire,in,particular,real,energy,wants,one,cover,that,their,medical,incidental,development,fewer,greatest,political,giant,unique,corporate,dietary,biological,if,unmet,or,your,his,different,specific,sexual,military,our}
+@attribute pos3 {DT,POS,JJ,PRP$,JJR,IN,NN,VBZ,CD,VB,JJS,CC}
+@attribute token4 {to,for,producing,of,he,or,as,a,because,said,and,only,brought,null,ca,they,the,_,while,bush,sandra,still,be,but,you,his,matt,already,instead,junjun,president,was,is,without}
+@attribute pos4 {TO,IN,VBG,PRP,CC,DT,VBD,JJ,VBN,null,MD,VBP,NNP,RB,VB,PRP$,VBZ}
+@attribute token5 {add,a,demolish,food,observe,students,rebel,said,reconcile,be,access,the,waste,peace,them,rise,our,limits,develop,disaster,action,greater,some,reflect,wait,very,there,start,repair,todd,human,desires,track,lean,israel,about,null,restructuring,power,'\'n\\\'t\'',such,are,offend,rush,this,retreat,practice,any,tunnels,higher,advancing,pay,protection,call,regain,much,actors,raise,and,medical,live,he,keep,digest,thumpers,new,agbeti,can,meter,whether,their,highlighted,both,effectively,medicine,changes,of,get,bush,quiet,shushing,housing,underscored,pesticides,still,fear}
+@attribute pos5 {VB,DT,NN,NNS,VBD,PRP,PRP$,JJR,RB,EX,NNP,JJ,null,VBP,VBG,CC,MD,IN,VBN}
+@attribute token6 {insult,national,whole,for,the,rose,against,null,anything,done,to,region,or,f,and,that,western,is,a,assistance,remains,access,good,this,clearly,again,consider,true,transplant,connection,he,down,manufacturing,by,dealt,of,in,be,also,dear,into,education,organization,from,known,additional,city,no,teacher,sharon,off,911,directly,market,more,amptp,doubts,its,small,allan,treatment,on,bubble,mob-related,money,hopes,purchase,runs,populations,clubs,cross-selling,global,inside,acting,said,customers,might,political,years,supplies,responsive}
+@attribute pos6 {NN,JJ,IN,DT,VBD,null,VBN,TO,CC,WDT,VBZ,RB,VB,NNP,PRP,RP,CD,JJR,NNS,PRP$,VBG,MD}
+@attribute token7 {to,energy,neighborhoods,people,four,dramatically,and,null,holm,the,'\'\\\'s\'',security,train,prosperity,has,gallantry,european,political,microbicide,what,strong,public,self-definitions,one,defined,precedent,getting,an,since,in,that,said,withdraw,texas,with,seen,tool,entitled,old,efforts,especially,as,legislation,need,salaries,credit,search,earlier,addressing,share,research,president,about,production,flies,howeth,students,shelter,nothing,i,confused,secrets,latest,nearly,fractionals,backward,impose,alan,creating,action,like,friday,not,be,rivals,a,away,of}
+@attribute pos7 {TO,NN,NNS,CD,RB,CC,null,NNP,DT,POS,VBZ,VB,JJ,WP,VBN,VBG,IN,WDT,VBD,JJR,PRP,JJS}
+@attribute class {obj,subj}
+
+@data

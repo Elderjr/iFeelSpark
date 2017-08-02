@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {violation}
+@attribute pos {NN}
+@attribute token0 {was,corporate,to,first,for,government-owned,order,pending,null,the,homeland,missed,regard,its,remedy,has,rules,they,a,vowed,convicted,that,ship,well,commission,rent,blatant,plot,actions,school,in,think,this,provocation,of,activities,on,'\'\\\'s\'',required,unlawful,count,month,said,descent,fined,thursday,idea,and,colombia,may,supreme,because,lindh,into,convictions,shelby,11,hit,with,police,would,present,incident,tanker,him,it,mingle,what,upgraded,possible,trigger,canada,course,live,private,described,national,establishment,arising,appear,group,up,deemed,were,long-haul,is,but,dlrs,never}
+@attribute pos0 {VBD,JJ,TO,IN,NN,VBG,null,DT,VBN,VBP,PRP$,VBZ,NNS,PRP,RB,NNP,VB,POS,CC,CD,MD,WP}
+@attribute token1 {being,assets,stop,and,the,publisher,as,other,birmingham,threat,in,punitive,traveling,it,zones,operations,for,been,represented,were,grave,saturday,of,is,found,54,or,stand,administrative,attack,would,mass,company,an,lane,removal,permits,prior,last,but,do,on,said,was,that,court,remaining,pledge,with,two,county,there,identities,point,decision,also,white-only,no,ticket,smuggling,basis,among,makes,their,future,a,deal,talks,companies,null,security,from,to,missile,school,still,trucks,streets,necessary,'\'120,000\'',agree}
+@attribute pos1 {VBG,NNS,VB,CC,DT,NN,IN,JJ,NNP,PRP,VBN,VBD,VBZ,CD,VBP,MD,EX,RB,PRP$,null,TO}
+@attribute token2 {held,and,before,foremost,monopoly,in,a,states,is,as,1995,damages,an,the,constantly,human,that,'\'\\\'s\'',recognizing,sin,hospitals,then,extraordinary,capacities,be,destruction,not,of,alleged,for,restraint,day,year,if,so,their,was,constituted,silent,pieces,machines,are,another,to,rule,other,oil,themselves,it,plants,attacks,state,found,bogus,with,including,april,null,interests,religion,defense,'\'5,000\'',most,operating,here}
+@attribute pos2 {VBN,CC,IN,JJ,NN,DT,NNS,VBZ,CD,RB,VBG,NNP,VB,PRP$,VBD,VBP,TO,PRP,null,RBS}
+@attribute token3 {in,the,a,maintenance,apparent,constitutional,charging,carrying-over,illegitimate,same,egregious,obvious,rights,no,traffic,clear,claiming,foursquare,possible,immigration,of,first,flagrant,immigrations,third,firearms,parole,local,airspace,three-second,gross,settlement,ncaa,that,any,seasonal,this,drug,systematic,and,environmental,per,urgent,common,each}
+@attribute pos3 {IN,DT,NN,JJ,VBG,NNS,NNP,CC}
+@attribute token4 {of,line,monetary,would,null,it,judges,aug.,were,requiring,officials,persists,after,but,he,when,to,that,minutes,with,only,is,like,writes,last,and,per,will,nonetheless,its}
+@attribute pos4 {IN,NN,NNP,MD,null,PRP,NNS,VBD,VBG,VBZ,CC,WRB,TO,WDT,RB,JJ,PRP$}
+@attribute token5 {the,its,null,human,damages,international,property,count,federal,a,civil,is,are,u.n.,10,law,their,u.s.,in,immediate,everything,any,copyright,said,an,state,we,court,can,treaties,our,has,be,he,attack,forced,into,privacy,his,regard,if,how,world,opening,king,says,all,year,workers,destruction,environmental,generally,day,improvements,failure,nafta,endanger,officers}
+@attribute pos5 {DT,PRP$,null,JJ,NNS,NN,VB,VBZ,VBP,NNP,CD,IN,VBD,PRP,MD,WRB,VBG,RB}
+@attribute token6 {constitution,legal,null,rights,will,copyright,and,as,air,sovereign,custody,civil,liberties,sovereignty,law,up,usually,resolutions,public,he,armistice,new,warranty,judicial,the,council,student,original,moral,morals,security,saturday,international,first,laws,'\'\\\'ll\'',rules,flight,receive,court,that,terms,not,nfl,fifth,an,constitutional,was,someone,standards,requirement,deal,financing,to,they,sanctions,federal,outlawed,trade,fire,i,standing,freedom,human,at,efforts,of,separation,treaty,accepted,program,pollution,'\'\\\'s\'',evacuation,could,russian}
+@attribute pos6 {NNP,JJ,null,NNS,MD,NN,CC,IN,RB,PRP,DT,VB,WDT,VBD,TO,VBG,VBN,POS}
+@attribute token7 {null,and,the,not,law,employment,a,pollution,country,order,rights,in,to,reluctant,lodge,congo,'\'\\\'s\'',sentenced,told,prohibiting,york,as,action,old,conduct,bond,principle,that,clause,agreement,council,we,ban,amendment,issue,_,school,several,injunction,say,of,agreements,been,abridgement,requirement,arrested,based,for,family,game,company,worked,terms,turner,have,against,with,species,power,group,organization,hydrants,remember,would,accounting,all,include,laws,peace,also,federation}
+@attribute pos7 {null,CC,DT,RB,NN,NNS,IN,TO,JJ,NNP,POS,VBN,VBD,VBG,WDT,PRP,VB,VBP,MD}
+@attribute class {obj,subj}
+
+@data

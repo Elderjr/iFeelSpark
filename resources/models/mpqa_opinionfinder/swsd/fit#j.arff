@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {fit}
+@attribute pos {JJ,VBN,NNP,NN,VB,VBD}
+@attribute token0 {me,all,rugby,tenth,'\'\\\'s\'',part,she,someone,i,back,the,good,crying,although,times,because,take,decided,treatment,years,andy,change,that,before,said,even,retired,bird,unless,'\'\\\'m\'',a,tennis,kind,our,no,horse,now,do,developing,only,says}
+@attribute pos0 {PRP,DT,VB,NN,VBZ,RB,JJ,VBG,IN,NNS,VBD,NNP,VBP,PRP$}
+@attribute token1 {if,season,well,time,handsome,of,would,who,'\'\\\'ll\'',ah,children,are,way,shame,he,first,you,to,have,i,exactly,and,it,diving,though,she,not,suntan,courts,failing,paces,should,they,will,late,be,the}
+@attribute pos1 {IN,NN,RB,JJ,MD,WP,UH,NNS,VBP,PRP,TO,CC,VBG,VB,DT}
+@attribute token2 {i,you,we,he,her,'\'n\\\'t\'','\'\\\'s\'',be,'\'\\\'m\'',were,contented,of,a,should,better,feel,test,been,get,felt,100,seemed,athletics,keeps,scenery,was,offshore,keep,is,actually,to,this,with,'\'\\\'ll\'',also,tackled,wiry}
+@attribute pos2 {PRP,RB,VBZ,VB,VBP,VBD,JJ,IN,DT,MD,RBR,VBN,CD,NNS,NN,TO}
+@attribute token3 {was,'\'\\\'m\'',were,are,'\'\\\'s\'',keep,be,fighting,fully,as,happy,keeping,young,so,how,really,super,me,becoming,'\'n\\\'t\'',get,appeared,certainly,it,very,look,a,getting,by,and}
+@attribute pos3 {VBD,VBP,VBZ,VB,VBG,RB,JJ,WRB,IN,NNP,PRP,DT,CC}
+@attribute token4 {enough,and,he,challenge,than,by,as,the,man,i,you,with,this,steps,null,keep,but,able,center,elderly,-lrb-,these,walkers,mr.}
+@attribute pos4 {RB,CC,PRP,NNP,IN,DT,NN,NNS,null,VB,JJ,-LRB-}
+@attribute token5 {null,can,could,well,'\'\\\'s\'',to,the,thee,family,in,like,would,a,full,really,swimming,season,one,earning,fit,and,neighbor,enough,walking,eventing,days,ready,who,campaneris}
+@attribute pos5 {null,MD,RB,VBZ,TO,DT,NN,IN,JJ,CD,VBG,CC,NNS,WP,NNP}
+@attribute token6 {null,feel,handle,-lrb-,a,ride,beat,time,went,training,that,'\'n\\\'t\'',fiddle,of,are,before,by,some,play,fed,care,may,said,is,i,to,know,if}
+@attribute pos6 {null,VB,-LRB-,DT,NN,VBD,RB,IN,VBP,VBN,MD,VBZ,PRP,TO}
+@attribute token7 {null,the,ernest,self-made,for,up,of,on,especially,rule,and,life,pre-season,he,painful,extra,in,good,be,-rrb-,more,feel,run,what,you}
+@attribute pos7 {null,DT,NNP,JJ,IN,RP,RB,VB,CC,NN,PRP,-RRB-,JJR,VBP,WP}
+@attribute class {obj,subj}
+
+@data

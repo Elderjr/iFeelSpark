@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {missed,miss,missing,misses}
+@attribute pos {VBD,VB,VBN,VBG,VBZ,VBP}
+@attribute token0 {and,an,that,be,look,playing,of,type,valid,how,say,going,suspecting,fairgrounds,andrew,sterile,steady,supporters,first,will,in,thousands,-lrb-,another,tries,1987,toad,i,think,off,so,-rrb-,old,herself,right,any,reaching,even,well,the,seems,schoon,closing,all,three,hamstring,september,naive,twist,peoples,who,at,champion,36,hero,back,he,side,not,me,intend,blink,life,certainly,means,is,contemporary,umpire,his}
+@attribute pos0 {CC,DT,IN,VB,NN,JJ,WRB,VBG,NNS,NNP,MD,NNPS,-LRB-,CD,PRP,VBP,RP,RB,-RRB-,VBZ,WP,PRP$}
+@attribute token1 {the,impoverished,everyone,tested,something,as,fields,to,anyway,much,that,you,and,academicism,who,robson,attack,remember,baseman,1933,of,7,rider,in,what,will,'\'\\\'m\'',i,early,like,perhaps,wo,england,answering,or,fines,a,anniversary,british,drama,current,too,matches,injury,allen,would,irish,yesterday,be,australian,felt,6,for,chapman,injured,seems,essential,only,they,goal,she,not,which,he,looks,cash,when,putting,american}
+@attribute pos1 {DT,VBN,NN,IN,NNS,TO,RB,JJ,PRP,CC,WP,NNP,VB,CD,MD,VBP,VBG,VBD,VBZ,WDT,WRB}
+@attribute token2 {traveller,eye,seems,applications,he,if,i,road,lie,because,she,wo,we,traffic,wendy,but,ever,stayed,who,andrew,how,few,and,pensioners,october,david,30,be,going,must,enough,that,thereby,my,'\'n\\\'t\'',had,for,final,professional,case,will,have,muslims,when,alan,often,regis,looked,mourned,craig,captain,europe,the,bernabeu,defeat,granted,neil,to,after,three,kicking,existing,certain,man,asmussen,a,mark}
+@attribute pos2 {NN,VBZ,NNS,PRP,IN,VB,MD,NNP,CC,RB,VBD,WP,WRB,JJ,CD,VBG,PRP$,NNPS,VBN,DT,TO}
+@attribute token3 {who,will,to,and,'\'\\\'s\'',she,'\'\\\'ll\'',narrowly,awake,it,'\'\\\'ve\'',had,'\'n\\\'t\'',were,dogs,that,after,away,harrison,he,thus,have,-rrb-,wonnacott,tests,really,greatly,be,i,perhaps,overkill,you,not,but,can,anyone,been,shelford,smith,performers,has,may,like,parry,us,also,webb,both,penalties,largely,role,pensioners,pitch,calcavecchia}
+@attribute pos3 {WP,MD,TO,CC,VBZ,PRP,RB,VBP,VBD,NNS,DT,IN,NNP,-RRB-,VB,NN,VBN}
+@attribute token4 {a,relevant,the,out,whose,much,you,being,meals,him,us,something,these,pete,five,england,school,seeing,two,training,he,denise,all,an,old,it,some,in,with,tonight,by,wentworth,bayern,next,three,my,last,anything,as,live,his,four,lunch}
+@attribute pos4 {DT,JJ,RP,VB,PRP,VBG,NNS,NN,NNP,CD,IN,PRP$,RB}
+@attribute token5 {double,and,work,on,were,like,i,killed,weep,scoring,he,what,in,vital,early,point,tests,rare,'\'\\\'s\'',straightforward,to,1989,the,ryder,real,winning,with,tells,jones,of,why,this,screaming,today,actual,target,england,kids,tournament,trick,julie,members,great,penalty,trapeze,a,last,opportunity,chance,cricketers,but,world,golden,munich,week,start,madly,matches,statement,month,four,main,sticks,ninagawa,much,music,moment,booked,strike,cut}
+@attribute pos5 {JJ,CC,NN,IN,VBD,PRP,VBN,WP,NNS,POS,TO,CD,DT,NNP,VBG,VBZ,WRB,RB}
+@attribute token6 {asterisked,useful,of,the,they,those,said,by,miss,area,kissed,was,skyhooks,experiences,hong,if,through,and,0,chance,go,batting,gelding,cup,point,ride,an,me,responsible,fun,you,do,place,leering,score,perhaps,i,but,mummy,as,maximum,jerome,'\'\\\'s\'',want,prior,opportunity,with,in,calf,littlewoods,four,tennis,to,everywhere,workout,three,minutes,just,fills,pinning,match,rides,zone,spent,for}
+@attribute pos6 {JJ,IN,DT,PRP,VBD,VB,NN,NNS,NNP,CC,CD,VBP,RB,POS,TO,VBZ,VBG}
+@attribute token7 {attraction,comparisons,litz,cutting,the,of,softly,a,work,or,her,it,other,could,kong,theory,injury,unexpected,0,from,on,championship,bought,matches,prosperity,inflamed,is,for,thank,jeff,'\'n\\\'t\'',wo,sneering,slapping,'\'\\\'ll\'',i,visit,so,this,points,robbins,address,research,to,two,muscle,cup,games,with,becker,keep,writes,his,match,get,keeper,grand,praying,at,weeks,defeat,but,further,once,in,against,conspiracy,strike,an}
+@attribute pos7 {NN,NNS,NNP,VBG,DT,IN,RB,CC,PRP,JJ,MD,CD,VBD,VBZ,VBN,VB,TO,PRP$}
+@attribute class {obj,subj}
+
+@data

@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {anyway}
+@attribute pos {RB}
+@attribute token0 {the,continued,selling,lot,anyone,is,she,increased,no,a,laughing,null,hard,'\'n\\\'t\'',would,shortage,have,simulator,in,served,going,technophiles,love,was,ahead,immigrants,whose,had,guilty,for,brilliant,most,listen,it,shares,try,worked,but,_,why,not,part,are,day,police,international,maybe,colorado,'\'\\\'s\'',they,manner,decided,do,tax,hack-a-shaq,zone,that,wrong,with,fast,potterf,living,certify,be,about,opening,you,generally,might,to,and,hometown,fish,when,what,little,legal,postseason}
+@attribute pos0 {DT,VBD,VBG,NN,VBZ,PRP,VBN,JJ,null,RB,MD,VBP,IN,NNS,VB,JJS,CC,WRB,NNP,TO,WDT,WP}
+@attribute token1 {government,to,tires,of,point,no,decided,on,medicare,sea,full,matter,null,for,get,'\'n\\\'t\'',demanded,the,his,might,calvary,with,who,house,been,_,true,idea,politicians,in,an,not,they,have,which,you,scheduled,trying,opened,presence,-lrb-,is,going,went,some,exists,whatever,threshold,'\'\\\'s\'',never,all,he,but,seized,would,a,care,are,'\'\\\'ve\'',wear,be,defense,television,just,garner,pretty,requests,had,same,big,probably,i,line,'\'\\\'re\'',options,saturday,winner,installing,pay}
+@attribute pos1 {NN,TO,NNS,IN,DT,VBD,NNP,JJ,null,VB,RB,PRP$,MD,WP,VBN,PRP,WDT,VBG,-LRB-,VBZ,PDT,CC,VBP}
+@attribute token2 {taxes,deride,to,the,hear,is,treatment,eighth,managed,urchin,five,not,null,me,be,consider,a,audience,main,list,want,show,going,are,do,replaying,representation,was,as,that,these,anti-aging,for,did,helped,he,'\'\\\'re\'',release,an,has,should,i,on,were,political,in,cut,next,lost,really,went,have,day,about,we,back,say,so,loved,good,it,financial,absurdly,would,series,felt,little,opportune,matter,murky,season,never,go,been,required,talking,bowser,nights,totally,child}
+@attribute pos2 {NNS,VB,TO,DT,VBZ,NN,NNP,VBD,CD,RB,null,PRP,JJ,VBG,VBP,IN,VBN,MD}
+@attribute token3 {them,him,ford,time,you,moot,available,shoot,avenue,care,have,years,usually,null,but,message,doing,installation,returning,while,screamed,purpose,one,'\'\\\'em\'',anywhere,coming,demonstration,driving,it,directly,yet,this,corrupt,stuff,guys,split,intervention,long,commands,there,play,game,girls,investigation,grown,'\'n\\\'t\'',think,fire,try,afghanistan,emotional,squalls,washington,rates,want,regard,season,weight,worked,ahead,say,opportunity,given,off,that,going,then,far,go,life,statements,counterproductive,proceed,mostly,postponed,closer,publicity,drug,me,crew,discarded,what,times,effect,use,captain,in,moment,accomplished,and,about,said,different,theoretically,cameras,support}
+@attribute pos3 {PRP,NNP,NN,JJ,VB,VBP,NNS,RB,null,CC,VBG,VBD,CD,DT,VBZ,VBN,RBR,WP,EX,IN}
+@attribute token4 {and,null,-rrb-,because,frantically,said,but,he,it,by,winter,though,at,_,those,the,is,thinking,just,provincetown,i,would,kids,in,liman,she,williams,their,staci,blair,as,what,there,dennis,jackson,that,when,to,leading,everything,this,bush,raindrops,they,we,since,after,outside,you,for,'\'o\\\'neal\'',were,sometimes,thank,so}
+@attribute pos4 {CC,null,-RRB-,IN,RB,VBD,PRP,NNP,DT,VBZ,SYM,VBG,MD,NNS,NN,PRP$,WP,EX,WRB,TO,VB}
+@attribute token5 {the,null,what,even,calling,times,ursula,a,would,was,matthew,passing,said,had,because,has,least,it,almost,his,whose,reasoning,this,probably,they,24,loves,always,entrees,restore,are,can,told,first,1999,for,presents,friday,extraordinary,orender,who,is,evidence,difference,may,suggests,brezhnev,other,that,one-hour,challenge,'\'\\\'ve\'',sec,more,of,sept.,those,take,just,get,baseball,keep,included,you,proved}
+@attribute pos5 {DT,null,WP,RB,VBG,NNP,MD,VBD,IN,VBZ,JJS,PRP,PRP$,WP$,NN,CD,NNS,VB,VBP,JJ,JJR,VBN}
+@attribute token6 {state-run,null,are,if,rental,square,geiger,dallas-area,'\'n\\\'t\'',a,l.,the,allowed,lawsuit,soundbug,all,derek,also,holed,hers,natural,goes,something,about,have,years,controversy,_,him,free,be,me,day,your,most,will,personal,just,now,mounted,does,since,they,that,'\'\\\'s\'',began,causes,writer,matters,commercial,new,indiscriminate,got,said,financially,'\'\\\'re\'',beknazarov,11,companies,study,in,with,here,never,fall,ken,chain}
+@attribute pos6 {JJ,null,VBP,IN,NNP,RB,DT,VBN,NN,PDT,VBD,NNS,VBZ,PRP,VB,PRP$,JJS,MD,CD}
+@attribute token7 {school,null,hollywood,they,companies,is,a,computer,leave,great,myers,landmark,robert,did,represents,the,anderson,grants,out,or,quotidian,we,one-third,little,old,_,pork,to,cruel,thanks,this,austin-san,own,of,sign,courage,sophomore,loves,far,that,it,no,all,play,allowing,he,in,for,needed,single,if,policy,time,ball,moved,having,entangled,'\'\\\'s\'',and,rarely,others,look,case,first,another,any,peace,three,off,caminiti,'\'n\\\'t\'',long,closed}
+@attribute pos7 {NN,null,NNP,PRP,NNS,VBZ,DT,VB,JJ,VBD,RP,CC,TO,IN,RB,PDT,VBP,VBG,VBN,POS,CD}
+@attribute class {obj,subj}
+
+@data

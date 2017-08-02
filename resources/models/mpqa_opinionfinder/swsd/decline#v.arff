@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {declined,declines,declining,decline}
+@attribute pos {VBD,VBZ,VBG,VBP,VBN,VB}
+@attribute token0 {gone,attendants,null,stock,this,the,buying,hopkins,special,taiwan,department,criticisms,citing,news,defense,increased,president,rejection,of,had,for,experiments,who,jan.,chretien,corp.,and,much,case,court,a,made,20,its,only,commission,should,earlier,paul,right,profit,judges,it,but,said,meaning,dow,about,percent,that,gaeta,gmt,took,-lrb-,week,united,weather,family,exploded,following,in,rajoub,symbols,guest,patient,them,executives,major,would-be,from,melbourne,m.,reached,have,dlrs,'\'\\\'s\''}
+@attribute pos0 {VBN,NNS,null,NN,DT,VBG,NNP,JJ,IN,VBD,WP,CC,RB,CD,PRP$,MD,RBR,VBP,PRP,-LRB-,VB,POS}
+@attribute token1 {with,at,null,market,official,number,bird,tinsley,in,operations,'\'\\\'s\'',spokesman,issues,were,hospital,dow,secretary,firm,profits,bob,the,households,just,example,on,like,25,appearing,reported,shares,lower,against,single,many,no,percent,stock,last,other,spokeswoman,that,but,sources,saints,attitude,residential,condominiums,alcatel,when,angelo,a,though,his,one,and,their,jones,6.9,while,prime,teen,-rrb-,her,electricity,man,point,he,clothed,after,said,long-standing,major,future,have,worker,an,tobin,dell,social,suitor,court,cuomo,control,11.62,news,lawyer}
+@attribute pos1 {IN,null,NN,NNP,NNS,POS,VBD,DT,RB,CD,VBG,JJR,JJ,CC,WRB,PRP$,-RRB-,PRP,VBN,VBP}
+@attribute token2 {the,null,who,of,'\'\\\'s\'',but,chicago,soldier,platt,china,alvin,that,thoughtful,policy,industrial,donald,paul,in,baker,stock,by,viewed,federal,your,internees,other,fleischer,with,immigration,holzer,hideaki,year,dollars,comment,price,thursday,people,amelia,request,midland,when,have,internet,self-incrimination,and,share,provenzano,pricewaterhouse,popularity,man,united,military,numbers,million,lucent,pregnancies,moses,_,similar,health,holding,whom,after,said,-rrb-,continental,meyocks,taxes,marbella,practice,dispute,fox,years,influence,all,program,dfcs,agency,incident,insurance,wrote,needs,supreme,u.s.,australian,her,national,conference,charlie}
+@attribute pos2 {DT,null,WP,IN,POS,CC,NNP,NN,WDT,JJ,VBN,PRP$,NNS,WRB,VBP,CD,VBG,VBD,-RRB-}
+@attribute token3 {wind,airline,wheat,court,nikkei,always,chinese,steeply,dunn,also,who,flatly,policy,tam,management,but,in,at&t,rumsfeld,marrone,a,both,price,gallagher,income,commission,chances,she,republicans,had,bush,profits,mirant,rates,prosecutors,wada,of,he,households,has,torres,after,be,officials,scott,'\'n\\\'t\'',customers,and,co-ops,lucent,prices,politely,spokesman,agency,wellington,technologies,are,null,average,lufthansa,barely,urquhart,tack,generally,enersis,barwick,kresser,city,_,to,indexes,boucher,executives,sharply,police,nations,spokeswoman,miller,i,jobs,team,authorities,malcolm,attorney,debt,imclone,hochbaum}
+@attribute pos3 {NNP,NN,RB,WP,CC,IN,DT,NNS,PRP,NNPS,VBD,VBZ,VB,VBP,null,TO}
+@attribute token4 {to,the,while,as,in,numbers,comment,65,economy,sharply,slightly,like,further,60,28,by,profits,40,but,0.3,an,dlrs,at,issues,117.05,3,she,0.6,and,about,throughout,null,requests,tax,more,52}
+@attribute pos4 {TO,DT,IN,NNS,NN,CD,RB,JJ,CC,PRP,null,JJR}
+@attribute token5 {say,offer,soybeans,hear,an,be,the,several,name,null,discuss,comment,have,cents,criticize,was,to,describe,carbon-dating,give,detail,back,percent,6,ahead,10.7,talk,201,committee,release,official,not,testify,3,make,added,and,peruvians,3.05,a,outnumbered,points,well,provide,identify,sign,carry,appeared,estimate,800,rule,elaborate,his,number,reveal,base,review,award,post,debt}
+@attribute pos5 {VB,NN,NNS,DT,JJ,null,VBD,TO,CD,RB,VBN,CC,PRP$}
+@attribute token6 {saturday,null,finished,an,overnight,named,city,other,them,identified,his,on,to,the,endangering,27.7,wednesday,unless,from,percent,of,details,how,this,about,but,during,as,whether,said,many,last,for,executives,wild,kpmg,express,or,rate,advancers,current,-lrb-,any,admitted,was,out,a,next,further,session,specifics,popularity,precisely,-rrb-,if,be,and,fell,at,he,reduction,news}
+@attribute pos6 {NNP,null,VBD,DT,JJ,VBN,NN,PRP,PRP$,IN,TO,VBG,CD,NNS,WRB,CC,VBP,-LRB-,RP,RB,-RRB-,VB}
+@attribute token7 {whether,null,mixed,appeal,sell-off,has,and,groups,said,experience,the,were,further,name,dlrs,operation,specifics,price,percent,graphic,opposing,nature,demand,january,7.97,an,as,many,two,from,year,noted,2000,a,records,any,loria,people,quarter,available,card,fugitive,officials,gustaf,frustration,4.4,of,5,1.1,rate-cutting,mckenna,wu,his,details,to,81,not,letter,late,large,'\'\\\'s\'',april,military,on,days,men,why,much,interviewed,government,apart,penalty,started,is,conference}
+@attribute pos7 {IN,null,JJ,NN,VBZ,CC,NNS,VBD,DT,RBR,VBG,NNP,CD,PRP$,TO,RB,POS,WRB,VBN,VB}
+@attribute class {obj,subj}
+
+@data

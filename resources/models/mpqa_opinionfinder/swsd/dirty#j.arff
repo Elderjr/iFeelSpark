@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {dirty}
+@attribute pos {JJ}
+@attribute token0 {to,locations,is,officials,hard,with,those,off,of,plot,behind,ring,the,suspected,bomb,_,room,after,fascism,detained,null,description,smoke,but,adoration,terrorists,radiation,building,has,radiological,looking,al-qaida,could,yard,be,ca,soon,destiny,terrorist,that,unrelenting,announcement,around,need,mushroom,in,winter,both,were,detonate,without,states,health,world,turned,network,economic,a,particular,israel,mind,padilla,arafat,tyson,was,had,made,shed,jose,perez,when,miles,years,useless,dress,men,ivory,agencies,mother,blaine,i,shaanxi,pretty,noted,at,it}
+@attribute pos0 {TO,NNS,VBZ,JJ,IN,DT,RP,NN,VBN,null,VB,CC,NNP,VBG,MD,RB,VBD,NNPS,WRB,PRP}
+@attribute token1 {whether,for,one,said,to,stiff,responsible,the,his,a,it,polyester,of,sometime,known,detonate,in,being,this,during,null,that,certainly,could,by,been,dispersion,at,scout,set,called,'\'n\\\'t\'',begin,has,plans,tenure,life,regarding,calling,nuclear,cloud,german,landed,would,get,psychological,two,wallowing,blow,with,built,effects,mean-spirited,issue,radiation,case,is,weapon,however,'\'\\\'s\'',screaming,threatened,blast,watch,light,carpet,padilla,washing,downwind,never,against,shirt,who,getting,use,warned,device,because,amendments,think,province,we,when,harvard}
+@attribute pos1 {IN,CD,VBD,TO,JJ,DT,PRP$,PRP,NN,RB,VBN,VB,VBG,null,MD,WDT,VBZ,NNS,NNP,POS,WP,VBP,WRB}
+@attribute token2 {the,a,of,padilla,see,penalties,for,pressure,checks,deploy,car,is,curtains,preparing,called,as,its,attracted,nazism,null,comets,color,was,it,detonating,dirty,termed,device,information,off,had,_,in,stop,falling,played,to,uniforms,were,each,build,instead,reference,greasy,if,trains,jobs,create,his,and,questions,radiological,up,explode,weapon,waging,that,detonate,described,tactics,quick,they,out,on,'\'\\\'s\'',stories,did,from,do,their,are,using,portugal,university,not}
+@attribute pos2 {DT,IN,NNP,VB,NNS,NN,VBZ,VBG,VBN,PRP$,null,VBD,PRP,JJ,RP,TO,RB,CC,POS,VBP}
+@attribute token3 {term,possible,the,'\'\\\'s\'',and,for,are,a,in,political,radioactive,cramped,to,this,never-acknowledged,as,of,before,is,bomb,or,concerning,bad,alleged,if,using,like,use,so-called,other,hair,were,radiological,fingernails,economic,about,not,turn,took,detonate,dark,government,really,most,hands,play,things,plays,null}
+@attribute pos3 {NN,JJ,DT,POS,CC,IN,VBP,TO,RB,VBZ,VBG,NNP,VB,VBD,NNS,VBN,RBS,null}
+@attribute token4 {bomb,little,because,play,war,ground,they,air,funny,dishes,cells,camps,work,snowballs,water,old,said,bombs,looking,words,snowflakes,trick,nuclear,and,white,rotten,energy,japs,dancers,to,laundry,bomber,null,radioactive,immoral,as,way,factory,tricks,try,rampart,sweat,thing,pile,the,when,tiring,word}
+@attribute pos4 {NN,JJ,IN,PRP,NNS,VBD,VBG,CC,TO,null,VB,NNP,DT,WRB}
+@attribute token5 {was,explosion,secrets,plot,they,he,stayed,water,'\'\\\'re\'',an,null,in,attack,uses,_,for,and,against,fought,probably,rises,times,gregori,earlier,of,are,said,on,a,the,suspect,middle-aged,bombs,mismatched,garbage,blankety-blank-blanks,that,were,who,such,achieve,one,got,into,what,device,exploded,two,is,somewhere,operation,to,from,would,torture,loosening,anti-gang,will,i,or,instead,golden,bolstering,might,secret,ear-piercing,had,then,at,combine}
+@attribute pos5 {VBD,NN,NNS,PRP,VBP,DT,null,IN,VBZ,CC,VBN,RB,NNP,RBR,JJ,WDT,WP,VB,CD,TO,MD,VBG}
+@attribute token6 {fright-inducing,for,that,was,were,may,away,can,all,explosive,null,the,on,conventional,inside,in,our,by,would,over,square,of,this,explosives,'\'n\\\'t\'',army,with,vine,jose,dope,us,against,no,truck,caught,i,creates,available,also,adjective,toilets,to,not,provided,bombs,his,american,will,training,an,is,worrying,have,increase,moscow,amount,tend,and,cops,a,defending,bowl,be,blamed,from,'\'\\\'re\'',hard,just,mugs,cause,traditional}
+@attribute pos6 {JJ,IN,WDT,VBD,MD,RB,DT,null,PDT,PRP$,NNP,NNS,NN,PRP,VBZ,TO,VBP,VB,CC,VBG,VBN}
+@attribute token7 {enough,al-qaida,is,only,burning,well,from,seep,clean,device,null,sink,the,explosives,united,turn,people,mexico,not,expensive,was,month,attached,that,lt.,internet,radioactive,bomb,never,padilla,peddlers,americans,friend,weapons,driving,her,worry,deadly,around,known,has,flushed,be,on,would,ends,mass,are,soil,no,and,atta-like,radiation,this,two,palestinians,a,weak,washington,which,in,american,fuel,toilets,but,to,explosive,murder,dirt,pakistan,rather,nuclear,our,revolves,reputation,placed,for,lung-burning,way,gotten,'\'1,000\'',an,she}
+@attribute pos7 {JJ,NNP,VBZ,RB,VBG,IN,VB,NN,null,DT,NNS,VBD,VBN,NNPS,PRP$,VBP,MD,CC,CD,WDT,TO,PRP}
+@attribute class {obj,subj}
+
+@data

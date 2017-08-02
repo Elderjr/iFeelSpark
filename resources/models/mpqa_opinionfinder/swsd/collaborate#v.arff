@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {collaborate,collaborating,collaborated}
+@attribute pos {VB,VBG,VBP,VBD,VBN}
+@attribute token0 {commission,suggestions,telephone,further,pursuit,leyland,he,machines,how,brici,european,that,and,is,i,the,found,to,jane,not,require,milan,1950,so,therefore,maintain,its,true,attacking,attempts,mission,time,confidence,ellis,individual,cordiality,parties,able,her,as,do,an,hoffmann-la,speaker,after,at,looking,approach,tmos,business,five,later,in,their,'\'\\\'s\'',they,11,operational,stamp,unlike,also,letter,induce,if}
+@attribute pos0 {NN,NNS,RBR,NNP,PRP,NNPS,WRB,JJ,IN,CC,VBZ,DT,VBD,TO,RB,VB,CD,PRP$,VBG,POS}
+@attribute token1 {had,that,firms,trainers,of,announced,corp.,best,both,car,the,regional,when,was,pair,composers,you,been,their,anglo-american,we,they,pray,leftist,pacifists,predators,to,french,he,if,businesses,or,sell,hereto,neo-dadaist,and,it,accomplice,local,roche,interactions,all,its,home,for,japan,years,cray,staff,enterprises,people,contribute,suggested,is,particular,designs,aircraft,talk,million,requirements,but,therefore,jonathan,two,soviet,hypocrisy}
+@attribute pos1 {VBD,IN,NNS,NNP,JJS,DT,NN,JJ,WRB,PRP,VBN,PRP$,VB,TO,CC,VBP,VBZ,CD,RB}
+@attribute token2 {refused,boeing,prefer,who,spring,proposals,and,which,they,parties,manufacturers,project,authorities,older,invited,plan,hermitage,must,doctors,chance,agreement,decided,will,is,one,tenets,was,merge,government-controlled,lima,communicate,he,could,willingness,technology,desire,artist,discuss,we,whether,than,inc.,both,british,wished,opportunities,ago,continue,agreements,seeking,to,that,keen,the,preferring,firms,unless,failure,wo,need,silvers,companies,intent,citizens,continued,while,peasantry}
+@attribute pos2 {VBN,NNP,VBP,WP,NNS,CC,WDT,PRP,NN,JJR,MD,VBD,VBZ,CD,VB,JJ,IN,DT,VBG,TO}
+@attribute token3 {to,might,will,then,is,can,should,people,arrangers,always,happily,could,by,may,or,thomson-csf,and,would,still,not,has,now,are,participants,actively,he,also,we,individuals,simultaneously,you,'\'n\\\'t\'',who,vichy}
+@attribute pos3 {TO,MD,RB,VBZ,NNS,IN,CC,NNP,VBP,PRP,WP}
+@attribute token4 {with,rather,more,on,or,as,in,the,and,to,if,closely,hellip,over,about,wholeheartedly,for}
+@attribute pos4 {IN,RB,RBR,CC,DT,RP,TO,VBP}
+@attribute token5 {the,than,closely,a,honda,them,toshiba,merge,existing,local,fellow,interpretations,improved,like-minded,result,their,leading,missile,instead,manufacturing,god,war,kill,renault,drawing,others,pepe,that,security,its,each,several,to,her,not,one,author,gene,recipient,an,academics,customers,convert,with,counterparts,in,other,more,computer,superconductor,research,rules,pairs,mr.,develop,five,kaledin}
+@attribute pos5 {DT,IN,RB,NNP,PRP,VB,VBG,JJ,NNS,VBN,NN,PRP$,TO,CD,JJR}
+@attribute token6 {secretariat,japanese,compete,with,fiction,in,great,on,wide,series,this,service-providers,people,students,new,of,main,security,was,deaths,composers,technology,efficient,it,murder,right-wing,preparations,snakes,and,british,up,distinguished,is,gozzi,matters,development,other,pasok,feel,wardrobe,one,but,hunters,design,skybolt,work,increasingly,innovations,or,from,the,to,youths,all,suppliers,erection,artist,foreigners,documents,research,atomic,hoffman,electronic,alternative,years,delivery,germans,party}
+@attribute pos6 {NNP,NNPS,VB,IN,NN,JJ,DT,NNS,VBD,PRP,CC,RP,VBZ,CD,RB,TO}
+@attribute token7 {for,on,in,workers,that,1979,things,computer,range,of,process,or,age,julian,design,unesco,all,the,and,me,survival,is,plot,not,as,certain,missile,a,painter,severely,what,while,leader,them,part,nicole,at,to,by,development,strong,transfer,music,optimise,engineering,compete,eastern,often,my,users,null,other,field,another,unvarying,superhighways,during}
+@attribute pos7 {IN,NNS,WDT,CD,NN,CC,NNP,DT,PRP,VBZ,RB,JJ,WP,TO,VB,PRP$,null}
+@attribute class {obj,subj}
+
+@data

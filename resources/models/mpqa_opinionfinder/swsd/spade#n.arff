@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {spade,spades}
+@attribute pos {NN,NNS,VBP,NNP,NNPS}
+@attribute token0 {wade,-rrb-,if,hand,er,harvesting,work,and,i,of,at,the,played,same,christina,he,2,from,'\'\\\'s\'',five,swimming,low-angle,archaeologist,essential,ground,be,worms,'\'\\\'ll\'',together,19,just,but,workable,for,were,masterman,with,was,trees,deliberation,to,motorhead,a,learn,ca,everyone,so,hearts,obliged,mucking,graft,is,picture,white,went,it,edge,exited,right,had,barns,must,been,who,ditches,certainly,'\'\\\'ve\'',out,an,neglected}
+@attribute pos0 {VB,-RRB-,IN,NN,SYM,VBG,CC,PRP,DT,VBD,JJ,NNP,CD,POS,NNS,MD,RB,TO,VBP,NNPS,VBN,VBZ,WP,RP}
+@attribute token1 {across,drive,he,or,the,easier,that,then,buy,a,it,nest,strictures,onassis,could,more,'\'\\\'s\'',costumes,chops,should,discarded,man-made,off,edged,go,with,-rrb-,would,need,sometimes,made,from,put,come,metal,to,'\'n\\\'t\'',make,kind,gets,roger,armed,before,bid,and,get,out,like,quite,hole,right,shape,lawn,are,workmates,down,over,hand,called,eagle,new,i,hold,attacked,were,have,brought,width,your,excavator,red}
+@attribute pos1 {RP,NNP,PRP,CC,DT,JJR,RB,VBP,NN,NNS,MD,POS,VBN,JJ,IN,VB,-RRB-,VBD,TO,VBZ,PRP$}
+@attribute token2 {bucket,in,'\'\\\'d\'',using,jack,and,out,used,a,dictionary,with,10,apply,suffered,see,rounds,ace,queen,needed,buckets,sink,tools,well,gardener,for,call,archaeologist,the,spit,prominent,aces,flat,down,as,get,tricks,beats,it,really,daltrey,lifting,of,two,took,play,how,number,battered,blacks,norfolk,his,was,him,scythes,slam,precisely,dug,that,you,ordinary,king,not,excluded}
+@attribute pos2 {NN,IN,MD,VBG,CC,RP,VBD,DT,JJ,CD,VBP,VB,NNS,NNP,VBN,VBZ,PRP,RB,WRB,NNPS,PRP$}
+@attribute token3 {and,the,said,buckets,of,iron-shod,cos,a,little,three,in,his,like,'\'\\\'s\'',sturdy,big,smallest,-lrb-,than,wooden,meadow,my,are,two,call,with,sharp,long,hefty,many,bucket,four,last,2,sharpened,garden}
+@attribute pos3 {CC,DT,VBD,NNS,IN,JJ,CD,PRP$,POS,JJS,-LRB-,NN,VBP,VB}
+@attribute token4 {in,again,bitch,or,the,allowed,int,to,i,null,levered,it,this,and,still,trumping,instead,but,martin,unbears,come,for,a,reveals,is,'\'\\\'s\'',hearts,he,hit,on,net,take,weak,from,has,with,can,toy,you,women,if,down,containing,one,have,then}
+@attribute pos4 {IN,RB,NN,CC,DT,VBD,TO,PRP,null,VBG,NNP,VBZ,VBN,POS,NNS,VB,JJ,MD,RP,CD,VBP}
+@attribute token5 {hand,about,null,moulds,king,drainage,the,force,can,at,took,trick,unix,there,stuck,in,second,a,of,rather,bottle,kettles,has,on,lots,back,spade,more,length,plant,and,compress,which,instruction,held,something,hearts,director,go,dug,keep,bicycle-type,then,you,boat,spotted,hurling,have,are,not,lift,he,archaeology,hard,afternoon,ploughs,fork,got}
+@attribute pos5 {NN,IN,null,NNS,DT,VB,MD,VBD,NNP,EX,VBN,JJ,RB,VBZ,RBR,CC,WDT,NNPS,PRP,VBG,VBP}
+@attribute token6 {null,2-3,of,ditches,ground,open,make,it,courage,went,an,is,in,dummy,problem,picnic,a,that,from,got,half,robert,back,interesting,same,-rrb-,new,diamonds,and,god,provided,solid,the,snare,length,north,with,chobbing,slightly,handlebars,reach,spot,ghetto,on,her,their,skirts,surprisingly,had,weapons,jack,noxious,drawn,seeds,1,opponent,first}
+@attribute pos6 {null,CD,IN,NNS,NN,JJ,VB,PRP,VBD,DT,VBZ,VBN,NNP,RB,-RRB-,CC,VBP,VBG,PRP$}
+@attribute token7 {null,inches,hearts,to,digs,a,my,with,jack,environment,something,the,has,lunch,shovel,it,sun,that,moon,you,energy,sufferers,and,color,deep,strategic,but,seal,is,took,altman,ten,aid,ready,of,bids,them,hole,rounded,further,blaster,toys,jaws,janets,other,held,rome,new,gas,picked,by,in,own,nearly}
+@attribute pos7 {null,NNS,TO,VBZ,DT,PRP$,IN,NNP,NN,PRP,CC,RB,JJ,VB,VBD,CD,RBR,NNPS,VBN}
+@attribute class {obj,subj}
+
+@data

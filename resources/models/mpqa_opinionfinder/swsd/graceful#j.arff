@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {graceful}
+@attribute pos {JJ}
+@attribute token0 {and,which,a,varieties,the,shere,almost,stretched,his,kilos,their,know,sure,formal,it,is,she,house,christian,ease,movement,outstanding,feet,they,black,all,do,once,sensible,gondola,counts,by,you,he,blue-eyed,hookboots,design,home,roman,simply,baggesons,otherwise,century,mon,suburbs,that,german,veil,to,are,was,most,personal,today,just,strokes,will,lovely,products,full-length,local,i}
+@attribute pos0 {CC,WDT,DT,NNS,NNP,RB,VBD,PRP$,VBP,JJ,PRP,VBZ,NN,IN,VB,NNPS,FW,TO,JJS,MD}
+@attribute token1 {topped,always,emotionally,strategy,which,style,haunting,certainly,as,forms,chest,and,tall,all,french,story-book,was,mentioned,setting,hands,community,of,light,machine,tapering,so,if,arm,again,are,rowing-boats,the,public,how,have,shoes,postures,feel,looking,skills,top,can,nodded,blonde,buildings,flight,circus,another,gold,silent,sense,booking,cobra,palace,coeur,now,for,pelicans,rest,staying,emphasis,incredibly,distinctive,attendants,make,were,suddenly,reproductions,curtains,girl,sat}
+@attribute pos1 {VBN,RB,NN,WDT,VBG,IN,NNS,CC,JJ,DT,VBD,VBP,WRB,VB,NNP,MD,FW}
+@attribute token2 {by,looks,-rrb-,for,include,erupts,music,turn,sleek,were,tracing,felt,masts,slow,quiet,sentences,world,a,in,always,remains,sun,like,is,great,does,sports,to,elegant,not,into,the,way,rooms,postures,been,on,continuously,slim,oarsman,italy,wander,possessed,turns,that,was,here,there,instance,flight,and,form,enhanced,skirting,tall,tender,with,one,lovely,feature,are,most,out,have,long-fingered,of,look,honored}
+@attribute pos2 {IN,VBZ,-RRB-,VBP,NN,VB,JJ,VBD,VBG,NNS,DT,RB,TO,VBN,NNP,WDT,CC,CD,RBS,RP}
+@attribute token3 {a,beautiful,so,the,into,and,to,simple,as,of,curiously,very,some,completely,one,most,by,are,in,be,her,'\'\\\'s\'',were,amid,extraordinarily,classically,delightfully,more,intuition,delicate,last,on,is,elegant,long,fine-textured,its,rich,with}
+@attribute pos3 {DT,JJ,RB,IN,CC,TO,CD,JJS,VBP,VB,PRP,POS,VBD,RBR,NN,VBZ,PRP$}
+@attribute token4 {vault,however,with,exit,boston,regency,flowing,degradation,as,unembellished,line,rigging,like,gratitude,minarets,open,and,powerful,unhurried,physical,palais,curves,setting,in,athlete,curve,almost,of,standing,lime,fresh,slow,feet,double-handed,inventive,patrician,easy,manners,cartwheel,null,red-roofed,shrub,than,she,palumbo,animal,moorish,polyphony,slopes,youth,even,flying,inward,wave,home,venetian,creature,dipping,hons,figure,polished,windows,lines,simplicity,room}
+@attribute pos4 {NN,RB,IN,NNP,VBG,JJ,NNS,CC,null,PRP,VBN}
+@attribute token5 {with,much,each,and,fern,movements,it,one,by,of,a,moving,null,an,the,moment,percipient,calm,elegant,body,conjurer,once,strength,glide,but,especially,that,balletic,birds,posture,trees,motion,she,illuminated,you,sweeps,passionate,like,houses,movement,to,pleasing,villa,both,retaining,arctic,was,architecture,beside,ethereal,as,rather,style,flight,who,serene,or,their,fill,generally,looking}
+@attribute pos5 {IN,RB,DT,CC,NN,NNS,PRP,CD,VBG,null,JJ,VBP,VBN,TO,NNP,VBD,WP,PRP$}
+@attribute token6 {ample,you,other,more,and,canopies,capture,is,of,anything,her,rhinoceros,lazily,null,owl,mysterious,in,foreword,now,with,to,magnificent,the,along,it,designed,he,black,movement,that,elegant,would,trees,trams,do,was,defensively-minded,a,delightfully,rory,bring,whose,color,skua,so,appears,le,montenotte,ockleton,-rrb-,swimming,than,an,often,ensure,mrs,joy,what,mundane,souvenir,room-enhancing,angels,at}
+@attribute pos6 {JJ,PRP,RBR,CC,NNS,VB,VBZ,IN,NN,PRP$,RB,null,TO,DT,VBN,WDT,MD,VBP,VBD,NNP,WP$,-RRB-,WP}
+@attribute token7 {skylights,cut,-lrb-,important,feathery,and,the,not,his,save,arms,as,null,kasbah,a,by,show,bishop,pacific,'\'\\\'s\'',head,medau,played,swan,is,provides,each,probably,bordering,them,once,but,shepherd,styled,swung,be,their,tennis,well,20-22,graceful,always,hotel,rossignol,on,in,adds,her,last,aura,stooping,that,cities,wright,to,will,task,stalls,mrs}
+@attribute pos7 {NNS,VBP,-LRB-,JJ,NN,CC,DT,RB,PRP$,IN,null,NNP,VB,VBZ,VBD,VBG,PRP,VBN,CD,TO,MD}
+@attribute class {obj,subj}
+
+@data

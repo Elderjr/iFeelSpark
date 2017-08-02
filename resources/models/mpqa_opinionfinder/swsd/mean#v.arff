@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {means,mean,meant}
+@attribute pos {VBZ,VBP,VBD,VB,NN,VBN,JJ}
+@attribute token0 {chronic,on,in,to,was,but,that,it,audition,life,rita,brutal,term,risks,what,of,the,loyalists,state,and,if,you,cases,epitaph,he,importing,judging,she,sporting,pocket,call,once,daddy,i,'\'n\\\'t\'',still,needs,support,a,metty,her,dyer,show,can,great,at,sense,teaching,even,idiom,do,him,working,departments,leans,is,sort,overcrowded,for,an,their,90,entire,as,miscalculation,itself,never,abandoned,pavements,compartmentalisation,-rrb-,famous,are,buckley,constable,doran,mine,thomas,reliable,me,balance,job,jeff,null,said,going}
+@attribute pos0 {NN,IN,TO,VBD,CC,DT,PRP,NNP,JJ,NNS,WP,VBG,VB,RB,MD,VBP,VBZ,PRP$,CD,VBN,-RRB-,null}
+@attribute token1 {nature,call,practical,this,what,which,'\'\\\'s\'',up,is,avoid,i,truth,of,by,opportunities,next,were,state,stronger,see,no,wrote,them,the,peggy,said,venues,ordered,like,replied,knock,associated,with,in,it,picture,strength,-lrb-,would,and,we,know,be,set,that,graham,jenny,but,'\'n\\\'t\'',more,or,towards,finals,pity,profession,different,audition,career,per,island,catholic,work,he,you,opinion,repeat,finnish,her,bounced,perkins,well,lord,happening,then,here,jeff,these,for}
+@attribute pos1 {NN,JJ,DT,WP,WDT,VBZ,RP,VB,PRP,IN,NNS,VBD,NNP,JJR,VBP,VBN,-LRB-,MD,CC,RB,RBR,PRP$,VBG}
+@attribute token2 {of,facility,terms,thought,the,could,what,going,deceit,think,do,improvisation,productions,which,expected,there,challenge,myth,separate,does,doubt,it,from,same,lord,asked,all,this,her,police,did,-lrb-,yourself,with,you,represents,is,appear,may,made,pieces,door,must,who,are,societies,wagner,now,company,as,schedule,people,yes,a.r.,sensible,cent,nationalists,child,wrote,if,like,said,pub,why,function,detective,sure,cheeks,out,france,stiffly,heptonstall,outside,oh,publishing,days,good}
+@attribute pos2 {IN,NN,NNS,DT,MD,WP,VBG,VBP,WDT,VBN,RB,JJ,VBZ,PRP,NNP,VBD,PRP$,-LRB-,VB,WRB,RP,UH}
+@attribute token3 {aids,this,i,words,well,'\'d\\\'you\'',to,she,you,can,may,is,they,not,that,want,england,pattern,could,departure,'\'n\\\'t\'',home,or,name,be,he,sabina,which,we,paddy,profession,usually,it,catholic,would,concession,more,interiors,holidays,will}
+@attribute pos3 {NNP,DT,PRP,NNS,RB,VBZ,TO,MD,IN,VB,NN,CC,WDT,VBP,RBR}
+@attribute token4 {that,you,by,and,back,some,to,like,having,being,i,sugar,the,here,they,a,truer,he,everything,well,either,was,in,there,yes,it,anything,buildings,an,half,something,different,so,ye,said,paddy,now,agents,sight,radio,containing,very,meaning,standing,real,more,repetitive,do,arabella,she,belgium,tests,mrs,nanny,round,how,david,all,if}
+@attribute pos4 {IN,PRP,CC,RB,DT,TO,VBG,NNP,VB,NN,VBD,EX,NNS,JJ,JJR,VBP,WRB}
+@attribute token5 {people,can,although,a,again,his,it,careful,learn,tangle,that,the,at,unafraid,had,and,most,what,themselves,separation,said,where,are,work,expect,for,they,your,was,just,'\'\\\'s\'',i,not,use,often,you,family,eastern,be,secure,caste,more,think,unbearable,things,much,end,characterise,sympathise,there,'\'\\\'m\'',deny,davie,pat,free,students,reading,drama,does,its,within,couples,little,wrote,wholeness,ban,choice,text,must,'\'n\\\'t\'',buckley,'\'\\\'ve\'',girl,killed,of,doran,'\'\\\'re\'',leaving,uses,her,is,stammered,asked,reduced,this,us,when}
+@attribute pos5 {NNS,MD,IN,DT,RB,PRP$,PRP,JJ,VB,VBD,CC,JJS,WP,NN,WRB,VBP,VBZ,JJR,EX,NNP,VBG,VBN}
+@attribute token6 {'\'\\\'s\'',get,letter,picture,they,fictions,up,thinking,for,my,working,guts,least,of,no,spice,exciting,has,had,between,does,to,substitute,the,it,used,caterer,her,will,pocket,only,after,like,i,people,words,those,can,members,critic,pleasure,american,-rrb-,than,time,that,lightness,british,and,amusingly,a,with,is,just,ye,good,nodded,have,press,most,some,find,asked,then,wo,classes,students,'\'n\\\'t\'',moral,their,who,order,he,novel,salvation,abandoning,in,need,be,you,said,hardly,was,him,small,course,mrs,all,lots,window,what,flustered,workload,personally,being,rude,patronizing,not,moving}
+@attribute pos6 {POS,VB,NN,PRP,NNS,RP,IN,PRP$,VBG,JJS,DT,NNP,JJ,VBZ,VBD,TO,VBN,MD,RB,-RRB-,CC,VBP,WP}
+@attribute token7 {needs,professional,writing,a,were,will,what,show,and,it,eyes,class,to,three,going,idea,for,moment,generally,no,conscience,true,me,arts,is,more,who,mr,'\'\\\'s\'',become,i,one,that,know,-rrb-,like,decide,may,looks,interests,these,time,of,reader,are,all,hero,boring,mistress,being,get,tell,ye,usually,which,fourteen,have,'\'n\\\'t\'',another,helped,state,the,had,indeed,if,wrote,has,redemption,off,customers,tourism,not,well,met,she,man,but,yardley,stiffly,hypocrites,could,do,there,set,my,said,put,saying}
+@attribute pos7 {NNS,JJ,VBG,DT,VBD,MD,WP,NNP,CC,PRP,NN,TO,CD,IN,RB,VBZ,RBR,VB,VBP,-RRB-,WDT,RP,VBN,PRP$}
+@attribute class {obj,subj}
+
+@data

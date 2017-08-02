@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {fatigue,fatigues}
+@attribute pos {NN,NNS,NNP}
+@attribute token0 {traced,includes,are,much,officers,result,german,the,aircraft,revealed,which,assurance,full,a,were,windmill,meola,as}
+@attribute pos0 {VBD,VBZ,VBP,RB,NNS,NN,JJ,DT,WDT,NNP,IN}
+@attribute token1 {to,work,suffering,bent,perambulated,of,states,stabiliser,origin,were,that,suffer,symptoms,and,scale,result,is,3,fail-safe}
+@attribute pos1 {TO,NN,VBG,JJ,VBD,IN,NNS,VBP,CC,VBZ,CD}
+@attribute token2 {fuselage,on,from,by,though,over-stressing,if,rear,of,discovered,a,low,testing,excused,-rrb-,also}
+@attribute pos2 {VB,IN,JJ,NN,VBN,DT,-RRB-,RB}
+@attribute token3 {metal,aerodynamics,donor,museum,in,battle,spar,a,with,the,primary,munro,cycle,compassion,all,no}
+@attribute pos3 {NN,NNS,IN,DT,JJ,NNP,UH}
+@attribute token4 {-rrb-,adaptive,says,most,uniform,stress,sets,testing,crack,cracks,fracture,in,immediately,counting,life,null,allan,tests}
+@attribute pos4 {-RRB-,JJ,VBZ,JJS,NN,NNS,IN,RB,null,NNP}
+@attribute token5 {null,control,paul,eager,they,corrosion,in,produced,or,present,of,had,the,holdsworth,were}
+@attribute pos5 {null,NN,NNP,JJ,PRP,RP,VBD,CC,VBP,IN,DT}
+@attribute token6 {null,systems,johnson,tourists,were,bending,mr,cracks,a,in,the,started,heat,carried}
+@attribute pos6 {null,NNS,NNP,VBD,VBG,DT,IN,VBN,NN}
+@attribute token7 {null,transmission,regional,have,almost,tension,biedenkopf,in,switch,the,stabilizer,from,of,structure,out}
+@attribute pos7 {null,NN,JJ,VBP,RB,NNP,IN,DT,RP}
+@attribute class {obj,subj}
+
+@data

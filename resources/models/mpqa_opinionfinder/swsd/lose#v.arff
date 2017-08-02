@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {lose,lost,losing,loses}
+@attribute pos {VBP,VBN,VB,VBG,VBD,VBZ}
+@attribute token0 {in,made,identified,would,is,by,clearly,northern,'\'\\\'s\'',of,he,realize,i,they,technique,this,mind,york,sure,a,paralleled,them,the,are,or,-rrb-,murder,never,bose,1970s,last,center,written,like,even,mohammed,drer,scholar,ends,limits,not,1922,james,if,pub,can,one,you,mr,styles,about,old,designed,all,context,more,totally,soon,ignore,time,uniform,over,much,concerning,how,infant,but,as,manchester,quite,racquet,such,wrong,loyalty,realizes,and,based,scenario,while,loathing,which,steeplechaser,game,to,'\'15,000\'',party}
+@attribute pos0 {IN,VBN,MD,VBZ,RB,NNP,POS,PRP,VB,NN,DT,JJ,VBP,CC,-RRB-,NNS,CD,JJR,VBG,WRB,WDT,TO}
+@attribute token1 {your,will,it,appear,unlikely,now,they,protestants,determination,one,said,you,'\'\\\'m\'',are,is,bunarkaig,the,in,we,go,by,were,hut,to,would,pack,unless,get,where,he,fragments,that,and,have,el,raymond,of,practice,though,side,sight,moment,when,not,day,win,thought,merrivale,sport,had,lady,may,otherwise,speed,irresponsible,after,this,away,-rrb-,excited,causes,if,her,someone,a,increasing,as,such,solitary,both,on,ropes,before,but,napoleon,long,sets,mark,which,make,tourism,its,democracy,hurry}
+@attribute pos1 {PRP$,MD,PRP,VB,JJ,RB,NNS,NN,CD,VBD,VBP,VBZ,NNP,DT,IN,TO,WRB,CC,-RRB-,VBG,WDT}
+@attribute token2 {food,not,as,to,you,stood,would,who,i,really,starting,in,enough,responsible,he,anger,london,then,dance,worried,we,chew,one,if,must,they,lost,individual,began,that,comedian,homes,shamey,prone,liberals,which,abhorrence,every,the,his,painting,complaining,when,question,afford,wars,clearly,subject,will,people,started,make,tired,seem,is,bodies,feels,at,nan,few,power,damaged,figure,their,truth,cases,papers,fido,himself,appears,time,new,out,rowland,qualifying,it,workers,manifestations,some}
+@attribute pos2 {NN,RB,IN,TO,PRP,VBD,MD,WP,VBG,JJ,NNP,VBN,VB,CD,NNS,WDT,DT,PRP$,WRB,VBP,VBZ,RP}
+@attribute token3 {you,be,a,have,'\'\\\'ve\'',to,not,has,fact,for,never,over,she,i,phrases,about,had,or,day,he,'\'n\\\'t\'',atoms,and,who,risks,republicans,besiegers,is,will,was,without,do,'\'\\\'s\'',risk,time,breavman,once,gradually,champions,connections,mourning,dancers,were,now,bankers,soon,like,town,allegedly,round,would}
+@attribute pos3 {PRP,VB,DT,VBP,TO,RB,VBZ,NN,IN,NNS,VBD,CC,WP,MD,NNP,VBG}
+@attribute token4 {weight,it,early,some,his,valuable,money,any,control,all,interest,my,height,you,more,the,umbrella,this,them,one,toilet,lizzie,games,heart,their,its,faith,and,men,himself,favor,out,shape,a,he,your,battles,in,sometimes,her,as,during,something,on,self,confidence,touch,ten,equipment,management,love,by,is,patience,whole,just,enthusiasm}
+@attribute pos4 {NN,PRP,JJ,DT,PRP$,JJR,CD,NNP,NNS,CC,RP,IN,RB,VBZ}
+@attribute token5 {you,is,work,of,distrust,time,and,civil,sense,in,bearings,the,bouts,father,after,vital,interest,tuppen,control,never,to,because,reason,way,identity,center,when,liveliness,tournament,mind,with,my,lot,war,said,sight,so,inns,data,peggy,touch,i,commitment,its,true,self,ticket,twit,joan,impact,club,concentration,for,young,man,hearing,or,decidedly,own,are,they,what,armies,wife,battles,first,two,toughest,jobs,argument,identifying}
+@attribute pos5 {PRP,VBZ,NN,IN,CC,JJ,NNS,DT,NNP,RB,TO,WRB,PRP$,VBD,NNPS,VBP,VBN,WP,CD,JJS,VBG}
+@attribute token6 {feel,possible,and,his,of,independence,them,it,something,a,drifting,match,than,that,had,umbrella,battle,in,claimed,the,occurred,continued,fighting,he,one,by,women,imitation,momentum,earthly,they,abandoned,war,i,black,totally,drown,its,if,thought,wednesday,think,to,relationship,but,respect,routine,points,descent,glider,promotion,officers,may,your,on,at,behave,start,you,working,reality,fifteen,ventrola,from,can,youth,identity,crown,we,are,life,faced,prize,llanelli,games,tussle,ideology,further}
+@attribute pos6 {VBP,JJ,CC,PRP$,IN,NN,PRP,DT,VBG,VBD,VBN,CD,NNS,NNP,RB,VB,TO,VBZ,MD}
+@attribute token7 {very,to,magnanimously,old,the,probably,if,religious,i,bit,further,even,any,they,barely,as,in,writing,an,enterprise,germans,so,he,pressure,sure,was,merge,whole,wrote,never,a,discharged,has,of,patron,shah,because,faculties,skill,eventually,and,will,glasses,that,your,charm,you,could,she,matinee,brave,with,but,said,out,seem,through,by,is,second,telling,stakes,few,be,own,'\'\\\'re\'',are,points,tennis,not,e.g.,scenes,have,now,forgot,dostoevsky,lifestyle,who,liberal,expansion}
+@attribute pos7 {RB,TO,JJ,DT,IN,PRP,NN,RBR,VBG,NNP,NNPS,VBD,VB,VBZ,NNS,CC,MD,PRP$,RP,VBP,FW,WP}
+@attribute class {obj,subj}
+
+@data

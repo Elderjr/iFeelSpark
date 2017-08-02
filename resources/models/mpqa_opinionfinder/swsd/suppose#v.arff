@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {supposed,suppose,supposing}
+@attribute pos {VBN,VBP,VB,VBD,VBG}
+@attribute token0 {said,chinese,null,when,humane,that,a,paper,president,white,highly,weapons,his,mayor,least,very,back,trailed,final,city,the,worth,did,days,to,by,national,bryant,determined,lot,dec.,publicly,lose,day,like,for,junior,school,hong,country,deposits,movie,golf,only,ask,finally,brown,modernism,this,spf,own,where,several,underdog,tell,all,idea,case,interview,added,miss.,_,icebreaker,money,buchenwald,special,champions,saying,baseball,there,madness,which,numbing,called,what,anton,maintenance,although,gaming,burney,besides,coffers,lay,it,mouth,moral}
+@attribute pos0 {VBD,JJ,null,WRB,NN,IN,DT,NNP,RB,NNS,PRP$,JJS,TO,VBN,VB,VBP,VBG,WDT,WP,PRP}
+@attribute token1 {then,authorities,and,the,abbe,they,policewoman,null,it,'\'\\\'s\'',what,house,customizable,although,best,women,that,off,work,layup,police,rights,before,dwell,bit,way,pivot,army,noted,racing,adding,of,5,porn,traded,you,oh,church,hung,companies,guards,year,kong,questions,smart,mainland,unless,whole,prosecution,15,participation,nba,times,we,indian,show,voters,such,almirante,_,are,when,money,commission,so,later,games,thinking,experience,par,right,terpenes,brodnik,-rrb-,these,who,italy,where,day,people,just,concerns}
+@attribute pos1 {RB,NNS,CC,DT,NN,PRP,null,POS,WP,NNP,JJ,IN,JJS,RP,VB,VBD,VBG,CD,VBN,UH,VBP,WRB,-RRB-}
+@attribute token2 {you,are,i,trees,who,'\'\\\'re\'',with,null,was,team,nostalgia,it,veron,wife,edge,papers,officer,committee,they,upon,unlucky,sprinklers,which,officials,we,control,companies,were,the,he,jury,meeting,interest,'\'\\\'s\'',nobody,winner,that,tags,and,contraption,condition,this,linkup,monsoons,lions,lands,remedy,so,justice,rejected,politician,aircraft,decisions,irizar,am,truly,now,institutions,guys,materials,or}
+@attribute pos2 {PRP,VBP,NNS,WP,IN,null,VBD,NN,NNP,JJ,WDT,DT,VBZ,NNPS,CC,RB,VBN}
+@attribute token3 {'\'\\\'re\'','\'n\\\'t\'','\'\\\'m\'',are,'\'\\\'s\'',not,a,i,is,originally,was,were,only,forecast,said,also,never,null,he,even,really,then,you}
+@attribute pos3 {VBP,RB,VBZ,DT,PRP,VBD,NN,null}
+@attribute token4 {to,guardian,this,i,you,we,wave-driven,but,an,that,her,the}
+@attribute pos4 {TO,NN,DT,PRP,JJ,CC,IN,PRP$}
+@attribute token5 {move,enter,rail,be,engage,angel,is,become,hand,drop,invite,admit,slide,have,keep,release,do,pass,could,'\'\\\'m\'',call,make,shuffle,go,'\'\\\'d\'',detail,lose,forecast,should,happen,enjoy,form,take,capture,give,null,power,it,prove,prevent,inquiry,speed,sleep,arrive,open,resent,correct,like,london,pave,win,remain,care,blood,write,last,full,drive,repair,get,highlight,inspire}
+@attribute pos5 {VB,NN,VBZ,MD,VBP,null,PRP,NNP,JJ}
+@attribute token6 {but,without,against,harvested,the,in,it,a,preoccupied,about,over,to,argentina,her,under,classes,destroyed,upholding,its,said,analyze,probably,absorbed,multiethnic,free,home,say,back,so,so-called,with,able,make,much,regulating,exciting,western-style,returned,taken,people,users,null,generator,'\'\\\'s\'',doing,dry,established,part,up,here,next,served,last,those,demarcated,all,abandon,this,opera,impartial,elections,at,final,left,used,contains,one,only,you,happy,for,his,impact,beetles,overseeing,ratified,enough,and,that,when,on}
+@attribute pos6 {CC,IN,VBN,DT,PRP,RB,TO,NNP,PRP$,NNS,VBG,VBD,VB,JJ,NN,null,VBZ,RP,PDT,CD,WRB}
+@attribute token7 {on,permission,soda,but,movie,combat,'\'\\\'s\'',good,career,with,null,the,drag,at,girlfriend,watching,biggest,that,easiest,rally,conclusions,leticia,budget,not,by,and,throws,entry,in,exotic,related,hurt,babymaker,to,some,stronger,victory,a,it,freedoms,government,seriously,top,more,supplying,all,system,getting,micromanaging,brittle,of,last,week,as,november,snooty,surprise,learning,within,illegal,an,character,fans,elliot,way,least,days,for,lots,rules,20,think,or,years,carfare,standard,has,off,joyous,-lrb-,money,control,above-the-political-fray,you,another}
+@attribute pos7 {IN,NN,CC,VBZ,JJ,null,DT,POS,VBG,JJS,NNS,NNP,RB,VBD,TO,JJR,PRP,CD,VB,-LRB-}
+@attribute class {obj,subj}
+
+@data

@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {reaction,reactions}
+@attribute pos {NN,NNS,NNP}
+@attribute token0 {pop,convinced,pronounced,concern,null,the,qualcomm,court,suggest,expansion,'\'n\\\'t\'',he,film,elections,off,holdings,pattern,it,and,a,d-calif,raised,issues,set,review,trials,had,jesse,was,some,president,warned,bid,sap,an,to,nuclear,said,imagine,allergens,there,waiting,activity,opposition,intended,i,ii,now,perhaps,martyrdom,out,mushroom,somewhat,mention,in,of,can,collision,would,grasp,caught,this,intensity,unlikely,old,called,them,believed,her,umno,vegas,picked,bureaucratic,milwaukee,thaksin,that,world,risk,people,caused,but,jerry}
+@attribute pos0 {NN,JJ,VBD,null,DT,NNP,VBP,RB,PRP,NNS,RP,CC,VBN,VB,TO,EX,VBG,IN,MD,PRP$}
+@attribute token1 {collaboration,that,himself,is,null,stock,got,was,disappointment,the,look,said,in,some,seen,and,might,six,broad,big,off,kind,of,had,such,'\'\\\'s\'',ventura,worried,members,give,franklin,prices,causes,equal,allow,weapon,strong,what,before,can,gains,to,have,provoked,arab,asner,nowhere,operations,cloud,surprised,wall,arafat,_,1999,a,explanations,you,caused,expect,up,judging,there,perugia,animals,first,france,horrible,difficult,volume,daughter,were,changes,did,brought,also,for,executive,by,dubrowski}
+@attribute pos1 {NN,IN,PRP,VBZ,null,VBD,DT,VB,VBN,CC,MD,CD,JJ,RP,NNP,NNS,WP,TO,VBP,RB,VBG,EX}
+@attribute token2 {her,russia,satisfied,that,null,the,market,a,an,face,average,at,given,not,1999,sort,unthinkable,is,decoration,cause,had,array,funds,polls,nonbiological,of,typical,'\'\\\'s\'',you,roosevelt,upward,and,hitters,kind,no,my,predictability,were,president,reduce,world,awaits,has,as,such,street,perry,by,day,partly,elections,very,for,imagine,any,in,behavior,but,to,asked,january,_,investors,prompted,said,more}
+@attribute pos2 {PRP$,NNP,VBD,IN,null,DT,NN,JJ,VBN,RB,CD,VBZ,VB,NNS,POS,PRP,CC,TO,RBR}
+@attribute token3 {first,'\'\\\'s\'',with,the,null,natural,mixed,apparent,tough,daily,a,in,of,allergic,fever,initial,public,chemical,chain,negative,light,same,italian,my,sharper,skin,opposite,equitable,divisive,severe,immediate,adverse,angry,and,atomic,name,different,much,their,acute,marketplace,knee-jerk,nuclear,reported,slow,gauge,what,some,sharp,broad-based,no,intense,typical,emotional}
+@attribute pos3 {JJ,POS,IN,DT,null,NN,PRP$,JJR,CC,VBN,VB,WP}
+@attribute token4 {was,will,to,by,when,on,null,of,from,in,but,said,-lrb-,independents,differ,are,bush,company,i,time,than,doctors,so,were,there,starts,within,look,among,is,no,depended,against,ran,you,the,if,with,what,about,he,that,disappointing,a}
+@attribute pos4 {VBD,MD,TO,IN,WRB,null,CC,-LRB-,NNPS,VBP,NNP,PRP,NN,NNS,EX,VB,VBZ,DT,WP,WDT,JJ}
+@attribute token5 {fear,be,his,a,the,defending,suntrust,wall,null,governments,those,early,sept.,anger,abroad,john,embargoed,and,to,from,also,roughing,did,'\'\\\'s\'',simon,me,hope,when,it,washington,bullish,call,basketball,part,would,says,minutes,batasuna,that,this,jews,limited,computer,warhead,ordinary,crucially,commute,greenstein,can,short,webber,each,we,feminism,said,her,u.s.,produced,new,i,motivated,they,external,expects,decidedly,he,financial,wednesday,immediately,an,have,provocation,general}
+@attribute pos5 {NN,VB,PRP$,DT,VBG,NNP,null,NNS,JJ,RB,VBN,CC,TO,IN,VBD,POS,PRP,VBP,WRB,MD,VBZ}
+@attribute token6 {i,negative,mideast,unilateral,time,someone,'\'\\\'s\'',street,protest,null,standard,is,favorites,april,11,post-9,over,extent,in,one-day,austerities,c.,for,democrats,support,pace,one,known,penalties,on,operations,they,folding,a,meal,until,d.c.,limited,inventory,dermatitis,miniaturization,rims,name,detonation,of,have,jim,or,chase,sacking,this,animal,been,policy,hallmark,news,latest,cigarette,arabs,no-brainer,times,firing,moved,spectrum,answer,were,parked,'\'\\\'re\'',project,chivalry,he,verdict,allies,the,habitats,do,by,disease,former,column,first,pressure,mixed,felt,leaks,fans,markets,brain,available,bad,asian,stinging,offer,law,not,giovagnoni,report,dismissed}
+@attribute pos6 {PRP,JJ,NN,POS,NNP,null,VBZ,NNS,CD,IN,NNPS,VB,VBN,DT,CC,VBG,JJS,VBD,VBP,RB}
+@attribute token7 {felt,and,plan,deployment,the,as,bid,friday,issued,null,poor,positive,it,11,of,many,event,giler,release,tended,individual,to,that,several,claims,more,cool,rain,but,i,military,data,_,are,was,is,been,bauml,even,them,ruling,why,which,a,division,rate,tax,she,whether,there,from,streetcar,before,sexism,expressed,project,in,varied,lightest,'\'n\\\'t\'',both,king,arrived,red,strongly,about,also,where,wheel,football,creature,he,firm,identified,rep.,said}
+@attribute pos7 {VBD,CC,NN,DT,IN,NNP,null,JJ,PRP,CD,TO,WDT,NNS,RBR,VBP,VBZ,VBN,RB,WRB,JJR,JJS}
+@attribute class {obj,subj}
+
+@data

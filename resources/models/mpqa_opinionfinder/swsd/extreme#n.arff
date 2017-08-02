@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {extreme}
+@attribute pos {NN,NNP}
+@attribute token0 {island,was,-lrb-,argues,null,fairway,topiary,in,something,party,outright,espn,no,is,seat,take,one,dry,takes,go,learn,temporary,the,think,he,side,life,reviews,were,backstage,filtering,took,sculpture,nurses,with,declared,belgians,two,small,objections,match,to,democratic,third,what,bittersweet,have}
+@attribute pos0 {NN,VBD,-LRB-,VBZ,null,JJ,IN,NNP,RB,VBP,CD,VB,DT,PRP,NNS,VBG,NNPS,TO,WP}
+@attribute token1 {'\'\\\'s\'',orderly,149,in,for,was,the,at,this,null,nearer,pleasure,ushered,better,myopic,to,rituals,of,we,what,vulnerable,loyal,blindness,'\'\\\'50s\'',one,there,swing,supportive,passes,consider,honesty,since,_,adversity,phlegmatic,competitors,nothing,burned,has,is,simple,participate,taken,state,put,though,cleared}
+@attribute pos1 {POS,JJ,CD,IN,VBD,DT,null,NN,RBR,TO,NNS,PRP,WP,EX,VBP,VBZ,VB,VBN,RB}
+@attribute token2 {remote,in,million,facing,those,a,los,the,grotesque,to,at,such,'\'\\\'re\'',null,'\'\\\'s\'',is,2022,from,asides,his,antiquity,just,fire,short,by,been,then-unknown,positive,out}
+@attribute pos2 {JJ,IN,CD,VBG,DT,NNP,TO,VBP,null,VBZ,PRP$,NN,RB,VBN,RP}
+@attribute token3 {southern,the,-rrb-,real,tad,angeles,other,macho,combined,one,opposite,an,more,beyond,arizona,beautiful,_,prevailing,null,little,on,position,another,ultimate,risk,of,first,northern,southeastern,espn,financially}
+@attribute pos3 {JJ,DT,-RRB-,NN,NNP,VBN,CD,JJR,IN,VBG,null,RB}
+@attribute token4 {null,and,networks,but,cases,defeated,is,to,moral,he,right,as,games,chris,the,that,of,danger,matson,in,by,she,mood,high,was,are,third,kids,water,faith,sport,steady,shrugged,a,do,maintain,bowling,background,said,packet}
+@attribute pos4 {null,CC,NNP,NNS,VBD,VBZ,TO,PRP,NN,RB,NNPS,DT,IN,WDT,JJ,VBP}
+@attribute token5 {null,there,-lrb-,the,they,that,parody,life,said,garnered,well,an,baldwin,arab-dominated,weakest,his,raises,indonesia,zone,elevating,is,changes,g-force,strong,world,always,expectation,exhibit,other,entire,or,in,as,rain,and,fire,woman,unseemly,'\'n\\\'t\'',base,night,checks,james,gen.,on,a,even,devices,crew}
+@attribute pos5 {null,EX,-LRB-,DT,PRP,NN,NNP,VBD,RB,JJ,JJS,PRP$,VBZ,VBG,NNS,IN,CC}
+@attribute token6 {null,was,40.3,work,'\'\\\'ll\'',san,natural,heterosexuality,in,13,as,event,offers,islamic,students,dandruff,red,'\'\\\'s\'',-lrb-,film,women,perfectly,including,causes,of,airlines,conditions,liked,players,must,on,bench,witless,the,12.6,rick,throughout,got,backed,is,haste,you,several,could,flores,fernando,television,roman,case,though,an}
+@attribute pos6 {null,VBD,CD,NN,MD,NNP,JJ,IN,VBZ,NNS,POS,-LRB-,RB,VBG,DT,PRP}
+@attribute token7 {null,a,million,of,go,it,francisco,look,and,the,percent,packaged,his,government,in,flakes,flags,religious,'\'\\\'s\'',to,green,anger,loss,homemaker,that,said,him,are,be,coming,what,classical,marin,most,on,down,driven,with,think,base,slightly,chairman,tapias,empire,he,ottowa,part}
+@attribute pos7 {null,DT,CD,IN,VB,PRP,NNP,NN,CC,VBN,PRP$,VBZ,NNS,JJ,POS,TO,VBD,VBP,VBG,WP,JJS,RP,RB}
+@attribute class {obj,subj}
+
+@data

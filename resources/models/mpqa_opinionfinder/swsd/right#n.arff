@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {right,rights}
+@attribute pos {NN,NNS,NNP,NNPS}
+@attribute token0 {two,year,a,endorsement,about,to,acquired,great,computer,likely,null,not,'\'n\\\'t\'',provide,'\'\\\'s\'',industry,golf,and,gives,pga,real,decide,passed,the,off,mark,lawyers,was,injunction,birdie,by,one,it,have,countries,that,high-profile,who,months,driving,definition,sped,lowery,did,track,leadership,defendant,in,but,possessing,crimes,militia,companies,deny,environment,all,grant,american,history,petroleum,of,said,battle,ann,reach,china,going,for,effort,sixth,freedom,time,expression,item,sharp,author,green,unclear,our}
+@attribute pos0 {CD,NN,DT,IN,TO,VBD,JJ,null,RB,VB,POS,CC,VBZ,NNP,RP,PRP,VBP,NNS,WDT,WP,VBG,PRP$}
+@attribute token1 {rounds,when,patients,by,the,abandon,very,berwanger,unexpected,in,to,null,have,respect,only,most,earned,new,tour,property,which,liberal,criticism,jackson,leading,committee,song,not,requested,try,lying,sharp,setback,is,that,considers,kim,advocate,tried,various,also,an,of,conference,take,should,company,writing,according,but,trenching,and,violation,void,elsewhere,japan,corners,fathers,public,co.,promotion,van,gradually,cases,over,religious,their,amendment,fighter,immigration,thrives,exercise,violating,people,dementia,on,with,rai,defense,will,who,obviously,consumers}
+@attribute pos1 {NNS,WRB,IN,DT,VB,RB,NNP,JJ,TO,null,JJS,VBD,NN,WDT,VBG,VBN,VBZ,MD,CC,PRP$,WP}
+@attribute token2 {later,an,bill,new,american,the,significant,'\'\\\'s\'',surge,its,face,null,a,intellectual,prominent,him,york-based,government,for,but,group,from,union,and,nigerian,u.n.,has,to,by,have,get,violate,basinger,political,s,agassi,atlanta,on,seriously,national,materials,is,up,first,women,of,in,had,greater,won,palestinian,constitution,win,dyke,however,involving,say,allow,more,document,jury,or,their,his,poor,bought,her,waive,hong,owned,very}
+@attribute pos2 {RB,DT,NN,NNP,JJ,POS,PRP$,VB,null,PRP,IN,CC,VBZ,TO,VBP,NNS,RP,VBD,JJR,VBG}
+@attribute token3 {a,indian,of,jersey,civil,sole,patients,signing,the,own,human,scriptural,property,limited,exclusive,burial,'\'\\\'s\'',curtail,legal,that,legitimate,our,l.,gain,model,starfish,voting,amendment,their,religious,whose,custodial,protects,kinship,lewis,individual,states,trial,local,inalienable,resident,international,victims,his,kong,hard}
+@attribute pos3 {DT,JJ,IN,NNP,NNS,NN,POS,VB,PRP$,WP$,VBZ}
+@attribute token4 {to,bill,providing,movement,case,from,back,null,violations,lawyers,poltorak,for,watch,that,should,rivaldo,forces,activist,commissioner,we,groups,on,me,and,or,of,came,after,_,uno,leader,in,compared,commission,advocates,advocacy,had,torsten,monitoring,either,investigator,wore,abuses,also,does,activists,law,are,words,agenda,group,records,prefers,will,now}
+@attribute pos4 {TO,NN,VBG,IN,RB,null,NNS,NNP,WDT,MD,PRP,CC,VBD,VBN,VBZ,VBP}
+@attribute token5 {the,favored,senior,life,and,negotiate,for,was,null,there,at,divorce,said,people,a,play,depended,administer,use,can,prevail,fooled,faction,environmental,whose,mary,be,are,prosecute,liberate,bear,abode,legal,mas,sue,front,airline,reports,make,558,individuals,way,irish,even,fear,stand,that,been,frings,their,ask,he,group,have,on,her,down,passage,tried,peaceful,not,determine,long-term,self-esteem,has,_,justice,either,broadcast,another,but,know}
+@attribute pos5 {DT,VBN,JJ,NNP,CC,VB,IN,VBD,null,RB,NN,NNS,MD,WP$,VBP,FW,CD,PRP$,PRP,RP,VBZ}
+@attribute token6 {head,by,citizens,a,the,those,philadelphia,left,null,at,bledsoe,what,to,recipient,when,on,hydrocarbons,be,in,protection,no.,party,robinson,compensated,trying,two,par-4,plaintiffs,their,openly,who,arms,later,groups,base,one,that,because,of,ejections,million,investigate,handful,americans,some,up,southern,restored,disappointed,25,children,if,was,most,said,its,son,tyson,through,trampled,assembly,turn,boston,and,freely,protected,care,many,accused,became,for,recent,jury,back,intellectual,we}
+@attribute pos6 {NN,IN,NNS,DT,NNP,VBN,null,WP,TO,JJ,WRB,VB,VBG,CD,PRP$,RB,NNPS,RP,VBD,RBS,CC,PRP}
+@attribute token7 {backed,the,with,'\'125,000-member\'',freedom,purchase,on,eagles,deflated,null,least,u.s.,said,they,sue,of,and,information,cart,transferred,german,parliament,would,7,was,expressed,but,to,soldiers,newspapers,18th,who,lands,hostile,change,women,price,were,have,boxster,that,miller,you,rwanda,statement,euros,it,possess,order,plan,for,white,also,considering,years,men,coveted,reasonable,own,pennsylvania,albuquerque,get,challenge,college,citizen,their,family,anymore,right,facilities,single,nepal,commission,all,its,world,tome,trial,case,property,should,make}
+@attribute pos7 {VBD,DT,IN,JJ,NNP,NN,NNPS,VBN,null,JJS,PRP,VB,CC,MD,CD,TO,NNS,WP,VBP,WDT,RB,VBG,PRP$}
+@attribute class {obj,subj}
+
+@data

@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {faithful}
+@attribute pos {NN,JJ,NNP}
+@attribute token0 {his,being,celebs,had,the,through,successively,for,is,notched,father,he,could,to,passion,you,been,pickwick,of,maung,itself,intends,boat,men,pot,particular,do,a,husbands,jewish,an,before,way,listening,those,'\'\\\'ll\'',bassett,strikes,longchamp,save,done,my,or,king,theology,post,district,prodigious,all,1965,patsy,vow,go,employers,'\'\\\'s\'',trusting}
+@attribute pos0 {PRP$,VBG,NNS,VBD,DT,IN,RB,VBZ,VBN,NN,PRP,MD,TO,NNP,JJ,VB,CC,CD,POS}
+@attribute token1 {eldest,broken,may,some,help,will,knew,his,trying,up,having,told,see,a,i,loyal,souls,united,club,british,my,remaining,always,and,of,he,so,strong,to,partners,law,expect,god,feet,wills,that,would,intellectuals,repay,call,again,spectacular,himself,church,thou,side,armies,wishing,with,added,time,fund-raising,due,dylan,poolside,looking,she,share,eyes}
+@attribute pos1 {JJS,VBN,MD,DT,NN,VBD,PRP$,VBG,RP,VB,PRP,JJ,NNS,NNP,RB,CC,IN,TO,VBP,WDT}
+@attribute token2 {sister,they,not,of,deflect,his,long,to,decades,always,us,roderick,servant,have,trustworthy,the,containing,women,talented,intact,with,glue,remained,accordingly,fortress,congregation,be,will,required,and,is,give,who,you,up,good,brief,farewell,like,only,activities,horrified,as,say,that,was}
+@attribute pos2 {NN,PRP,RB,IN,VB,PRP$,JJ,TO,NNS,NNP,VBP,DT,VBG,VBD,MD,CC,VBZ,WP,RP}
+@attribute token3 {the,are,be,our,his,scrupulously,and,of,remained,'\'\\\'s\'',been,or,remarkably,a,my,extraordinarily,as,stay,all,man,thy,totally,were,with,wapping,their,her,loving}
+@attribute pos3 {DT,VBP,VB,PRP$,RB,CC,IN,VBD,POS,VBN,NN,NNP,JJ}
+@attribute token4 {cis,to,old,dutch,ax,service,authentic,christian,servant,but,null,departed,matching,record,information,and,siamese,model,lover,men,jews,be,ones,people,as,stereo,dickens,backing,in,dog,delation,fleet,assistant,representation,successors,support,audience,attendant,horse,attender,fit}
+@attribute pos4 {NNP,TO,JJ,NN,CC,null,VBD,NNS,VB,IN}
+@attribute token5 {got,their,lady,troops,from,over,by,and,null,the,witness,strap,dim,thee,of,one,officer,peter,you,cat,do,here,in,each,to,ye,but,that,possible,reproduction,bolshevik,servant,adaptation,brittain,robert,supporting,was,street,carmel,today,sun,stays,black,loyal,would,at}
+@attribute pos5 {VBD,PRP$,NN,NNS,IN,CC,null,DT,NNP,VB,CD,PRP,RB,TO,JJ,VBG,VBZ,MD}
+@attribute token6 {him,lords,partners,listeners,null,its,18,being,dynamic,bonaparte,over,at,hunchback,cynara,the,partner,approved,'\'\\\'ve\'',-lrb-,what,papacy,was,wives,other,make,i,they,to,as,goals,from,recommended,will,all,our,too,whole,bedford,his,that,going,selling,on,mammy,until,trudge,branch,dishevelled}
+@attribute pos6 {PRP,NNS,null,PRP$,CD,VBG,JJ,NNP,IN,NN,DT,VBN,VBP,-LRB-,WP,VBD,VB,TO,MD,RB}
+@attribute token7 {to,wrote,but,actually,null,path,years,placed,in,dynasty,a,the,egor,mid-atlantic,perambulations,over,get,doc,god,aircraft,of,rewarded,which,as,know,wicked,plenteously,his,by,expect,seemed,world,text,exceeding,and,biblical,own,this,community,through,out,hand,slave,him,meetings,t-shirted}
+@attribute pos7 {TO,VBD,CC,RB,null,NN,NNS,VBN,IN,DT,NNP,NNPS,VB,WDT,VBP,JJ,PRP$,VBG,RP,PRP}
+@attribute class {obj,subj}
+
+@data

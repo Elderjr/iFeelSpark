@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {difficulties,difficulty}
+@attribute pos {NNS,NN}
+@attribute token0 {the,-lrb-,also,of,them,shows,oppressive,and,that,chose,bit,inexperienced,all,it,overseas,overwhelming,growing,to,reader,working,african,a,elude,be,psychology,is,current,ago,training,class,upwind,for,cause,money,illness,this,means,texts}
+@attribute pos0 {DT,-LRB-,RB,IN,PRP,NNS,JJ,CC,VBD,NN,NNP,VBG,TO,VB,VBZ}
+@attribute token1 {uk,though,made,painting,independent,have,mischance,it,the,to,of,pilots,flying,people,despite,students,one,lesions,chronology,is,in,art,preliminary,his,identifiable,not,affairs,by,face,theater,wing,stress,or,due,that,may}
+@attribute pos1 {NNP,IN,VBN,NN,JJ,VBP,PRP,DT,TO,NNS,VBG,CD,VBZ,PRP$,RB,CC,MD}
+@attribute token2 {encounter,seldom,explicitly,the,thought,constantly,some,is,obscurities,be,space,get,anticipation,with,do,of,can,although,in,performance,say,note,grasp,a,perception,might,larkin,running,met,will,or,debt,bereavement,fact,to,there,make}
+@attribute pos2 {NN,RB,DT,VBZ,NNS,VB,VBP,IN,MD,NNP,VBG,VBN,CC,TO,EX}
+@attribute token3 {many,without,his,first,one,presented,tormenting,a,and,the,into,prevents,learning,obvious,present,produce,serious,pose,about,this,special,have,same,considerable,personal,legal,financial,insuperable,physical,are,political}
+@attribute pos3 {JJ,IN,PRP$,CD,VBN,VBG,DT,CC,VBZ,VB,VBP}
+@attribute token4 {with,-rrb-,is,in,to,his,that,of,was,when,arising,help,and,include,about,for,are,encountered,as,such,which,social,i,within}
+@attribute pos4 {IN,-RRB-,VBZ,TO,PRP$,VBD,WRB,VBG,VB,CC,VBP,VBN,JJ,WDT,PRP}
+@attribute token5 {our,when,assessing,despite,describing,critics,most,justin,words,he,that,they,at,may,frustrations,i,the,knowing,complicated,attribution,portraits,aesthetics,explaining,in,an,subsidy,trying,pushing,as,housing,habit,said,can,english,a}
+@attribute pos5 {PRP$,WRB,VBG,IN,NNS,JJS,NNP,PRP,MD,DT,VBN,NN}
+@attribute token6 {refugee,he,czanne,the,a,as,unrivalled,may,and,'\'\\\'d\'',every,are,also,of,am,lung,crucial,whether,critic,by,moral,psychology,but,his,untrained,it,to,forward,problems,turn,from,null,not,departments,department}
+@attribute pos6 {NN,PRP,NNP,DT,IN,JJ,MD,CC,VBD,VBP,RB,PRP$,TO,NNS,null}
+@attribute token7 {determination,quits,'\'\\\'s\'',destructions,climate,it,highness,feel,expression,chosen,handful,soaring,start,be,his,sure,person,and,fact,to,though,lack,definition,center,activities,has,only,prominence,private,actor,achieve,enough,with,can,the,null,pull,taking,or}
+@attribute pos7 {NN,VBZ,POS,NNS,PRP,NNP,VB,VBN,VBG,PRP$,RB,CC,TO,IN,JJ,MD,DT,null}
+@attribute class {obj,subj}
+
+@data

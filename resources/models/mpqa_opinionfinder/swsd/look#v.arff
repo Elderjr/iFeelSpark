@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {looking,looked,looks,look}
+@attribute pos {VBG,VBD,VBZ,VB,VBN,VBP}
+@attribute token0 {out,told,long,be,every,start,compound,converged,but,animals,are,null,up-and-down,like,that,'\'\\\'s\'','\'\\\'re\'',snow,exactly,true,timing,the,rummages,so,-rrb-,for,high,to,welsh,reforms,we,husband,bare,with,a,trainers,jackson,he,guideline,sites,here,everyone,lead,and,experts,campaign,getting,60,had,of,party,12,just,this,frequent,in,court,made,trying,treated,gendarmes,stock,back,some,i,those,clearly,william,smiling,at,torture,you,hoc,aged,needed,nancy,few,lot,using,fund,us,belgium,as}
+@attribute pos0 {RP,VBD,JJ,VB,DT,NN,VBN,CC,NNS,VBP,null,IN,WDT,POS,RB,VBZ,-RRB-,TO,NNP,PRP,VBG,CD,FW}
+@attribute token1 {public,israeli,time,histrionic,day,working,soldiers,on,i,so,permanently,null,stuff,the,is,going,always,pea,what,missionary,belt,picture,in,port,tonight,a,said,air,result,were,we,once,there,may,dining,jorge,job,but,if,are,and,300,recent,was,say,area,years,gardner,he,memo,followed,information,want,macau,1995,evidence,or,family,progress,to,him,market,of,as,popularity,'\'\\\'m\'',two,school,venture,steig,from,music,all,episode,international,medicine,spain,minutes,view,union,group,those,with,easy}
+@attribute pos1 {JJ,NN,VBG,NNS,IN,PRP,RB,null,DT,VBZ,WP,NNP,VBD,VB,MD,CC,VBP,CD,TO}
+@attribute token2 {service,television,i,it,they,again,were,the,can,attached,null,media,printed,to,willing,leaves,zeal,you,unless,his,while,area,'\'\\\'s\'',guardian,force,'\'\\\'m\'',in,able,will,vaunted,he,need,have,room,posada,or,we,until,trying,pounds,morning,so,committee,used,that,does,russians,herself,habit,sea,is,instructions,something,of,say,a,court,and,improve,said,kind,boom,with,just,when,trees,my,investors,shiny,stopped,her,some,criminal,began,researchers,midfield,steve,downsizing,book,from,out,ecuadoreans,self-knowledge,tuesday,as}
+@attribute pos2 {NN,PRP,RB,VBD,DT,MD,VBN,null,NNS,TO,JJ,VBZ,IN,PRP$,POS,NNP,VBP,VB,CC,VBG,NNPS,WRB}
+@attribute token3 {announcements,we,'\'\\\'m\'',all,'\'\\\'re\'',start,seen,region,always,started,and,not,have,is,to,be,that,were,he,are,you,bedroom,women,will,null,sagal,installment,mother,companies,defense,said,never,norwegian,it,she,busy,what,'\'n\\\'t\'',of,could,still,by,year,they,few,1,finances,felder,everything,house,country,images,americans,really,there,husband,storybook,brochures,arms,jurors,tribunals,who,1840,vieri,smith,without,just,here,this,us}
+@attribute pos3 {NNS,PRP,VBP,DT,VB,VBN,NN,RB,VBD,CC,VBZ,TO,IN,MD,null,NNP,WDT,JJ,WP,CD,NNPS}
+@attribute token4 {for,at,forward,like,around,back,more,arena,recently,out,to,after,into,their,all,good,beyond,cross-eyed,as,up,each,especially,bored,better,the,ahead,disconcertingly,mighty,past,just,a,beautiful,limp,pretty,carefully,sideways,little}
+@attribute pos4 {IN,RB,RBR,NNP,RP,TO,PRP$,DT,JJ,JJR,VBN}
+@attribute token5 {it,her,to,blankness,another,the,in,ways,and,closely,individual,said,at,sob,black-veined,for,trade,they,carcasses,a,more,relatives,official,what,equal,make,over,taiwan,anyone,tinker,hold,maybe,all,some,these,with,significant,though,partners,warmly,on,other,his,bucolic,of,null,he,like,adopt,sturdy,me,2002,little,along,one,that,war,6,if,up,nearly,many,information,where,much,genuine,their,from,second}
+@attribute pos5 {PRP,PRP$,TO,NN,DT,IN,NNS,CC,RB,JJ,VBD,VB,JJR,WP,NNP,null,CD,WRB}
+@attribute token6 {and,desk,it,but,sucker,smaller,the,to,know,at,rings,he,fidelity,stories,white,protecting,possibilities,had,null,getting,repair,other,russian,lost,hopefully,future,time,son,doctor,internet,long,broader,in,an,look,feasibility,else,school,on,april,those,you,kind,union,failures,good,trees,man,exhaustion,themselves,crisis,works,short,_,recent,right,mother,over,first,duck,highest,biggest,seeing,swatted,place,continuing,way,studio,said,has,a,cuts,cap,calmly,with,big-screen,older,another,truth,open,crimes,million,front,40,critics,online,people,are,raw,year,demand,steps,jobs,scene,opportunity,his,point}
+@attribute pos6 {CC,NN,PRP,JJR,DT,TO,VB,IN,NNS,NNP,JJ,VBG,VBD,null,VBN,RB,JJS,VBZ,CD,VBP,PRP$}
+@attribute token7 {a,and,as,under,out,players,compound,end,that,some,weigh,is,value,marble,the,but,been,null,in,bill,things,travel,warding,sounds,before,or,auction,run,range,most,early,place,at,of,_,lunchroom,areas,to,options,jack,deal,these,having,no,attention,'\'\\\'s\'',their,tournaments,there,putts,major,charge,mistake,projects,story,flies,on,them,because,weekend,accountant,so,potential,skyrocketed,long,me,for,its,video,left,than,shaking,door,diplomat,cases,had,while,houses,one,numbers,same,from,well-being,world,knowingness,hardworking,concerns}
+@attribute pos7 {DT,CC,IN,NNS,NN,VB,VBZ,NNP,VBN,null,VBG,JJS,JJ,TO,PRP$,RB,POS,PRP,VBD,CD}
+@attribute class {obj,subj}
+
+@data

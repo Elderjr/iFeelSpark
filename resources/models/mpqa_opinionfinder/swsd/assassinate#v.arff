@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {assassinated,assassinate,assassinating}
+@attribute pos {VBN,VBD,VB,VBG}
+@attribute token0 {null,small,they,on,blackmail,israel,after,1993,in,defense,years,officials,waive,islamic,radical,celso,operations,the,his,younger,a,hurriyat,well,arab,which,rebuild,laurent,safi,revolutionary,leader,ahmed,when,luther,brotherhood,spokesman,popolzai,devised,plo,me,as,illegal,it,alliance,of,dorsey,shah,1970s,months,law,enraged,was,president,minister,out,ago,rat,only,leadership,its,effect,charismatic,brother,backmail,army,'\'\\\'s\'',-lrb-,pim,foil,accused,batic,park,offered,rounds,my,same}
+@attribute pos0 {null,JJ,PRP,IN,VB,NNP,CD,NNS,DT,PRP$,JJR,RB,WDT,NN,WRB,VBD,RP,POS,-LRB-,VBN}
+@attribute token1 {after,radical,were,null,similar,or,had,a,when,the,league,yitzhak,fundamentalists,plo,daniel,are,picture,jordan,trial,brother,kennedy,israeli,leader,latin,as,state,claimed,it,d.,said,and,mirwaiz,soviet,shah,president,king,member,tribe,photograph,of,group,feared,his,military,massood,later,who,to,militants,supposed,melchoir,rajiv,robert,terror,wright,son,councils,oil,since,posts,security,palestinian,finucane,only,saadat,fortuyn,he,chung,dlrs,friends,character,surname,anatomy,man,sheik}
+@attribute pos1 {IN,JJ,VBD,null,CC,DT,WRB,NNP,NNS,VBP,NN,PRP,PRP$,RB,WP,TO,VBN}
+@attribute token2 {sadat,plo,trying,gandhi,reforms,try,threatened,colombian,tutsi,plot,kahane,rabin,plan,prohibition,tried,faction,who,aimed,of,and,army,america,planning,islamic,military,responsibility,when,kabila,plotted,rahman,he,maulvi,massoud,kennedy,jr.,whose,wanting,candidate,israel,father,chief,embera-katios,derwin,linesmen,1980s,his,had,bury,have,to,ndadaye,attacks,atsuhito,pipelines,leader,pope,apparatus,case,proposal,pflp,plotting,was,hee,'\'100,000\'',ammunition,away,accused,abdullah}
+@attribute pos2 {NNP,VBG,NNS,VB,VBN,JJ,NN,VBD,WP,IN,CC,WRB,PRP,WP$,NNPS,PRP$,TO,CD,RB}
+@attribute token3 {was,faction,to,journalist,paratroopers,on,that,at,the,is,also,radicals,for,farooq,might,were,brown,father,been,and,be,militants,occasionally,by,gunmen,not,repeatedly,of}
+@attribute pos3 {VBD,NN,TO,NNS,IN,WDT,DT,VBZ,RB,NNP,MD,VBN,CC,VB}
+@attribute token4 {in,an,rajoub,as,three,or,saadat,the,taylor,by,bin,a,him,their,president,northern,islamic,on,sadat,mubarak,lebanese,for,hundreds,last,null,israel,-lrb-,he,and,leading,arafat,zaher,two,civil,musharraf,pope,some,officials,policemen,israeli,his,26,them,poland,shortly}
+@attribute pos4 {IN,DT,NNP,CD,CC,NN,PRP,PRP$,JJ,NNS,null,-LRB-,VBG,RB}
+@attribute token5 {1981,israeli,who,were,years,abduct,head,1986,central,and,an,laden,foreign,several,january,leadership,anwar,hamas,a,alliance,june,jihad,may,null,hosni,after,'\'\\\'s\'',leaders,president,disgruntled,his,of,pope,fall,1968,gamal,more,the,so,militant,saadat,was,two,hundreds,days,year,to,shah,king,months,organizations,on,john,rome,real-life,tutsi,islamic,catholic,1992,september,prague,belfast,presidential,tourism,march,nominee,political,1979,wife,local,sans,month,being}
+@attribute pos5 {CD,JJ,WP,VBD,NNS,VB,NN,CC,DT,NNP,null,IN,POS,PRP$,JJR,TO,VBG}
+@attribute token6 {mubarak,cabinet,is,the,earlier,saadat,of,by,african,destabilize,islamic,israeli,null,leader,years,said,ih-ml,sadat,official,professional,commander,1968,activist,21,he,predecessor,and,a,arabs,beliefs,thousands,can,fahim,abdel,pakistani,tourism,kitchen,-rrb-,ousted,fled,before,option,ruled,christmas,paul,figure,paratroopers,tamil,lowe,extremists,inmates,while,its,shortly,palestinian,nominee,1948,minister,massimo,6,meanwhile,reasons,albeit,according,officials,discussion,herald,_,sealed,former,that}
+@attribute pos6 {NNP,VBZ,DT,RBR,IN,JJ,VB,null,NN,NNS,VBD,CD,PRP,CC,NNPS,MD,-RRB-,VBN,RB,PRP$,VBG}
+@attribute token7 {continued,minister,known,two,apparently,if,the,country,extremist,fanatic,null,officials,ago,'\'\\\'s\'',by,sniper,ahmed,was,mohammed,a,and,signed,anwar,when,year,other,in,gather,he,is,nasser,city,could,of,posing,to,suspension,few,with,armenia,near,it,day,ii,agents,carlos,that,tiger,moved,_,working,high-ranking,before,negotiating,leaders,-rrb-,rehavam,'\'d\\\'antona\'',bauer,i,more,-lrb-,through,represented,sports}
+@attribute pos7 {VBD,NN,VBN,CD,RB,IN,DT,JJ,null,NNS,POS,NNP,CC,WRB,VBP,PRP,VBZ,MD,VBG,TO,WDT,-RRB-,JJR,-LRB-}
+@attribute class {obj,subj}
+
+@data

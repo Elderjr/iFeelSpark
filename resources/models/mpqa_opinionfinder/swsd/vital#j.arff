@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {vital}
+@attribute pos {JJ}
+@attribute token0 {was,amends,social,of,had,that,cautioned,one,are,relevant,and,hold,level,legs,flight,up,appropriate,large,easter,weir,act,whereas,on,the,it,to,steer,in,this,basics,but,control,sure,a,last,actively,other,explores,mean,be,iran,skills,has,fuel,necessary,conveys,childminders,play,individualist,yesterday,walnuts,resisted,good,image,feeling,such,position,for,training,b.r.,steps,neutrality,precision,rodent,put,direction,could,duncan,threatened,how,science,into,than,shape,mild,military,stable,directly,enough,system,cut,her,religious}
+@attribute pos0 {VBD,VBZ,JJ,IN,CD,VBP,CC,NN,NNS,RP,WDT,NNP,DT,PRP,TO,VB,RB,VBN,MD,WRB,PRP$}
+@attribute token1 {dramatically,lightly,recognition,fishing,a,it,of,appropriate,commissions,cheap-haul,erasure,absolutely,to,where,-rrb-,recorder,your,becomes,good,ones,dynamization,next,said,as,film,lms,proposals,may,the,them,other,reason,these,logs,systems,that,few,bastion,photosynthesising,clearing,and,400m,missing,like,was,are,given,indeed,much,too,life,we,girls,in,tooth,because,passenger-carrying,but,data,frontiers,label,leaflet,any,network,particular,technique,once,rarely,they,rustling,an,predominate,list,paterson,this,benefit,results,base,distinction,stimulate,reaction,power,housing,affects,here,application,corners,own,revolution,community}
+@attribute pos1 {RB,NN,DT,PRP,IN,JJ,NNS,TO,WRB,-RRB-,PRP$,VBZ,VBD,NNP,MD,VBG,CC,VBP,VBN,VB}
+@attribute token2 {headlined,something,of,fishing,ridge,is,'\'\\\'s\'',the,in,it,facilities,are,central,be,tracks,data,even,communication,then,year,blunt,signals,industries,included,head,industry,to,words,have,assisting,copies,before,underlining,bank,develops,investment,out,leaving,certainly,just,us,coal,passive,force,won,fact,capacity,seen,was,forming,and,lea,competency-based,vulnerable,revolution,regards,considered,tasting,through,continuity,important,over,stressing,very,veto,subculture,as,water,find,a,system,italy,architecture,on,1820s,stock,so,with}
+@attribute pos2 {VBN,NN,IN,VBG,VBZ,DT,PRP,NNS,VBP,JJ,VB,RB,NNP,VBD,TO,RP,CC}
+@attribute token3 {economy,as,the,is,this,absolutely,more,two,'\'\\\'s\'',were,becoming,and,most,all,another,broke,containing,a,of,leaving,indeed,with,those,on,strategically,some,was,even,but,1970s,or,so,training,carry,considered,our,sometimes,often,such,fundamental}
+@attribute pos3 {NNP,IN,DT,VBZ,RB,RBR,CD,VBD,VBG,CC,JJS,NNS,POS,NN,VB,VBN,PRP$,RBS,JJ}
+@attribute token4 {sector,as,role,to,fact,part,that,positions,ways,in,formal,null,functions,so,when,and,for,force,aspect,partnerships,information,importance,second,factors,but,logistics,computer,putts,crossroads,life-sustaining,question,nutrients,threatened,it,the,statistics,victory,they,are,tissue,heart,areas,economic,new,links,one,clue,factor,porridge,work,movements,flame,ingredients,gatt,knowledge,resource,if,page,because,response,principle,approaches,issues,date,sense}
+@attribute pos4 {NN,IN,TO,NNS,JJ,null,WRB,CC,VBN,PRP,DT,VBP,CD,NNP}
+@attribute token5 {for,a,played,the,proved,is,they,in,null,characteristics,simply,remove,before,book,unanimity,this,of,towards,schools,optimum,place,out,overconcern,to,decisions,software,role,by,even,came,prediction,however,have,made,part,far,read,during,quality,target,musical,prevent,strategic,supplies,whenever,on,agreement,something,you,or,it,long-term,interests,complement,was,that,transforming}
+@attribute pos5 {IN,DT,VBN,VBD,VBZ,PRP,null,NNS,RB,VB,NN,JJ,TO,VBP,WRB,CC,VBG}
+@attribute token6 {iraq-korea,blueprint,by,economy,its,that,not,the,null,people,poor,of,british,is,some,during,a,will,young,french,to,brain,longer,in,new,about,play,and,eight,sunlight,our,company,himself,russia,though,unwittingly,ba,prana,having,this,as,providing,aircraft,get,movement,e.l.r.,abuse,any,waterway,an,jeopardy,convincing,antislavery,it,dye-baths,aimed,occurrence,they,do,two,uncovers,growth,said,using,long,mission}
+@attribute pos6 {NNP,NN,IN,PRP$,RB,DT,null,NNS,JJ,VBZ,MD,TO,JJR,VB,CC,CD,PRP,VBG,VBN,VBP,VBD}
+@attribute token7 {ties,null,older,especially,method,the,be,order,making,country,such,constitution,not,of,and,lunch,cuckoo,patient,work,end,or,clarify,judiciary,function,term,september,account,structure,them,in,moving,company,feet,plays,service,next,'\'\\\'s\'',here,on,it,what,they,attorney,information,nutcrackers,a,peaks,section,culture,crucial,maintenance,but,enchainement,conservation,huge,individual,opposable,by,mime,church,gives,tour,at,really,nation,missing,world,gianni,evangelistic,networks,held,woman,achieves}
+@attribute pos7 {NNS,null,JJR,RB,NN,DT,VB,VBG,JJ,IN,CC,NNP,PRP,VBZ,POS,WP,VBN}
+@attribute class {obj,subj}
+
+@data

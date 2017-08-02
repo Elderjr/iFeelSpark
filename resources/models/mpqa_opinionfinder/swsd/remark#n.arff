@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {remark}
+@attribute pos {NN}
+@attribute token0 {page,a,then,and,bourque,yarden,reacted,its,vatikay,which,heard,it,also,bryant,bush,the,as,thing,'\'n\\\'t\'',null,twilight,an,reduced,roids,to,street,reasons,when,for,coach,_,backed,her,guise,-lrb-,understanding,president,all,lineker,she}
+@attribute pos0 {NN,DT,RB,CC,NNP,VBD,PRP$,WDT,PRP,IN,null,VBN,NNS,TO,WRB,-LRB-}
+@attribute token1 {to,reporter,made,kids,over,vatikay,was,roots,downplayed,he,that,included,but,'\'\\\'s\'',asia-pacific,effect,evidenced,as,remember,flippant,null,hewitt,of,industry,in,furor,compensate,guy,told,shouting,deftly,a,away,charges,see,dick,never}
+@attribute pos1 {TO,NN,VBD,NNS,IN,NNP,PRP,CC,POS,JJ,VBN,VB,null,VBG,RB,DT}
+@attribute token2 {the,about,a,though,said,musharraf,in,bush,made,widely,his,most,region,of,by,an,making,or,null,insisted,wag,for,had,kept,slightly,from,on,smart-alecky,henry,cheney}
+@attribute pos2 {DT,IN,VBD,NNP,RB,PRP$,JJS,NN,VBG,CC,null,JJ}
+@attribute token3 {asterisk,the,mocking,his,overexposure,casual,'\'\\\'s\'',a,quoted,smart-aleck,brief,idol,foolish,that,offhand,dismissive,career,unusual,curious,this,derogatory,off-color,innocent,turn-signal,james,news,famous}
+@attribute pos3 {NN,DT,JJ,PRP$,POS,VBN,NNP}
+@attribute token4 {jackson,miller,about,did,the,appeared,made,by,that,leaving,null,he,was,thus,could,on,yeah,or,friel,drew,in,said,will,topoff,came,calling,moellemann,above,to,when,football,attributed}
+@attribute pos4 {NNP,IN,VBD,DT,VBN,WDT,VBG,null,PRP,RB,MD,UH,CC,TO,WRB,NN}
+@attribute token5 {hardly,said,all,not,topic,intended,by,saying,castro,u.s.,nadler,null,did,in,far,further,his,eisenhower,harmless,and,widespread,clemens,the,estonia,that,players,no,two,drew,gays,after,it,made,-rrb-,shiner,is,to}
+@attribute pos5 {RB,VBD,PDT,NN,VBN,IN,VBG,NNP,null,PRP$,JJ,CC,DT,NNS,CD,PRP,-RRB-,VBZ,TO}
+@attribute token6 {shied,i,the,seem,may,as,an,it,made,military,'\'d\\\'amato\'',null,'\'n\\\'t\'',is,annoy,audience,'\'\\\'s\'',prank,this,and,racially,when,chair,where,who,doubt,bush,but,laughs,staff,toward,third,some,shocking,also,los,cross-examined,a,her}
+@attribute pos6 {VBD,PRP,DT,VB,MD,IN,JJ,NNP,null,RB,VBZ,NN,POS,CC,WRB,WP,NNS,PRP$}
+@attribute token7 {away,was,invented,to,be,a,fda,would,in,force,called,null,cuss,politically,endpoint,his,beijing,although,threatening,-lrb-,production,appreciative,motivated,the,'\'\\\'s\'',he,had,used,inspire,have,member,pacers,person,conservatives,and,16,older,better,angeles,him,game}
+@attribute pos7 {RB,VBD,VBN,TO,VB,DT,NNP,MD,IN,NN,null,PRP$,VBG,-LRB-,JJ,POS,PRP,VBP,NNS,CC,CD,JJR}
+@attribute class {obj,subj}
+
+@data

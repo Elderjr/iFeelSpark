@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {ready}
+@attribute pos {JJ}
+@attribute token0 {say,of,are,repeatedly,be,have,he,as,rumors,players,franchising,at,and,null,aden,lewis,think,said,pakistan,the,moss,legislature,professional,a,plastic,nectar,it,olympic,still,sign,international,an,ntsb,when,quiet,dump,time,many,al,'\'\\\'m\'',you,groove,facing,valley,appeal,proposals,if,vinegar,trips,to,her,season,coordination,dream,just,natural,or,smokes,flaws,looks,before,race,was,presently,whether,should,net,hidden,what,deployment,'\'\\\'ll\'',but,shortly,explains,letters,-rrb-,three,here,so,world,hays,staff}
+@attribute pos0 {VB,IN,VBP,RB,PRP,NNS,VBG,CC,null,NNP,VBD,DT,JJ,NN,WRB,TO,PRP$,VBZ,MD,VBN,WP,-RRB-,CD}
+@attribute token1 {we,buyer,in,that,fully,a,expects,the,and,projected,system,hand,insert,began,null,is,had,he,his,buyers,united,may,players,petite,_,they,complex,says,me,monetary,interview,were,i,truck,you,students,happy,have,said,her,now,but,statement,let,other,get,their,group,of,country,house,need,gas,so,decide,like,recuperate,day,colonoscopy,under,be,for,before,band,ever,bryant,vardalos,four,sign,stand,minivans,once,nobody,spent,just}
+@attribute pos1 {PRP,NN,IN,RB,DT,VBZ,CC,VBN,VBD,null,PRP$,NNS,NNP,MD,JJ,VBP,VB,CD}
+@attribute token2 {are,that,shape,it,tuned,standby,to,teams,up,you,garlic,he,safe,better,'\'\\\'ll\'',null,country,eu,who,india,states,carter,finally,lovely,firefighters,refrigerate,is,would,i,fund,at,school,fire,colt,'\'\\\'m\'',we,'\'\\\'re\'',were,here,america,fans,hostile,should,with,she,marinate,hand,was,new,my,manhattan,came,neighborhood,a,businesses,people,oil,and,drug,grill,morning,england,construction,system,getting,years,benches,be,blastocyst,weeks,of,not,they,'\'\\\'s\'',designs,government,still,months}
+@attribute pos2 {VBP,WDT,NN,PRP,VBN,JJ,TO,NNS,RB,MD,null,NNP,WP,NNPS,VB,VBZ,IN,VBD,PRP$,DT,CC,VBG,POS}
+@attribute token3 {'\'n\\\'t\'',is,and,was,driver,be,appeared,'\'\\\'re\'',when,get,'\'\\\'s\'',now,were,are,understudy,woman,until,about,not,'\'\\\'m\'',stand,the,just,parliament,democrats,getting,regulations,players,apartment,home,groups,bill,ourselves,seem,totally,stage,being,really,remained}
+@attribute pos3 {RB,VBZ,CC,VBD,NN,VB,VBP,WRB,JJ,IN,DT,NNP,NNPS,VBG,NNS,PRP}
+@attribute token4 {to,and,for,day,said,mike,_,in,but,skewer,are,she,when,even,lightly,they,null,he,last,all,nobody}
+@attribute pos4 {TO,CC,IN,NN,VBD,NNP,VB,VBP,PRP,WRB,RB,null,JJ,DT}
+@attribute token5 {engage,financially,put,open,begin,sunday,the,finish,and,make,a,cook,class,his,receive,has,go,its,willing,once,pay,give,assist,break,approve,return,church,shift,grill,bloom,say,time,jump,anything,help,run,get,join,have,follow,'\'n\\\'t\'',buy,exploit,about,control,rock,says,defend,it,serve,i,jet,recommend,play,women,sister,that,invest,face,frying,use,your,do,after,oil,serenade,will,meet,real,hurricanes,shred,fire,is,deliver,null,went,be,july,resign,time-crunched,unify,switch,you,'\'\\\'s\'',development,resume,properly,war,this}
+@attribute pos5 {VB,RB,NNP,DT,CC,NN,PRP$,VBZ,JJ,IN,PRP,NNS,VBG,MD,null,VBD,POS,VBP}
+@attribute token6 {ourselves,able,past,talks,formal,'\'\\\'s\'',start,the,night,an,national,summer,place,then,trainer,more,been,null,reopening,to,again,up,that,a,in,some,bumps,goodbye,out,robinson,whatever,oversee,incident,attention,monkfish,his,it,our,suit,you,castilla,pre-emptive,them,her,any,two,for,themselves,we,just,on,matter,was,antibiotics,at,chavez,as,opportunity,president,billions,real,when,according,technology,back,cell,this,compete,and,world,i,close,demonstrated,0-for-4,implanted,but,u.s.,concerned,do,really,fight,got}
+@attribute pos6 {PRP,JJ,NNS,POS,NN,DT,RB,JJR,VBN,null,VBG,TO,RP,IN,NNP,WDT,VB,PRP$,CD,VBD,WRB,CC,VBP}
+@attribute token7 {in,to,behind,india,observations,race,of,equivalent,immediate,push,trip,eggplants,the,bob,vessels,trying,null,move,_,even,their,people,mold,gay,china,a,breland,and,said,happens,reforms,did,that,chunks,best,on,peers,last,valentine,strikes,when,dancing,vulnerability,years,senate,band,counteroffer,ladies,'\'\\\'re\'',pop,'\'n\\\'t\'',his,generally,'\'\\\'s\'',anchors,wedding,comes,life,we,damage,out,pathways,rack,queen,includes,for,hold,use,certainly,now,at,be,through,goods,before,cooking,they,open,consumers,yet,sunday,is,second-generation,but,probably,never}
+@attribute pos7 {IN,TO,NNP,NNS,NN,JJ,DT,VBG,null,VB,RB,PRP$,CC,VBD,VBZ,WDT,JJS,WRB,VBP,POS,PRP}
+@attribute class {obj,subj}
+
+@data

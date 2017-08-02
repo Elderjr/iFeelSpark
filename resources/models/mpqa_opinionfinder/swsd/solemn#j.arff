@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {solemn}
+@attribute pos {JJ,NNP}
+@attribute token0 {before,tolerated,he,the,addressed,had,could,back,spire,and,failure,an,fourteen,used,rods,almost,window,out,programs,on,ii,died,not,undersized,crossing,for,their,as,1910-1917,have,be,ensures,ben,by,was,cause,'\'\\\'ve\'',monarchy,did,weeping,it,to,rougher,with,jokes,june,church,'\'\\\'ll\'',she,his,whilst,most,her,contrasts,tom,sorts,silence,gave,of,grave,night,different,but,too,captain,a,is,still}
+@attribute pos0 {IN,VBD,PRP,DT,MD,RB,NN,CC,CD,VBN,NNS,RP,NNP,VBG,PRP$,VB,VBZ,VBP,TO,JJR,JJS,JJ}
+@attribute token1 {you,even,looked,baronessa,them,broken,be,told,to,is,middle,lanky,of,ancient,days,for,parodically,his,with,the,he,that,and,networks,becoming,disorderly,gave,it,extracted,used,a,'\'\\\'s\'',at,written,not,returning,baby,this,make,more,religious,unbecoming,1983,exercised,wrestled,column,quran,instance,i,fantastic,stayed,well,on,witherington,face,from,john,her,pair,always,thick-lipped,in}
+@attribute pos1 {PRP,RB,VBD,NNP,VBN,VB,TO,VBZ,NN,IN,JJ,NNS,PRP$,DT,CC,VBG,POS,RBR,CD}
+@attribute token2 {in,encouraged,wise,looked,all,the,or,us,national,dignified,of,his,and,rations,light,at,movements,be,news,monday,issue,was,is,alps,to,staid,her,simon,for,happy,voice,deep,once,there,expression,keep,officer,made,austere,symbolism,nineteen,becomes,a,stood,on,with,puts,followed,noun,parade,grew,gaze,nodded,charge}
+@attribute pos2 {IN,VBD,JJ,DT,CC,PRP,PRP$,NNS,VB,NN,NNP,VBZ,TO,RB,VBN}
+@attribute token3 {this,the,and,more,in,very,how,a,plans,sombre,1969,rather,these,were,take,'\'\\\'s\'',yet,was,free,is,his,their,swearing,be,look,faintly,conventionally,most,mock,few,suitably,heavy,making}
+@attribute pos3 {DT,CC,RBR,IN,RB,WRB,NNS,NN,CD,VBD,VB,POS,JJ,VBZ,PRP$,JJS,RBS,VBG}
+@attribute token4 {manner,formalities,when,than,tones,promises,with,mood,and,(568),crisis,face,ritual,instructions,sacerdotal,moment,music,cortege,admonition,as,pledge,null,formation,vows,-rrb-,thanksgiving,kiss,experience,oath,ending,sadness,the,it,word,assurance,way,pronouncement,to,declaration,thought,he,recitation,wind,air,eleanor,fast-day,vow,ticking,emphasis,men,words,period,newspaper,unblinking,turkish,thing,man,authoritative}
+@attribute pos4 {NN,NNS,WRB,IN,CC,CD,null,VBZ,-RRB-,DT,PRP,TO,NNP,JJ}
+@attribute token5 {null,of,he,she,foreboding,suddenly,binding,alan,framed,the,never,formal,periods,into,precise,conventional,to,anybody,but,kingston,ceremony,that,archaic,more,drums,is,lines,renewed,past,in,not,public,monopolize,on,through,said,'\'\\\'ll\'',important,began,most,her,their,than,cuttings,quietly,sentries,like,pronouncements}
+@attribute pos5 {null,IN,PRP,VBG,RB,JJ,NNP,VBN,DT,NNS,TO,NN,CC,RBR,VBZ,VB,VBD,MD,JJS,PRP$}
+@attribute token6 {null,stateless,said,had,falling,undertakings,burst,by,covenant,admitting,to,instruments,this,the,woman,nine,his,would,a,introduced,kinship,sit,if,style,familiar,thrill,of,at,these,only,oaths,european,an,gay,be,event,life-changing,husband,dark,large,recognition,day,keith,ordered,from,turn,and}
+@attribute pos6 {null,JJ,VBD,VBG,NNS,NN,IN,TO,DT,CD,PRP$,MD,VB,VBP,RB,NNP,CC}
+@attribute token7 {null,justice,this,when,made,upon,high,in,jet,the,of,capitulate,emanating,indisputable,brute,alternately,white,people,be,user,and,she,firebird,aye,death,believe,age,speyer,procedures,series,companies,mohammedan,to,conversation,union,ecumenical,sacked,offer,such,blow,decision,dining,'\'\\\'s\'',year,commitment,clock,suits,brood,had,his,down,bulldog,predictions}
+@attribute pos7 {null,NN,DT,WRB,VBN,IN,JJ,VB,VBG,RB,NNS,CC,PRP,NNP,TO,POS,VBD,PRP$,RP}
+@attribute class {obj,subj}
+
+@data

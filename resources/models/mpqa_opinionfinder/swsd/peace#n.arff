@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {peace}
+@attribute pos {NN,NNP}
+@attribute token0 {war,he,special,exile,all,w.,deployed,in,that,to,null,will,role,bouteflika,give,from,george,maintain,after,unknown,effort,crime,chance,foggy,served,like,arabs,for,determination,of,necessary,his,the,good,a,years,bush,has,animals,are,said,prayerful,work,as,carnegie,illusion,syria,better,one,have,carolina,we,july,is,convening,hates,no,government,move,reneging,unequivocal,job,reaction,weight,it,support,two,nominated,parties,more,sine,great,at,anwar}
+@attribute pos0 {NNP,PRP,JJ,NN,DT,VBN,IN,TO,null,MD,VB,NNPS,PRP$,NNS,VBZ,VBP,VBD,JJR,CD,VBG}
+@attribute token1 {ended,is,assistant,to,_,bush,order,northern,derail,help,the,finally,democratic,in,attempted,a,power,mason,spaniard,they,and,calling,yangon,vision,warlords,for,hesse,fighting,great,of,promoted,proposed,contentious,certain,state,friday,lines,quickly,null,endowment,member,that,could,effort,day,arafat,can,15,carnegie,with,blueprint,israel,progress,toward,palestinian,on,u.s.,country,lead,endgame,are,crumbled,years,families,must,new,detailed,qua,powers,camp,sadat}
+@attribute pos1 {VBD,VBZ,NN,TO,NNP,VB,DT,RB,JJ,IN,PRP,CC,VBG,NNS,VBN,null,MD,CD,VBP}
+@attribute token2 {without,searching,for,work,have,'\'\\\'s\'',help,to,ireland,the,restart,two,bring,sen.,achieving,chance,voice,university,independence,failure,finally,push,become,live,deceptive,time,war,accept,1995,get,and,hunter,found,follows,his,a,giving,middle,preconditions,give,toward,null,prerequisite,of,there,sign,at,after,ability,not,endowment,an,on,resume,areas,oslo,need,commitment,achieve,winning,pogue,obstacles,ensuring,will,than,non,worked,david,professor}
+@attribute pos2 {IN,VBG,VB,VBP,POS,TO,NNP,DT,CD,NN,RB,JJ,CC,VBD,VBZ,PRP$,NNS,null,EX,MD}
+@attribute token3 {a,for,mideast,made,much-anticipated,implement,achieve,'\'\\\'s\'',1998,major,about,steve,restore,of,and,found,the,on-duty,in,his,dayton,nobel,bringing,relative,oslo,israel-palestinian,regional,owners,east,me,restoring,null,international,that,make,revive,wizards,its,called,failed,genuine,makes,to,lasting,separate,saudi,labor,find,toward,1978}
+@attribute pos3 {DT,IN,JJ,VBN,VB,POS,CD,NNP,CC,VBD,NN,PRP$,VBG,NNS,PRP,null,VBZ,TO}
+@attribute token4 {treaty,and,null,with,policy,after,in,accord,negotiations,agreements,said,by,boradcasts,of,talks,on,process,officers,to,proposals,a,plan,agreement,laureate,deal,_,according,conference,d-chula,corps,between,table,prize,now,among,an,platform,efforts,was,will,that,offering,mission,while,requires,sharon}
+@attribute pos4 {NN,CC,null,IN,NNS,VBD,VBZ,TO,DT,NNP,VBG,RB,MD}
+@attribute token5 {null,he,unity,the,speech,and,that,of,california,offering,programs,public,last,center,forward,defeat,terrorist,tad,on,to,will,afghanistan,mind,reached,wednesday,vista,must,chechnya,broke,with,was,each,winner,a,democrat,africans,international,jews,which,sometime,like,unraveling,closed,prosperity,prevent,all,absolutely,there,israelis,adopted,spokesman,mcveigh,by,put,'\'\\\'s\'',economic,egypt,development}
+@attribute pos5 {null,PRP,NN,DT,CC,WDT,IN,NNP,VBG,NNS,JJ,RB,VB,TO,MD,VBN,VBD,NNPS,PDT,POS}
+@attribute token6 {null,wo,in,speaker,_,bosnian,middle,the,paved,kingdom,region,needs,militants,on,policy,nation,summer,court,and,they,terror,criticized,organization,wordy,bosnia-herzegovina,find,visit,birth,it,zimmermann,between,more,at,like-minded,said,arab,one,while,chairman,continue,saying,down,two,israel,followed,would,reached,leading,to,from,africans,think,is,president,this,his,its,sharon,country,rings,led,by,british,white,new,'\'\\\'s\'',martin,announced,forward,reaction,cooperation}
+@attribute pos6 {null,MD,IN,NN,NNP,DT,VBD,VBZ,NNS,CC,PRP,VB,JJR,JJ,CD,VBG,RP,VBN,TO,NNPS,PRP$,POS,RB}
+@attribute token7 {null,'\'n\\\'t\'',the,'\'\\\'s\'',results,war,east,joint,1990s,so,amnesty,children,program,and,at,hoped,him,operating,tolstoy,stressed,a,of,turned,israel,middle,jim,leaders,sharon,last,that,in,sides,assad,by,continuously,officials,make,watchdog,move,el,themselves,tank,not,palestinians,andres,summer,own,missions,from,was,parties,true,ending,arab,house,however,execution,luther,on,is}
+@attribute pos7 {null,RB,DT,POS,NNS,NN,NNP,JJ,CC,IN,VBD,PRP,VBG,VB,NNPS,VBZ}
+@attribute class {obj,subj}
+
+@data

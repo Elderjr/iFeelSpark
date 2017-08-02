@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {reason}
+@attribute pos {NN}
+@attribute token0 {null,think,but,'\'3,600\'',given,corporate,in,the,a,26,this,active,as,us,for,her,no,follows,tell,there,seems,is,that,to,league,said,automatic,'\'\\\'s\'',edmilson,fit,offer,ever,according,find,lewis,boston,united,modest,and,do,gee,pound,on,smoke,show,such,lose,lobby,york,ministers,turns,demographic,time,vaguely,joined,moment,road,who,renounced,state,hall,people,surgery,he,if,economic,by,were,neck,opposed,be,an,courthouse,satisfied,are,hope,built,did,close,reduced,washington,wide}
+@attribute pos0 {null,VBP,CC,CD,VBN,JJ,IN,DT,PRP,PRP$,VBZ,VB,EX,TO,NNP,VBD,POS,NN,RB,VBG,NNS,WP}
+@attribute token1 {there,we,part,workers,them,offices,orlando,morning,null,harpy,it,is,a,for,he,clinical,sentence,means,no,me,'\'\\\'s\'',without,viewed,was,be,and,they,in,that,the,beckham,or,iaaf,to,an,nations,size,their,university,'\'n\\\'t\'',all,you,gadgets,as,mayors,situps,should,out,group,_,understands,has,says,calls,sense,video,abortion,iota,angry,katabami,steinfield,role,research,area,positions,not}
+@attribute pos1 {EX,PRP,NN,NNS,NNP,null,VBZ,DT,IN,JJ,VBN,VBD,VB,CC,TO,PRP$,RB,PDT,MD,RP}
+@attribute token2 {is,digress,of,for,as,and,null,read,the,more,tried,actually,trials,though,rhyme,briefly,a,explanation,had,saw,games,'\'\\\'s\'',trial,sees,with,gave,voice,chon,some,projects,fans,was,loud,whatever,know,not,find,will,legitimate,an,been,its,he,no,cameras,that,another,downturn,this,said,1994,see,group,have,just}
+@attribute pos2 {VBZ,NN,IN,CC,null,VBD,DT,RBR,RB,NNS,NNP,JJ,WDT,VB,MD,VBN,PRP$,PRP,CD,VBP}
+@attribute token3 {no,a,the,one,my,any,another,only,direct,same,to,or,good,biblical,generic,main,big,that,of,bogus,had,other,null,more,whatever,very,major,few,have,business,ultimate,unknown,compelling,leading,has,personal,ridiculous,see}
+@attribute pos3 {DT,CD,PRP$,JJ,TO,CC,IN,VBD,null,JJR,WDT,VB,NN,VBG,VBZ,RB}
+@attribute token4 {why,summer,we,for,the,he,to,is,including,say,she,said,excel,may,that,was,null,it,quinn,notes,posintang,remains,fortunately,some,enough,most,or,prevailed,there,in,and,so,they,i,new,than,but,officials,mendieta,beurman}
+@attribute pos4 {WRB,NN,PRP,IN,DT,TO,VBZ,VBG,VBP,VBD,NNP,MD,null,RB,NNS,RBS,CC,EX}
+@attribute token5 {north,evenings,'\'\\\'re\'',the,company,said,lawmakers,go,live,that,food,critics,was,olivier,has,be,medical,this,fight,unclear,le,zuckerman,your,null,hurricanes,quite,divorce,remaining,olympics,favor,revise,left,it,make,is,its,called,think,debated,for,buyers,celebrate,bush,further,critically,considering,ca,give,cook,can,people,believe,united,no,her,fall,if,tinker,parenting,feel,asking,family,1915,struck,fly,few,run,we,being,europe,optimism,war,do,york,his,momentarily,stay,second-guess,both,he,come,victor,gave,i,money,worry,would}
+@attribute pos5 {NNP,NNS,VBP,DT,NN,VBD,VB,IN,VBZ,JJ,PRP$,null,NNPS,RB,VBG,PRP,VBN,MD,CD}
+@attribute token6 {hills,are,high,recent,believes,use,to,null,air,feathers,is,fired,hensgen,fear,'\'n\\\'t\'',found,device,mets,man,for,departure,pen,call,however,will,simple,she,skeptical,budget,the,repetition,'\'\\\'s\'',record,defense,big,government,so,decision,aarp,if,disappeared,this,there,boxing,search,view,investigation,lukewarm,a,container,up,them,happen,used,states,software,success,bill,reflexively,your,judges,little,with,skills,good,it,state,trip,but,boosterism,and,soccer,out,'\'\\\'ve\'',_,fans,you,easy,was,resignation,holds,private,more,their,cruelly,should,result,in,may,collision,we,be}
+@attribute pos6 {NNP,VBP,JJ,VBZ,VB,TO,null,NN,NNS,VBN,RB,NNPS,IN,MD,PRP,DT,EX,POS,RP,PRP$,CC,VBD,RBR}
+@attribute token7 {can,not,on,rise,better,them,approve,the,null,power,or,money,our,a,that,sold,in,stocks,could,is,his,of,'\'\\\'s\'',lose,they,said,about,has,designated,constitution,miami,beginning,price,jelled,changes,to,popular,burokas,from,for,it,present,visit,law,idea,but,shift,would,do,right,so,tobacco,princess,still,maker,hangers,refused,doubt,their,then,interest,was,while,tree,does,leagues,been,and,boom,push,have,might,'\'\\\'ve\'',spokesman,optimistic,decision,ironic,be,banking,sit,lifting,had,may,are,good}
+@attribute pos7 {MD,RB,IN,NN,JJR,PRP,VB,DT,null,CC,PRP$,VBN,NNS,VBZ,POS,VBD,NNP,VBG,TO,JJ,WDT,VBP}
+@attribute class {obj,subj}
+
+@data

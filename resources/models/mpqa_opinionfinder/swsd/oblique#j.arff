@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {oblique}
+@attribute pos {JJ,NNP}
+@attribute token0 {is,under,a,verbivore,disapproval,'\'\\\'s\'',said,to,basin,based,kill,memory,make,meant,were,-rrb-,right,high,poetry,alia,questioningly,are,of,there,survives,learned,cells,35,in,than,or,work,principle,polished,be,moving,tartar,for,views,club,and,mobile,was,the,this,painful,true,narthex,from,identified,across,subject,formation,black,glad,president,compartment,performance,by,approachable,glance,better,human,plate,interesting,clear}
+@attribute pos0 {VBZ,IN,DT,NNP,NN,POS,VBD,TO,VBN,VB,-RRB-,JJ,RB,VBP,EX,NNS,CD,CC,VBG,JJR}
+@attribute token1 {at,the,discussion,decibel,obvious,angle,so,mama,may,on,me,he,her,for,arranged,a,place,relief,just,to,is,delivered,can,only,knuckles,factors,mph,their,irregular,in,faces,seen,and,as,tunic,evident,earlier,added,mouth,maintained,ground,challenge,gordon,set,images,but,relation,that,its,this,from,of,ability,there,elect,gave,technical,shadow,when,result,was,threat,spirit,mirror,movements}
+@attribute pos1 {IN,DT,NN,NNP,JJ,RB,MD,PRP,PRP$,VBN,TO,VBZ,NNS,CC,VBD,EX,VB,WRB}
+@attribute token2 {some,action,filled,makes,in,grew,openly,mosambiki,be,even,questions,herself,lack,cuthbert,catching,as,throw,that,pavement,is,such,into,families,a,bodies,rectangular,bevelled,at,against,with,somewhat,only,and,her,was,woods,this,conclusions,scale,feature,are,neutral,progenitor,rip,slightly,to,use,clinton,formal,it,of,disturbing,sail,which,can,note,occurrence}
+@attribute pos2 {DT,NN,VBN,VBZ,IN,VBD,RB,NNP,VB,NNS,PRP,VBG,JJ,CC,PRP$,VBP,TO,WDT,MD}
+@attribute token3 {angle,of,with,an,more,since,'\'\\\'s\'',formed,rather,the,less,in,as,picture,and,by,this,its,antagonistic,often,such,-rrb-,typically,plan,detector,composite,currents,generate,every,indirect,is,two,force,finds,some,be}
+@attribute pos3 {NN,IN,DT,RBR,POS,VBN,RB,CC,PRP$,JJ,-RRB-,NNP,NNS,VB,VBZ,CD}
+@attribute token4 {to,waves,references,reference,way,null,hints,approach,convergence,remarks,implication,as,line,disciplinary,beam,form,light,perspective,or,remark,satire,and,barrier,stroke,assemblies,forms,facets,angle,seam,spaces,ways,wit,one,lyric,projections,contor,space,view,rather,weapon,parallel,viewpoint,courses,only,expression,thrust}
+@attribute pos4 {TO,NNS,NN,null,IN,JJ,CC,CD,RB}
+@attribute token5 {the,longshore,to,-lrb-,null,were,on,in,that,of,as,strategies,with,he,upon,forming,is,dog-leg,transverse,rather,subtle,informal,at,from,moving,or,and,about,noncommittal,provide,ever,which,where,than,against,here,it,implied,could,well,introduces}
+@attribute pos5 {DT,NN,TO,-LRB-,null,VBD,IN,NNS,PRP,VBG,VBZ,JJ,RB,CC,VBP,WDT,WRB,MD}
+@attribute token6 {line,currents,the,ingarden,not,null,just,kafala,pliny,he,may,saying,in,and,aldfrith,shadowing,analyzed,asking,a,clearly,approach,richard,cuts,than,ways,normal,way,plans,meditation,these,dreaded,his,however,one,our,might,shore,vertical,topic,which,is,get,as,religion,conceivably}
+@attribute pos6 {NN,NNS,DT,NNP,RB,null,PRP,VBG,IN,CC,VBD,JJ,VB,PRP$,CD,MD,WDT,VBZ}
+@attribute token7 {of,and,'\'o\\\'keeffe\'','\'\\\'s\'',up,null,as,brothers,other,had,1768,that,lampreys,a,in,giving,it,characteristics,me,house,unlike,woman,the,assemblies,same,sides,narrow,for,on,coat,block-like,breathalyser,us,referred,oxleas,trite,impending,having,plan,george,reader,subject,stricken,encourage,problem,views,upstart,asylum,altar,he,down,if,be,simply,director-general,distortion}
+@attribute pos7 {IN,CC,NNP,POS,RB,null,NNPS,JJ,VBD,CD,NNS,DT,VBG,PRP,NN,VB,RP}
+@attribute class {obj,subj}
+
+@data

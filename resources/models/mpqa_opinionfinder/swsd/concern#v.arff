@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {concerned,concerns,concerning,concern}
+@attribute pos {VBN,VBZ,VBG,VB,VBD}
+@attribute token0 {null,draft,his,aids,in,it,because,with,to,of,eu,as,brazil,the,'\'o\\\'neal\'','\'\\\'s\'',far,make,2000,has,recent,true,recently,cents,is,party,i,steady,yes,yukie,visit,members,social,from,said,calls,you,lucent,where,ecology,officials,senate,and,california,at,final,speaker,interviewer,some,but,comment,also,explanation,certainly,care,that,this,lakers,lead,'\'o\\\'neill\'',she,level,told,disappointingly,national,voters,be,for,special,much,approval,interveners,international}
+@attribute pos0 {null,NN,PRP$,NNP,IN,PRP,TO,DT,POS,RB,VB,CD,VBZ,JJ,NNS,VBD,WRB,CC,VBP,NNPS}
+@attribute token1 {they,null,accord,place,experts,particular,does,it,a,whom,policies,officials,some,'\'\\\'s\'',european,is,the,regulatory,if,as,scolari,i,an,with,changed,failures,sharing,europeans,who,ca,drip,we,because,said,service,civil,he,from,need,congressional,have,team,her,here,democrats,his,demand,tribal,apparently,not,that,would,and,immigrant,issue,are,recalled,author,archdiocesan,torre,mets,reporters,lax,february,region,catholic,hierarchy,in,called,marketing,session,though,faculty,economic}
+@attribute pos1 {PRP,null,NN,NNS,JJ,VBZ,DT,WP,POS,IN,NNP,VBN,NNPS,MD,VBD,VBP,PRP$,RB,CC}
+@attribute token2 {are,people,and,their,were,he,include,does,suit,it,claim,championships,very,i,mariners,policies,they,we,also,'\'\\\'m\'',informed,traders,for,of,'\'\\\'ve\'',to,only,now,'\'n\\\'t\'',should,had,agencies,playing,rights,was,democratic,district,children,life,who,'\'\\\'s\'',discomfort,by,pump,brazilians,proponents,she,members,something,john,get,residents,that,just,hip,photography,atsb,writes,regulators,officials,washington,lay,has,2004,is,laney,democrats,some,policy}
+@attribute pos2 {VBP,NNS,CC,PRP$,VBD,PRP,VB,VBZ,NN,RB,NNPS,JJ,IN,TO,MD,WP,NNP,WDT,CD,DT}
+@attribute token3 {also,are,dispute,already,was,information,not,purely,may,procedures,particularly,is,open,am,were,has,decision,still,those,been,get,platform,be,disclosures,and,groups,women,mainly,science,increasingly,generally,it,that,mcenroe,them,would,as,which,professionals,greatly,'\'\\\'re\'',leaders}
+@attribute pos3 {RB,VBP,NN,VBD,MD,NNS,VBZ,JJ,DT,VBN,VB,CC,PRP,WDT,NNP}
+@attribute token4 {that,we,the,about,his,i,sexual,they,there,null,environmental,with,as,poor,and,what,economists,is,she,by,on,my,for,me,not,when,if,some,was,nye,to,enough}
+@attribute pos4 {IN,PRP,DT,PRP$,JJ,EX,null,CC,WP,NNS,VBZ,RB,WRB,VBD,NNP,TO}
+@attribute token5 {some,have,the,dolpo,rising,computer,airport-stadium,contents,use,expression,there,were,are,null,dislike,this,his,health,de-escalation,legal,wall,report,new,vehicle,test,it,what,to,political,or,yes,their,who,really,osteoporosis,with,having,lacerates,an,human,concern,shade-grown,a,germany,only,her,drink,angels,keeping,self-centered,either,not,need,policy,japanese,doctors,protecting,reports,said,how,we,keep,about,dreaded,shaq,see,of,he}
+@attribute pos5 {DT,VBP,NNP,VBG,NN,NNS,EX,VBD,null,PRP$,JJ,PRP,WP,TO,CC,RB,IN,VBZ,NNPS,WRB,VB}
+@attribute token6 {of,received,new,villagers,rates,perception,use,portion,earplugs,and,was,the,no,null,is,pitch,they,health,judge,street,added,companies,as,in,most,whether,correctness,misleading,we,financial,gop,implications,track,thought,views,number,party,her,interrelationship,ever,united,rights,coffee,justice,lot,'\'\\\'s\'',that,handling,bank,nature,governments,system,upset,to,might,people,nets,children,potential,thus,passage,passive,team,rising,'\'\\\'re\'',total,diminished,his,alternative,getting,competitors,board,process,biotech,their,had}
+@attribute pos6 {IN,VBN,JJ,NNS,NN,CC,VBD,DT,null,VBZ,PRP,NNP,RB,JJS,VBP,PRP$,POS,TO,MD,VBG}
+@attribute token7 {the,dozens,administration,annual,of,in,to,no,beneficiaries,subsidies,null,san,a,count,safety,would,'\'\\\'s\'',factual,and,with,well,people,or,suspects,financial,should,straits,base,maybe,on,had,smaller,deal,embittered,more,states,but,that,which,department,air,ad,nothing,bay,jeffords,know,be,transition,york,agents,windfall,price,approach,tide,going,amount,importance,ministry,loyalty,minimum,flocking,not,candidate,will,project,trade}
+@attribute pos7 {DT,NNS,NN,JJ,IN,TO,null,NNP,MD,POS,CC,RB,VBZ,VBD,JJR,RBR,NNPS,WDT,VB,VBG}
+@attribute class {obj,subj}
+
+@data

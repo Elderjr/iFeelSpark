@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {struggle}
+@attribute pos {NN,NNP}
+@attribute token0 {in,averting,it,of,physicians,the,null,kuchma,mikhail,was,successor,would,story,as,he,blunt,be,girding,continue,deal-making,sacked,still,ibrahim,frozen,indonesian,1998,an,norberg,ryan,with,charge,long,larger,a,polarized,well,a.m.,intellectuals,footnote,and,1974,party,people,through,to,purity,themselves,up,added,some,soccer,die,element,concluded,mahathir,supporting,that,begun,martyrs,out,little,'\'n\\\'t\'',can,'\'20,000\'',devils,time,tax-cut,might,ago,planned,_,based,associated,is,document,'\'\\\'ve\'',islamic,snatched}
+@attribute pos0 {IN,VBG,PRP,NNS,DT,null,NNP,VBD,NN,MD,JJ,VB,VBP,VBN,RB,CD,JJR,CC,TO,RP,NNPS,VBZ}
+@attribute token1 {the,a,will,control,experts,torment,'\'\\\'s\'',youzhny,only,lost,have,was,country,of,it,an,ending,portrayed,realities,in,victorious,for,feeding,presaging,after,fragile,when,democratic,goffman,elderly,died,is,has,olson,null,mild,made,and,war,surprising,not,-rrb-,who,he,faced,follows,from,kidman,his,know,as,describing,still,small,that,watch,during,symbol,next,light,lead,journals,much,to,package,be,vividly,harlem,yet,effectively,on,with,saddened,palestinians,expect,benefited,group,moderates,rahman}
+@attribute pos1 {DT,MD,NNP,NNS,VBP,POS,RB,VBD,VB,NN,IN,PRP,VBG,JJ,WRB,VBZ,null,CC,-RRB-,WP,PRP$,TO,VBN,NNPS}
+@attribute token2 {1940s,potential,be,as,say,of,purely,position,was,half,a,been,such,'\'\\\'s\'',indigenous,its,his,assessing,without,the,and,party,woman,in,cooke,become,null,cognitive,government,sometimes,is,story,locked,joined,their,remembers,an,continuing,wife,about,watching,faces,not,apparent,increase,town,kashmir,meanwhile,company,year,on,any,lose,19-year,many,dramatize,showed,chronicled,her,begin,exploiting,that,countrymen,from,civil}
+@attribute pos2 {NNS,JJ,VB,IN,VBP,RB,NN,VBD,PDT,DT,VBN,POS,PRP$,VBG,CC,NNP,null,VBZ}
+@attribute token3 {but,power,a,the,that,political,and,leadership,freedom,armed,own,daily,holy,current,of,eternal,'\'\\\'s\'',confirmation,impairment,breakers,bitter,in,short,20-year,uphill,internecine,luhrmann,his,israeli,longtime,carrigan,macabre,starters,death,succession,catalan,team,late-season,palestinian,real,our,doctors,long,her,months-long,their,lifelong,rights}
+@attribute pos3 {CC,NN,DT,JJ,IN,POS,NNP,PRP$,NNS}
+@attribute token4 {with,between,null,for,is,electrifies,to,which,as,and,he,was,last,without,this,amid,during,began,sampras,over,in,against,has,of,the,after,getting,by,ahead,these,back,that,from,also,before,such}
+@attribute pos4 {IN,null,VBZ,TO,WDT,CC,PRP,VBD,JJ,DT,NNP,VBG,RB}
+@attribute token5 {in,the,null,kashmir,rooted,pryor,try,did,pecor,was,says,a,not,an,week,would,sell,blood,congress,managers,take,retain,detention,unearth,our,had,tried,end,which,success,meaning,officers,grow,enough,balance,his,legitimate,promote,cancer,been,african-americans,two,push,gain,promenade,redemption,eight,maintain,1998,through,educate,moyer,turn,playoff,your,hispanics,improve,said,negotiations,political,tamil,keep,days,overcome,followed,win,tomorrow,women,jerusalem,pits,israel,weight,us,as,iran,hbo}
+@attribute pos5 {IN,DT,null,NNP,VBN,VB,VBD,VBZ,RB,NN,MD,NNS,PRP$,WDT,JJ,NNPS,CD,PRP}
+@attribute token6 {the,military,null,'\'\\\'s\'',in,jaruzelski,opposition,'\'n\\\'t\'',first,subsequently,book,week,yet,old,lakers,campaign,palestinians,without,is,agents,asian,votes,madagascar,a,normals,custody,officers,leaders,then,warrant,stigma,to,argentina,each,enemies,-lrb-,who,racist,used,food,his,attempt,resistance,their,that,tarnished,future,jeffs,stability,west,superiority,political,years,and,children,it,seedings,founded,own,minimum,here,house,power,rebels,up,eastern,group,for,alcoholism,an,kinship,with,everywhere,taliban,him,israel,elements,jenkins,former,israeli}
+@attribute pos6 {DT,JJ,null,POS,IN,NNP,NN,RB,NNPS,VBZ,NNS,TO,-LRB-,WP,VBN,PRP$,CC,PRP,RP}
+@attribute token7 {television,and,null,freedom,the,genius,is,he,improve,balked,convicted,learning,to,over,tribal,a,peacefully,as,new,body,ideal,economic,ravalomanana,hard,of,his,sense,first,was,did,keep,'\'\\\'s\'',player,asking,had,apartheid,obligation,in,50,there,by,get,knew,limbs,between,rights,literary,has,political,profit,20,psychology,nine,where,hitting,form,fighting,conference,reconfigured,died,officer,demonstrations,for,one,against,also,difference,said,occupation,supreme,which}
+@attribute pos7 {NN,CC,null,DT,VBZ,PRP,VB,VBD,VBN,TO,IN,JJ,RB,NNP,PRP$,POS,VBG,CD,EX,NNS,WRB,WDT}
+@attribute class {obj,subj}
+
+@data

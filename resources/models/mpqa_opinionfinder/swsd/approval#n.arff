@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {approval}
+@attribute pos {NN}
+@attribute token0 {trust,was,water,which,senate,wavered,a,in,'\'\\\'s\'',class,norms,sufficient,have,created,regents,cnn-heavy,with,the,75,of,there,bush,to,prospects,null,then,good,similar,who,bill,does,them,union,referring,ari,for,wonderwall,company,allegations,had,same,has,house,areas,equivalent,alone,passing,epa,foreign,ballot,put,could,revolution,i,would,legislative,slushed,sign,is,think,shoulders,_,proposal,gamble,human,tokyo,state,assure,zacarias,authorities,far,subject,why,others,cabinet,he,crisis,partnership,gov.,two,it}
+@attribute pos0 {NN,VBD,WDT,NNP,VBN,DT,IN,POS,NNS,JJ,VBP,CD,EX,TO,null,RB,WP,VBZ,PRP,VBG,VB,MD,WRB}
+@attribute token1 {instead,hoping,with,registered,appropriations,researcher,the,motion,to,that,documentation,never,must,crowd,helping,president,percent,regents,simple,charter,also,'\'\\\'s\'',loya,for,null,way,attempt,housekeeping,cabinet,part,process,will,wins,not,without,is,terrorist-fighting,grant,a,fleischer,his,and,cianci,failed,authority,refused,budget,of,following,had,cars,can,donations,measure,transaction,federal,arrest,drug,refuse,it,have,be,agenda,application,friday,policy,new,has,subject,share,won,charge,senate,upper,-rrb-,wants,anonymity,quality,moussaoui,enough,last,shout,would,panel,rick,jamaican}
+@attribute pos1 {RB,VBG,IN,VBD,NNS,NN,DT,TO,WDT,MD,NNP,JJ,POS,null,VB,VBZ,PRP$,CC,VBN,PRP,VBP,-RRB-}
+@attribute token2 {in,for,46,38,committees,his,who,book,have,require,and,received,stalin,give,hooted,win,'\'\\\'s\'',he,majority,but,must,proposal,vatican,jirga,natrecor,however,to,before,stamp,gave,depended,of,seek,clears,prior,seeking,potential,without,the,called,father,hello,king,application,has,officials,discussion,god,honked,order,got,subject,required,null,'\'n\\\'t\'',implemented,nodded,needs,light,seen,european,signs,preliminary,with,gives,house,overall,roar,beijing,exhibition,requires,been,doctor,bill,master,won,obtain,u.s.,week,out,ensure,lowered,perry,firms}
+@attribute pos2 {IN,CD,NNS,PRP$,WP,NN,VB,VBP,CC,VBN,NNP,VBD,POS,PRP,MD,RB,TO,VBZ,JJ,VBG,DT,UH,null,RP}
+@attribute token3 {sleeker,government,percent,for,job,won,'\'\\\'s\'',final,fda,vatican,without,its,senate,solid,received,be,the,secure,of,on,seeking,court,congressional,regulatory,including,sec,house,enjoyed,seek,block,issue,and,anticipated,their,to,legislative,full,preliminary,gotten,after,win,federal,with,await,her,union,investor,over-the-counter,parliamentary,audience,such,cabinet,his,garner}
+@attribute pos3 {NN,IN,VBD,POS,JJ,NNP,PRP$,VB,DT,VBG,VBN,CC,TO,VBP}
+@attribute token4 {processes,soon,and,among,null,rating,to,of,for,june,from,during,by,on,69,is,in,said,because,trading,plastic,indicating,today,this,_,embezzlement,we,a,ratings,will,he,i,would,only,or,at,remained,disney,thursday,the}
+@attribute pos4 {NNS,RB,CC,IN,null,NN,TO,NNP,CD,VBZ,VBD,JJ,VBG,DT,PRP,MD}
+@attribute token5 {that,to,41,those,null,holding,conduct,access,treatment,4,the,world,all,thursday,had,percent,launch,necessary,advance,its,in,such,surgeons,a,regulatory,local,year,drew,buy,and,thought,china,east,process,of,what,be,an,congress,was,may,would,regulators,also,with,my,authorities,judicial,become,one,slide,disapproval,expected,tyco,executives,strong,full-strength,any,use,national,lexington,county,june,july}
+@attribute pos5 {DT,TO,CD,null,VBG,VB,NN,NNP,VBD,JJ,PRP$,IN,NNS,CC,WP,MD,RB,VBN}
+@attribute token6 {may,set,percent,surveyed,null,steady,a,to,of,giving,board,war,nominees,big,for,been,mayor,from,official,selection,the,legislation,regulator,dermatologists,clean,kyoto,bodies,church,it,immediate,directv,military,tarnishing,'\'\\\'s\'',republican-sponsored,that,drug,more,head,they,sale,expansion,sentenced,after,encourage,and,devices,doctor,be,bill,dog,on,cancer,contract,binding,rapidly,severance,congress,at,prilosec,salvage,achievers,medicaid,conference,told,serve,lawmakers,sex,massachusetts-based,commissioners,grand,20,city,including}
+@attribute pos6 {MD,VB,NN,VBN,null,JJ,DT,TO,IN,VBG,NNP,NNS,PRP,POS,WDT,JJR,CC,RB,VBD,CD}
+@attribute token7 {be,up,disapproval,null,at,study,the,ptsd,bishops,of,ii,if,finish,a,dropping,his,new,it,israeli,who,is,stock,state,by,and,protocol,authorities,faces,criticism,parent,concept,egypt,would,harsh,bill,eden,can,that,than,office,consider,borough,project,to,dog,syncor,which,required,written,in,both,drug,from,rising,rome,signal,wednesday,board,packages,two,was,70,for,operation,rests,committee,as,have,abuse,company,most-talked-about,council,mcdonald}
+@attribute pos7 {VB,RP,NN,null,IN,DT,NNP,NNS,VBG,PRP$,JJ,PRP,WP,VBZ,CC,MD,VBP,TO,WDT,VBN,CD,VBD}
+@attribute class {obj,subj}
+
+@data

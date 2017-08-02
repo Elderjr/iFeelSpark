@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {deaf,tone-deaf,deafer}
+@attribute pos {JJ,NNP,NN}
+@attribute token0 {in,with,are,i,the,willis,bath,eat,research,gaped,schooldays,he,those,and,for,incontinence,lewis,'\'n\\\'t\'',his,most,sang,is,if,a,might,has,supermarkets,they,ministers,to,alf,brioche,brooded,eleanor,interesting,after,wales,52,service,people,but,sound,money,'\'\\\'s\'',because,when,unlikely,old,so,understand,british,of,that,raised,delivery,interpreting,here,remember,women,-lrb-,national,all,86,out,her,body,witnesses,village,by,hard,president,mr,mrs,bureaux,destined,offensive,words,at,near,loud,lawyers,even,crown,was,book,be}
+@attribute pos0 {IN,VBP,PRP,DT,NNP,VB,VBN,NNS,CC,NN,RB,PRP$,JJS,VBZ,MD,TO,VBD,JJ,CD,POS,WRB,VBG,-LRB-,RP}
+@attribute token1 {hand,the,a,he,'\'\\\'m\'',sale,blind,and,avon,fund,appearing,who,had,stage,consider,liberation,sing,warning,of,buck-toothed,chair-bound,90,you,ring,have,mother,words,not,are,might,people,ramsey,-rrb-,radical,for,said,work,royal,ever,like,psaltery,these,from,cathedral,child,case,to,there,maybe,helen,though,'\'1,903\'',vanessa,classics,commenting,competition,old,partly,as,is,urban,sadder,church,small,aid,on,wesson,propitiate,forsey,oxfordshire,executives,social,apparently,school,they,last,were,court,supposed,one}
+@attribute pos1 {NNP,DT,PRP,VBP,NN,JJ,CC,VBG,WP,VBD,VB,IN,CD,NNS,RB,MD,-RRB-,TO,EX,VBZ,JJR,VBN}
+@attribute token2 {programme,public,pair,was,such,he,one,julie,who,turning,the,to,is,always,are,them,blind,must,fell,brain-damaged,a,now,'\'\\\'d\'',of,been,became,i,fallen,'\'n\\\'t\'',fall,cocked,others,arab,weeks,so,comes,fun,interval,patron,three,beethoven,yeats,anne-marie,know,said,defendant,have,barfly,oblige,she,keller,for,vaughan,after,would,people,isolation,and,girls,bronzes,had,attitudes,being,made,respects,like,where,'\'\\\'s\''}
+@attribute pos2 {NNP,NN,VBD,JJ,PRP,CD,WP,VBG,DT,TO,VBZ,RB,VBP,MD,IN,VBN,VB,NNS,NNPS,CC,WRB}
+@attribute token3 {for,a,of,tone,was,the,emerle,is,national,be,also,been,enable,both,slightly,remained,and,on,are,partially,totally,so,gone,70,stone,very,am,actually,regimes,but,damn,from,loving,british,going,got,other,said,not,such,were,some,'\'\\\'s\'',his,-rrb-,young,by,gods,rather,district,towards,you,to,determinedly,quite,those}
+@attribute pos3 {IN,DT,NN,VBD,NNP,VBZ,VB,RB,VBN,CC,VBP,CD,VBG,JJ,PRP$,-RRB-,NNS,PRP,TO}
+@attribute token4 {and,choir,null,old,or,clown,ear,blind,has,in,people,if,victim,gloucester,as,ears,by,myopic,runner,that,no,mutes,the,but,un,to,dumb,miss,i,artists,girl,auditor,association,was,composer,arthur,since,landlord,grumblers,rubella-handicapped,son,woman,walked,achiever,rain,she,beverley,man,96-year-old,ran,children,tom,adder,authorities,craig}
+@attribute pos4 {CC,NN,null,JJ,NNP,VBZ,IN,NNS,DT,TO,PRP,VBD}
+@attribute token5 {hearing,will,mute,null,codger,indifferent,dumb,franz,partially,to,and,denied,one,in,blind,it,of,woman,well,now,pathetically,reached,we,spectator,who,silence,until,they,is,or,the,bunce,could,for,presented,unfaxable,'\'\\\'d\'',whose,florence,presents,had,birth,sitting,elderly,summat,as,can,hard,lacking,christian,any,next,along,so,lewis,i,mother,with,hosted,'\'\\\'s\'',he,usually,added,that,was,said}
+@attribute pos5 {NN,JJ,null,NNP,RB,TO,CC,VBN,CD,IN,PRP,VBD,WP,VBZ,DT,MD,WP$,VBG,POS}
+@attribute token6 {children,tomorrow,brothers,null,now,to,one,shealy,blind,anyone,rubella,listless,murdering,year,the,and,meant,for,as,despite,maladroit,an,had,noise,met,was,can,suffering,criticism,sound,idea,'\'n\\\'t\'',whom,have,let,white,'\'\\\'s\'',petrograd,his,in,a,woman,beside,pensioner,they,vote,of,died,confidence,told,further,already,her,every,dancers,rose,ridicule,speech,charity,stone,found,pleas,society,could,or,makes,referring,dick,stoppeth,prague,accused,until}
+@attribute pos6 {NNS,NN,null,RB,TO,CD,NNP,JJ,VBG,DT,CC,VBD,IN,MD,WP,VB,POS,PRP$,PRP,VBZ,VBN}
+@attribute token7 {-lrb-,give,with,null,practically,the,who,or,alleged,association,her,and,audience,to,risking,rubella,unbelievably,growing,incontinent,aaa,only,secretly,so,can,no,shortage,from,of,now,hear,bsl,deduced,young,comment,a,rev,head,performances,white,speech,ancient,in,were,girl,hearing,him,commentary,me,corridors,year,noticed,spine,question,found,tonight,listen,difficulties,sense,deaf,dinner,woman,dead,read,mentally,mcmurphy}
+@attribute pos7 {-LRB-,VB,IN,null,RB,DT,WP,CC,JJ,NNP,PRP,NN,TO,VBG,MD,VBN,NNS,VBD,PRP$}
+@attribute class {obj,subj}
+
+@data

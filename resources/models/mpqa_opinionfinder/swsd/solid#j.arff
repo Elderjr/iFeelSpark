@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {solid}
+@attribute pos {JJ}
+@attribute token0 {about,supported,no,has,suppose,a,be,thickness,have,and,chain,to,the,penetrate,who,of,was,scene,his,they,with,their,go,emerged,cream,flesh,regency,jay,opponent,head,keltney,all,roy,that,is,robustness,i,camra,cast,steep,just,length,comfortable,made,fibreboard,collected,classical,three,yet,so,but,college,he,this,harris,had,or,john,hard,them,resurrected}
+@attribute pos0 {IN,VBN,DT,VBZ,VB,NN,VBP,CC,TO,WP,VBD,PRP$,PRP,NNP,JJ,RB,CD}
+@attribute token1 {drer,by,longer,been,they,scheme,resonant,timber,to,the,up,chase,cable,about,reads,being,looking,he,champion,advice,produce,sleeping,have,musicianship,i,sailcloth,safety,packed,out,linen,jay,houses,shivered,down,or,pitnacree,and,this,should,looked,linear,of,sitting,side,needed,veneers,'\'\\\'s\'',around,a,hole,from,that,allusion,rechem,victory,beckett,necessary,there,these,formed,felt,was,not,spray,how,fenna}
+@attribute pos1 {NNP,IN,RBR,VBN,PRP,NN,JJ,TO,DT,RB,VB,VBZ,VBG,VBP,VBD,NNS,RP,CC,MD,POS,WDT,EX,WRB}
+@attribute token2 {he,rome,ever,seen,lost,to,the,for,be,like,dry,slots,down,10mm,a,earth,used,with,was,are,bags,thought,they,of,napkin,linked,in,by,beyond,country,have,much,representation,highly,on,lippings,mdf,flagship,exposed,steep,very,batten,hold,rust,handles,give,can,produce,upon,about,landed,edge,remained,withstood,an,provided,fine,body,taken,forms,develop,pagoda,using}
+@attribute pos2 {PRP,NNP,RB,VBN,VBD,TO,DT,IN,VB,JJ,NNS,RP,CD,NN,VBP,VBZ,MD,VBG}
+@attribute token3 {was,whose,so,as,the,construct,apparently,a,very,from,and,in,chasing,into,three,-rrb-,always,extremely,frozen,relatively,pretty,had,enough,with,more,is,held,of,figured,mixing,some,but,attractive,feels,proof,like,rock,take,which,this,all,any}
+@attribute pos3 {VBD,WP$,RB,IN,DT,VB,CC,VBG,CD,-RRB-,RBR,VBZ,VBN,JJ,NN,WDT}
+@attribute token4 {scientific,opposition,be,reality,path,links,finger,wood,and,timber,rock,walls,masonry,essays,player,advantage,gutsy,rich,right,as,it,financial,these,illustration,elegant,wooden,soul,plot,edge,woman,tree,sunshine,thump,slow,snake,against,at,the,form,english,holder,campaigning,arguments,crag,wall,cherry,brass,guarantees,south,wave,careers,piece,strength,contingent,blows,achievements,base,background,evidence,shots,food,wax,good,gigging,jade,material}
+@attribute pos4 {JJ,NN,VB,NNS,CC,IN,PRP,DT,NNP}
+@attribute token5 {conscious,to,that,begins,between,board,dining,reliable,one,means,though,is,and,in,with,grandmother,surface,practical,befits,'\'\\\'s\'',base,pub,of,walls,landing,music,supported,dressed,silhouettes,if,avalanche,the,kind,has,walnut,seat,adrian,points,most,prices,doors,it,on,bank,liquid,are,hooks,after,but,for,will,gives,preacher,career}
+@attribute pos5 {JJ,TO,IN,VBZ,NN,VBG,CD,CC,NNS,VBN,DT,NNP,JJS,PRP,VBP,MD}
+@attribute token6 {in,socialism,as,to,these,schools,needs,table,a,should,that,if,done,what,occasional,the,'\'\\\'s\'',of,he,an,important,bands,made,stage,by,against,forced,his,going,people,act,bridge,always,and,can,both,would,jones,with,counter,final,climbers,take,range,are,obviously,comes,is,its,show,wastes,support,built,middle,finally,it,have,four,heavier,but,embellished,history}
+@attribute pos6 {IN,NN,TO,DT,NNS,VBZ,MD,VBN,WP,JJ,POS,PRP,VBD,PRP$,VBG,NNP,RB,CC,VB,VBP,CD,JJR}
+@attribute token7 {all,until,it,be,pools,and,to,that,workshop,not,a,you,with,is,flashes,white,cooking,paint,jaw,died,investment,see,were,difference,of,they,make,the,table,dark,memories,mid,for,their,still,if,man,been,macassar,test,sage,'\'n\\\'t\'',who,entertaining,its,push,park,from,pre,well,complete,stable,long,-lrb-,contaminated,at,class,two,defense,saw,credit,calvinist,solar,days,protection,no}
+@attribute pos7 {DT,IN,PRP,VB,NNS,CC,TO,NN,RB,VBZ,JJ,VBD,PRP$,VBN,NNP,WP,VBP,-LRB-,CD}
+@attribute class {obj,subj}
+
+@data

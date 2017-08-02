@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {opinion,opinions}
+@attribute pos {NN,NNS,NNP}
+@attribute token0 {carriage,ncaa,goal,fall,we,debate,last,a,point,of,fratello,will,null,candidate,kuwait,john,carter,said,interested,trial,little,disapproval,'\'o\\\'connor\'',right,chin,law,it,need,other,the,with,in,players,particularly,recent,to,end,ireland,arguing,poll,something,they,ruled,exception,currently,get,'\'n\\\'t\'',close,still,kind,verdict,wrote,music,nba,test,for,tide,information,do,two,restrict,nothing,who,preliminary,seek,change,unwilling,week,him,completely,weather,majority,but,is,conversation,posted,women,you,give,i,attorney,asked,attractive,healthy,or}
+@attribute pos0 {NNP,NN,PRP,JJ,DT,IN,MD,null,VBD,NNS,RB,TO,VBG,VB,VBP,CD,WP,CC,VBZ,VBN}
+@attribute token1 {walk,in,of,to,listen,died,month,marvelous,political,said,closely,null,lee,john,has,gorman,declared,parties,'\'o\\\'leary\'',effect,rating,and,was,not,echoed,court,but,bad,general,began,interested,the,survey,get,that,taken,often,people,leading,a,square,division,however,have,represented,face,blunt,seek,on,'\'n\\\'t\'',popular,patrons,dated,summary,souter,held,with,read,unnecessary,observers,overseeing,an,paul,really,writing,more,respect,major,she,court-approved}
+@attribute pos1 {VBP,IN,TO,VBD,NN,JJ,RB,null,NNP,VBZ,NNS,CC,DT,VB,VBN,VBG,JJR,PRP}
+@attribute token2 {in,my,bringing,solicit,to,although,for,player,the,and,monitor,null,hoi-chang,young,a,president,his,could,gave,elsewhere,express,related,venture,mahathir,of,that,breath,but,volunteering,judge,world,analyze,by,had,have,all,second,with,differences,true,get,roofer,seeking,israeli,treatment,news,rights,about,charted,wrote,disregarded,offer,'\'\\\'s\'',form,pam,is,say,editorial,exchange,azinger,their,muffling,start,consensus,time,issued,provide,townsend,echoed,settlement,formed}
+@attribute pos2 {IN,PRP$,VBG,VB,TO,NN,DT,CC,null,NNP,MD,VBD,RB,VBN,VBP,PDT,JJ,NNS,VBZ}
+@attribute token3 {her,personal,muslim,public,his,its,an,dissenting,cultural,the,leads,is,favorable,of,concurring,27-page,null,voice,majority,court,bracing,7-2,'\'\\\'s\'',world,63-year-old,separate,their,my,second,85-page,our,apoyo,biased,different,24-page,all,medical,american,ellis,honest,inflated,5-4,outside,recent,and,popular,some,contentious,page,own,expressing,for,players}
+@attribute pos3 {PRP$,JJ,NNP,DT,VBG,VBZ,IN,null,VB,NN,POS,VBN,CC,NNS}
+@attribute token4 {it,is,leaders,on,and,polls,backed,was,should,our,null,may,page,of,dynamics,stevens,piece,surveys,noted,that,about,considering,written,i,in,when,once,the,exercises,y,issued,provoked,favoring,he,given,stays,who,something,by,but,programs,also,among,before,booth,poll,or,we,perfect,dr.,for,after,common}
+@attribute pos4 {PRP,VBZ,NNS,IN,CC,VBN,VBD,MD,PRP$,null,NN,NNP,WDT,VBG,WRB,RB,DT,WP,JJ}
+@attribute token5 {has,a,to,how,act,suggest,the,by,that,influence,initiative,null,be,ahead,editor,said,in,on,verizon,is,he,are,whether,some,opaque,show,not,sunday,kept,especially,12,they,broad,mercado,tuesday,where,say,speculation,it,makes,young,unpopular,themselves,can,justice,were,players,and,many,just,v.,published,him,israel,i,weather,chief,david,potential,op-ed,do,singular,pga,everything,take,his,among,schwarz}
+@attribute pos5 {VBZ,DT,TO,WRB,VB,VBP,IN,NN,null,RB,VBD,NNP,PRP,JJ,CD,MD,NNS,CC,VBN,PRP$}
+@attribute token6 {the,mistake,to,on,that,matter,testimonials,appeals,police,stays,null,read,of,united,his,thomas,friday,'\'\\\'s\'',trial,other,now,wrote,predicament,stronger,monarchos,justice,fundamentalists,israelis,enough,people,court,so,_,these,warning,african,are,governing,extremely,market,benevolent,surveyed,among,usually,a,it,our,barely,difficult,in,god,be,clarence,project,then,blair,turning,injuries,most,criticized,is,after,moments,churner,tuesday,including,roman,take,think,quite,pines,safety,an,page,'\'n\\\'t\'',lives,sake,tour,he,drag,and,verdict,them,buddy,environment,many}
+@attribute pos6 {DT,NN,TO,IN,NNS,VBZ,null,VBN,NNP,PRP$,POS,JJ,RB,VBD,JJR,NNPS,VBP,PRP,VB,VBG,RBS,CC}
+@attribute token7 {metro,it,united,replace,our,after,from,that,priorities,intact,null,on,a,the,states,firm,opinion,washington,forecast,request,of,courts,higher,suggested,than,won,defense,john,are,criticized,with,should,certain,players,thoughts,to,countries,turned,body,young,is,compassion,'\'1,822\'',lines,socialists,death,2001,clear,consultations,when,has,not,1937,'\'\\\'s\'',fall,done,thomas,as,referred,too,and,one,protecting,no.,by,nearly,curia,independent,i,pleased,william,advantage,undercurrent,think,v.,saying,mayor,into,els,educators,innocence}
+@attribute pos7 {NN,PRP,NNP,VB,PRP$,IN,WDT,NNS,JJ,null,DT,NNPS,JJR,VBD,VBP,MD,TO,VBN,VBZ,CD,WRB,RB,POS,CC,VBG}
+@attribute class {obj,subj}
+
+@data

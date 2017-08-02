@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {stood,standing,stand,stands}
+@attribute pos {VBD,VBG,VB,VBZ,VBN,VBP}
+@attribute token0 {took,null,starts,in,underwhelming,offices,clean-shaven,his,would,evening,foundation,have,she,up,created,rendering,for,tent,it,also,reasons,squiggly,with,300,i,martinez,technique,thorny,quickly,who,andersen,said,another,as,people,thought,middle,coffee,apart,the,advanced,to,'\'\\\'s\'',digital,not,toward,yet,than,onslaught,and,_,president,wounded,powell,do,where,'\'n\\\'t\'',what,see,is,from,policy,ruling,knows,has,sampras,still,before,campaign,acidity,wine,-rrb-,5:15,10-year,money,nissan}
+@attribute pos0 {VBD,null,NNS,IN,VBG,JJ,PRP$,MD,NNP,NN,VB,PRP,VBN,RB,CD,WP,DT,TO,POS,CC,VBP,RP,WRB,VBZ,-RRB-}
+@attribute token1 {office,null,needing,the,forwards,where,and,wax,be,standard,prevented,snapped,somewhat,by,him,coming,auctioneer,is,realized,fredericks,branches,city,pounds,am,'\'\\\'s\'',in,history,one,tripped,said,jacqueline,fence,40,who,was,school,bars,wooden,beneath,country,aegis-class,each,girlfriend,domain,describe,lewis,'\'3,000\'',began,six,i,lyndon,maybe,award,jubilant,us,think,he,tire,parade,how,independent,tourists,to,looked,alive,war,train,cellars,do,p.,a,japanese,but}
+@attribute pos1 {NN,null,VBG,DT,RB,WRB,CC,VB,NNP,VBN,VBD,IN,PRP,VBZ,NNS,VBP,POS,CD,WP,JJ,TO}
+@attribute token2 {president,we,139,growing,content,agents,null,bespectacled,statue,willing,said,homes,ouattara,at,better,semis,coals,executives,incompetent,they,mike,the,he,that,a,of,meanwhile,carnie,alone,victory,as,which,could,day,would,it,rayford,there,police,have,long,and,use,house,her,but,destroyers,end,is,promises,faulted,viewer,can,years,'\'20,939\'',hispanic,ca,baines,united,then,mexico,diamond,downtown,oil,brands,debbie,free,enough,i,roving,allowed,does,do,stunned,game,chest,bush,wine,station,not,m,statement,government,neither,debt}
+@attribute pos2 {NNP,PRP,CD,VBG,JJ,NNS,null,NN,VBD,IN,JJR,DT,RB,WDT,MD,EX,VBP,CC,VBZ,VBN,VB}
+@attribute token3 {bush,were,alou,crowd,to,are,they,kopp,beard,it,once,from,him,shape,could,and,who,just,killassy,winner,was,brazill,horse,hope,roy,always,in,total,officers,easily,of,simply,36,null,waiting,he,then,can,that,she,nevertheless,might,for,judas,not,eyak,fans,senators,'\'n\\\'t\'',johnson,still,states,everyone,mountains,street,companies,will,have,norton,agents,residents,feast,experience,with,well,which,again,thomas,had,mind,wennet,we,'\'\\\'d\'',bond}
+@attribute pos3 {NNP,VBD,NN,TO,VBP,PRP,RB,IN,MD,CC,WP,NNS,CD,null,VBG,WDT,NNPS,VB}
+@attribute token4 {beneath,in,at,and,outside,by,up,yards,vigil,to,the,12.4,no.,out,trial,over,behind,rigidly,for,now,on,as,around,before,two,about,sentry,there,isolated,alongside,it,firm,with,throughout,beside,silent,nearby,three,null,a,along,but,next,unused,ready}
+@attribute pos4 {IN,CC,JJ,RP,NNS,NN,TO,DT,CD,RB,VBN,PRP,null,EX}
+@attribute token5 {the,137,clapped,and,24,during,a,from,in,leave,its,roellers,percent,1,of,benefit,or,front,earn,his,picardi,on,20,25,_,against,attention,six,many,an,is,null,harlow,george,mexicans,to,line,for,tiptoe,over,soon,thanks,he,mouth,roared,him,no,this,president,make,it,at,wore,dutch,your,dime,about,israel,hours,1.3350,their,saturday,2.1}
+@attribute pos5 {DT,CD,VBD,CC,IN,VB,PRP$,NNPS,NN,NNP,JJ,VBZ,null,TO,RB,NNS,PRP}
+@attribute token6 {ancient,driving,after,cone,launch,hours,the,white,that,lucasville,for,reports,were,country,asked,above,lleyton,from,waive,got,of,an,ball,who,classroom,a,years,saves,even,agree,backs,extended,'\'n\\\'t\'',null,bank,'\'\\\'s\'',verge,with,keep,baseline,feet,on,brink,straight,to,his,did,more,institution,arroyo,left,match,ruby,ornate,enormous,said,such,safety,what,pbys,hour,chien,lesson,few,right-field,30,as,foods,corner,whole,burney,bench,assist,outside,front,percent,getting,trillion}
+@attribute pos6 {JJ,IN,NNP,NN,NNS,DT,VBD,VB,WP,VBZ,RB,VBP,null,POS,TO,PRP$,RBR,CD,VBG}
+@attribute token7 {sequoias,rain,wednesday,never,jumpers,a,closing,button-down,of,then,his,nothing,staying,'\'\\\'s\'',that,its,hewitt,way,the,counsel,out,extra,with,was,for,sheet,without,and,when,bashing,same,metaphor,so,null,managing,i,pistols,two,waiting,nuts,closer,entire,line,principles,'\'n\\\'t\'',foreground,tyson,say,nobody,mountains,lobby,profits,alex,an,you,t-shirt,pounding,is,-lrb-,on,dining,learned,chance,moments,minutes,million,it,containing,near,town,in,years,standing,unchanged,president,yen}
+@attribute pos7 {NNS,NN,NNP,RB,DT,JJ,IN,PRP$,VBG,POS,RP,VBD,CC,WRB,null,PRP,CD,RBR,VB,NNPS,VBZ,-LRB-}
+@attribute class {obj,subj}
+
+@data

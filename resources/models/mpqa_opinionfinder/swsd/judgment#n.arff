@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {judgment,judgments}
+@attribute pos {NN,NNS}
+@attribute token0 {not,and,courts,words,content,-lrb-,following,at,the,hoped,had,also,that,fact,letters,is,factors,must,common,ambition,in,july,have,according,these,nose,'\'\\\'d\'',here,able,beyond,replace,justice,contempt,to,who,hearing,or,won,round,this,case,do,commercially,section,material,despite,by,inspectors,point,last,too,are,never,especially,a,refused,i,office,against,valuable,term,of,'\'\\\'s\'',same,own,serious,door,offender,said,full}
+@attribute pos0 {RB,CC,NNS,NN,-LRB-,VBG,IN,DT,VBN,VBD,WDT,VBZ,MD,NNP,VBP,JJ,VB,TO,WP,PRP,POS}
+@attribute token1 {accompanied,be,stirs,have,which,and,in,an,any,benefit,that,decided,raised,pervades,but,temporary,he,accept,pleas,mr,31,made,affect,to,as,eastern,must,soon,afraid,we,all,the,saville,following,charges,enforcement,might,welfare,up,moment,namely,sensitive,10,these,should,mudflats,cold,two,much,tangled,better,swayed,prone,co,question,defer,want,of,pigs,report,business,form,political,renown,time,hands,error,under,discovery,truth,was,name,rest,itself,scope,here}
+@attribute pos1 {VBN,VB,VBZ,VBP,WDT,CC,IN,DT,NN,JJ,PRP,NNS,NNP,CD,TO,MD,RB,VBG,JJR,VBD}
+@attribute token2 {a,it,made,in,value,their,11.7,time,of,gluck,to,questions,whitehall,not,the,opposed,undoubtedly,my,himself,while,ashdown,said,barrington,colleagues,god,peoples,affect,develop,make,form,must,attitude,individual,giving,notes,after,enforce,court,yet,county,britain,accept,sit,information,committee,lapses,viciously,shoulder,years,order,up,by,was,has,your,verderer,venison,makes,and,means,but,forming,would,suspension,before,-lrb-,upon,for}
+@attribute pos2 {DT,PRP,VBN,IN,NN,PRP$,CD,NNP,TO,NNS,RB,VBD,VB,MD,VBG,CC,RP,VBZ,-LRB-}
+@attribute token3 {limiting,moral,to,conflicting,my,the,forthcoming,m,before,'\'\\\'s\'',suspend,of,firm,pass,unprecedented,influence,professional,delivered,his,right,whose,fair,a,make,defer,and,reserved,court,awaits,in,giving,witty,preliminary,with,delivering,social,passed,best,therefore,give,no,own,commercial,separate,prophesy,this,passing,superficial,thus,historical}
+@attribute pos3 {VBG,JJ,TO,PRP$,DT,NN,IN,POS,VB,VBP,VBD,WP$,CC,VBZ,VBN,JJS,RB}
+@attribute token4 {on,but,the,since,contain,in,against,for,until,undue,of,by,was,i,that,is,about,mr.,and,no,with,were,mr,or,striking,fall,upon,will,not,gen,inside,well,let,she,his,shall,can,this,romantic,springeth,because,a,both,we,you}
+@attribute pos4 {IN,CC,DT,VBP,JJ,VBD,PRP,VBZ,NNP,VBG,MD,RB,WDT,VB,PRP$,NN}
+@attribute token5 {villiers,we,butterfly,the,notorious,fugitive,an,his,wine,he,political,drawing,then,god,seriousness,have,these,questioned,dire,result,him,distance,with,in,it,gerrard,all,turn,other,prepared,ashton,city,order,out,companies,by,respect,a,goodman,be,january,to,individuals,noriega,another,expected,when,others,divine,rifleman,us,passes,there,form,labour,anderson,lead,suppression,is,ordered,kidderminster,vindicated,reminding,up,determination,are,would}
+@attribute pos5 {NNP,PRP,NN,DT,JJ,PRP$,VBG,RB,VBP,VBN,IN,VB,RP,NNS,TO,WRB,VBZ,EX,VBD,MD}
+@attribute token6 {de,have,can,1970s,solution,cases,sutcliffe,city,order,favor,are,knew,influence,conclusions,published,fall,such,no,bounds,by,in,was,future,he,had,nation,the,what,they,and,we,his,meantime,novelist,own,court,financier,against,two,a,owned,lorna,of,tribunal,policy,case,'\'\\\'s\'',given,15,mention,satirist,natwest,hopeful,any,soviet,competing,man,this,providence,willoughby,briefly,upon,pronounced,presentments,told,supposed,to,not,parties,an,him,that,because,certainly,like,beliefs,relation,all,appear}
+@attribute pos6 {IN,VBP,MD,CD,NN,NNS,NNP,VBD,VBN,JJ,DT,PRP,WP,CC,PRP$,POS,VB,VBG,RB,TO}
+@attribute token7 {'\'l\\\'isle\'',to,not,race,the,which,case,financier,under,pending,better,how,and,he,lord,in,upon,as,reason,should,some,fact,there,of,is,been,because,exception,way,'\'\\\'d\'',i,wanted,phrases,we,can,those,said,approached,jim,a,appeals,complete,by,bourke,acts,that,solicitor,later,earlier,karl,chairman,his,sign,moment,playing,union,politicians,was,consider,me,be,on,tax,heir,commercial,facts,entirely,appropriate}
+@attribute pos7 {NNP,TO,RB,NN,DT,WDT,IN,VBG,JJR,WRB,CC,PRP,MD,EX,VBZ,VBN,VBD,NNS,JJ,RBR,PRP$,VBP,VB}
+@attribute class {obj,subj}
+
+@data

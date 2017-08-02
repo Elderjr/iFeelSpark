@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {important}
+@attribute pos {JJ}
+@attribute token0 {believe,to,for,where,work,is,other,which,on,expensive,aware,of,and,greatly,die,people,it,or,theoretician,aspects,contemporaries,one,that,this,anxiety,the,analytically,reading,question,going,with,her,maintaining,movement,really,training,women,during,regular,'\'\\\'s\'',fatter,own,an,while}
+@attribute pos0 {VBP,TO,IN,WRB,NN,VBZ,JJ,WDT,CC,RB,NNS,PRP,CD,DT,VBG,PRP$,POS,JJR}
+@attribute token1 {it,have,optimism,there,correct,the,subjects,stay,of,probably,these,acet,who,will,in,to,one,is,him,includes,state,novel,piece,nerves,virtue,this,skills,class,pregnancy,nourishing,sake,fat,experience,estimate,but}
+@attribute pos1 {PRP,VB,NN,EX,DT,NNS,IN,RB,NNP,WP,MD,TO,CD,VBZ,CC}
+@attribute token2 {is,a,perhaps,descriptions,single,may,languishes,ground,it,clothes,speech,fact,the,has,share,fill,those,be,an,of,plays,there,'\'\\\'s\'',accent,do,as,not,meals}
+@attribute pos2 {VBZ,DT,RB,NNS,JJ,MD,NN,PRP,NNPS,VBP,VB,IN,EX}
+@attribute token3 {especially,vitally,most,an,are,include,seemed,'\'\\\'s\'',is,your,all,more,image,the,self,very,also,so,equally,still}
+@attribute pos3 {RB,RBS,DT,VBP,VB,VBD,VBZ,PRP$,RBR,NN}
+@attribute token4 {that,role,is,group,to,and,art,was,you,question,feature,part,concerns,gap,foreign,than,features,classical,in,countries,single,differences,this,thing,too,auditions,above,nevertheless,for,it,not}
+@attribute pos4 {IN,NN,VBZ,TO,CC,VBD,PRP,NNS,JJ,DT,RB}
+@attribute token5 {acet,to,the,of,auctioneers,influential,criticism,transformed,a,should,not,agree,appoint,there,in,investors,art,and,self,though,can,you,is,are,thing,her,all,which,as,your,keeps,keep,obtain}
+@attribute pos5 {NNP,TO,DT,IN,NNS,JJ,NN,VBN,MD,RB,VB,EX,CC,PRP,VBZ,VBP,WDT,PRP$}
+@attribute token6 {represents,play,development,this,as,theory,literary,novel,into,student,wear,too,handling,panel,being,on,at,is,the,police,know,argument,museum,forgeries,photographs,late,unimportant,nevertheless,kelman,be,try,read,your,need,nerve,that,you,their,working,to,yourself,let,a,detailed,contact}
+@attribute pos6 {VBZ,VB,NN,DT,IN,NNP,RB,VBG,NNS,JJ,VBP,PRP$,PRP,TO}
+@attribute token7 {the,until,of,sculpture,can,theory,insignificance,is,something,difficult,are,independent,and,in,least,a,framework,attack,collections,ever,were,twentieth,countries,prone,stands,reckoned,widely,firm,to,wracking,she,work,need,life,do,actors,maintain,fit,yourself,lose,shared,estimates,them}
+@attribute pos7 {DT,IN,NN,MD,VBZ,JJ,VBP,CC,JJS,NNS,RB,VBD,VBN,TO,VBG,PRP,VB}
+@attribute class {obj,subj}
+
+@data

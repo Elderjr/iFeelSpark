@@ -1,0 +1,23 @@
+@relation SWSDDataSet
+
+@attribute token {abiding,abide,abides,abided}
+@attribute pos {VBG,VB,VBZ,VBP,VBN,VBD}
+@attribute token0 {music,congress,its,a,process,require,american,that,role,and,3-4,their,the,officials,they,spokesman,requires,all,sin,we,he,to,lower,taxes,lines,hodges,of,in,something,lebanon,recklessness,iran,moves,love,asked,elitism,null,decisions,bush,nation,maintains,friday,soviet,other,is,intent,jr.,has,blame,indicated,state,as,both,contempt-of-court,n.y.,if,called,treaty,get,obasanjo,can,those,like,when,dvd,observer,use,difficult,accused,americans,health,say,universities,court-ordered,she,hanson,value,characters,bob,armory}
+@attribute pos0 {NN,NNP,PRP$,DT,VB,JJ,IN,CC,CD,NNS,PRP,VBZ,TO,JJR,VBD,null,VBP,VBN,MD,WRB}
+@attribute token1 {and,is,own,national,be,the,targets,they,he,have,months,local,united,always,should,said,its,interested,i,want,myanmar,could,persuade,rates,but,voluntarily,racing,everybody,we,'\'\\\'s\'',has,it,make,for,israel,you,null,turkey,that,of,saying,union,rebel,not,with,consistently,one,must,someone,parties,charge,computer,people,on,both,globecomm,really,who,myself,which,also,peaceful,general,plans,palestinian,program,biggs,dylan}
+@attribute pos1 {CC,VBZ,JJ,VB,DT,NNS,PRP,VBP,NNP,RB,MD,VBD,PRP$,NN,POS,IN,null,VBG,CD,WP,WDT}
+@attribute token2 {on,supposed,laws,commitment,mindful,bells,and,had,ca,refused,if,entities,states,come,tried,no,the,members,they,countries,pakistan,'\'\\\'s\'',catholics,agreed,agree,he,has,1960s,can,policy,failure,pledged,does,two,pols,her,to,failed,could,refuse,might,russia,people,it,factions,ready,nato,other,continue,with,rather,giant,would,france,sides,failing,building,hide,did,suggested,means,patients,difficulty,concern,government,sharon,chosen,authority,stevens,she,residents,owner,exercised,gyspy,tuesday}
+@attribute pos2 {IN,VBN,NNS,NN,JJ,NNPS,CC,VBD,MD,VBP,RB,DT,PRP,NNP,POS,VBZ,CD,PRP$,TO,VB,VBG}
+@attribute token3 {an,to,and,its,'\'n\\\'t\'',he,must,should,with,longer,agency,would,that,neighbors,will,the,not,of,start,ultimately,who,is,have,strictly,than,quickly,just,his,about,can,was,soul,night}
+@attribute pos3 {DT,TO,CC,PRP$,RB,PRP,MD,IN,NN,WDT,NNS,VB,WP,VBZ,VBP,VBD}
+@attribute token4 {love,by,effort,is,null,the,faith,image,said,what,bush,equality,mutual,sense,sending,respect,that,memory,fascination}
+@attribute pos4 {NN,IN,VBZ,null,DT,VBD,WP,NNP,JJ,VBG}
+@attribute token5 {of,the,international,free-trade,provisions,to,court,interview,a,state,one,get,fifa,all,it,its,null,these,increasingly,church,in,fees,was,bridget,u.n.,traffic,nonproliferation,'\'\\\'s\'',united,had,this,their,with,laws,currie,mistrust,hatchett,crews,eu,government,for,endless,old,some,term,after,four,certain,here}
+@attribute pos5 {IN,DT,JJ,NNS,TO,NN,CD,VB,NNP,PRP,PRP$,null,RB,VBD,VBZ}
+@attribute token6 {early,guidelines,standards,rules,ground,of,limit,policies,subject,1999,laws,rule,lost,instructions,cease-fire,environmental,most,decision,nuclear,null,commitment,principles,conservative,teachings,the,that,certain,ruling,nascar,m.,security,treaties,deal,senate,more,nations,honor,not,policy,european,series,commitments,contract,orders,list,trade,human,and,'\'\\\'s\'',court,promises,limits,compassion,recent,out,decisions,terms,budgets,adams,ten,church,permutations,muddy,england,law,are,own,designed,constitution,promise,his,city,regulations,_}
+@attribute pos6 {JJ,NNS,NN,IN,VB,CD,VBN,JJS,null,DT,NNP,JJR,NNPS,RB,CC,POS,VBP,PRP$}
+@attribute token7 {jazz,when,of,null,rules,the,he,cease-fire,governing,in,telemarketers,nonproliferation,there,direction,on,free,code,barring,rule,long-haired,rohde,council,jana,and,ethics,she,resolution,been,will,court,but,rights,weaker,regulations,ruling,a,'\'\\\'s\'',or,decisions,to,we,policy,commandments,look,not,government,is,by,arrest,that,both,meant}
+@attribute pos7 {NN,WRB,IN,null,NNS,DT,PRP,VBG,NNP,EX,JJ,CC,VBN,MD,JJR,POS,TO,RB,VBZ,WDT,VBD}
+@attribute class {obj,subj}
+
+@data
