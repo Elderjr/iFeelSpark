@@ -147,6 +147,13 @@ public class ClassificadorTeste {
 		JavaSparkContext jsc = Spark.getInstance().getContext();
 		
 		/*
+		String path = "target/tmp/inputVector.txt";
+		JavaRDD<LabeledPoint> inputData = MLUtils.loadLibSVMFile(jsc.sc(), path).toJavaRDD();
+		NaiveBayesModel modelInputData = NaiveBayes.train(inputData.rdd(), 1.0);
+		modelInputData.save(jsc.sc(), "target/tmp/myNaiveBayesModel");
+		NaiveBayesModel sameModel = NaiveBayesModel.load(jsc.sc(), "target/tmp/myNaiveBayesModel");
+		*/
+		
 		String dataSetPath = "datasets/stanford_tweets.txt";
 		String classificationPath = "datasets/stanford_tweets_so_score.txt";
 		Set<String> uniqueWordsSet = util.Utils.readFileWordsToSet(dataSetPath);
@@ -157,7 +164,7 @@ public class ClassificadorTeste {
 			index++;
 		}
 		createFiles(dataSetPath, classificationPath, map);
-		*/
+		
 		
 		String trainingDir = "target/tmp/training_naivebayes/";
 		String testDir = "target/tmp/test_naivebayes/";
@@ -180,13 +187,6 @@ public class ClassificadorTeste {
 			recall[i] = calculateRecall(matrix);
 			macroF1[i] = calculateMacroF1(precision[i], recall[i]);
 		}
-		/*
-		String path = "target/tmp/inputVector.txt";
-		JavaRDD<LabeledPoint> inputData = MLUtils.loadLibSVMFile(jsc.sc(), path).toJavaRDD();
-		NaiveBayesModel model = NaiveBayes.train(inputData.rdd(), 1.0);
-		model.save(jsc.sc(), "target/tmp/myNaiveBayesModel");
-		NaiveBayesModel sameModel = NaiveBayesModel.load(jsc.sc(), "target/tmp/myNaiveBayesModel");
-		*/
 		jsc.stop();
 		double meanAcc = 0;
 		double meanMacroF1 = 0;
