@@ -66,7 +66,7 @@ public abstract class Method implements Serializable{
 	
 	public List<Integer> analyseFile(String filePath) {
 		try {
-			List<Integer> results = new LinkedList<>();
+			List<Integer> results = new ArrayList<>();
 			BufferedReader br = new BufferedReader(new FileReader(filePath));
 			String line = br.readLine();
 			while (line != null) {

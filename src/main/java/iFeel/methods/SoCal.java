@@ -83,8 +83,8 @@ public class SoCal extends Method {
 	private List <Integer> boundaries; // the location of newline boundaries from the input
 		
 	private void loadConfigurations() { // Should Be Called on constructor
-		this.configFlags = new HashMap<>();
-		this.configModifiers = new HashMap<>();
+		this.configFlags = new HashMap<String,Boolean>();
+		this.configModifiers = new HashMap<String,Double>();
 		this.loadConfigModifiers();
 		this.loadConfigFlags();
 		this.loadWordListsModifiers();
@@ -153,7 +153,7 @@ public class SoCal extends Method {
 	    
 	    String macroReplaceKeys[] = { "#NP?#","#PER?#","#give#","#fall#","#get#","#come#","#go#", "#show#","#make#","#hang#","#break#", "#see#", "#be#", "#bring#", "#think#" , "#have#", "#blow#", "#build#", "#do#", "#can#", "#grow#", "#hang#", "#run#", "#stand#", "#string#", "#hold#" , "#take#" };
 	    String macroReplaceValues[] = {"[PDT]?_[DET|PRP|PRP$|NN|NNP]?_[POS]?_[NN|NNP|JJ]?_[NN|NNP|NNS|NNPS]?",  "[me|us|her|him]?",  "give|gave|given",  "fall|fell|fallen",  "get|got|gotten",  "come|came",  "go|went|gone",  "show|shown",  "make|made",  "hang|hung",  "break|broke|broken",  "see|saw|seen",  "be|am|are|was|were|been",  "bring|brought",  "think|thought",  "has|have|had",  "blow|blew",  "build|built",  "do|did|done",  "can|could", "grow|grew|grown",  "hang|hung",  "run|ran",  "stand|stood",  "string|strung",  "hold|held",  "take|took|taken"};
-	    this.macroReplace = new HashMap<>();
+	    this.macroReplace = new HashMap<String,String>();
 	    if(macroReplaceKeys.length == macroReplaceValues.length)
 	    	for(int i =0; i<macroReplaceKeys.length; i++)
 	    		this.macroReplace.put(macroReplaceKeys[i], macroReplaceValues[i]);
@@ -261,13 +261,13 @@ public class SoCal extends Method {
 		
 		String[] words = multiword.split("_");
 		
-		List<List<String>> entry = new ArrayList<>(); 
+		List<List<String>> entry = new ArrayList<List<String>>(); 
 		int keyindex = words.length -1 ;
 		
 		for(int index = 0; index < words.length; index++) { // Ok
 			String word = words[index];
 			
-			List<String> slot = new ArrayList<>();
+			List<String> slot = new ArrayList<String>();
 			
 			if(word.charAt(0) == '(') {
 				slot.add("1");
@@ -301,13 +301,13 @@ public class SoCal extends Method {
 			entryArray[i] = entry.get(i).toArray(entryArray[i]);
 		} // Ok - Partes da expressão agora é um array[][]
 		
-		List<Map<String, String[][]>> finalEntries = new ArrayList<>();
+		List<Map<String, String[][]>> finalEntries = new ArrayList<Map<String, String[][]>>();
 		Map<String, String[][]> finalEntry;
 		
 		String key;
 		entryArray[keyindex][0] = "#";
 		for(int index = 1; index < entryArray[keyindex].length; index++) {
-			finalEntry = new HashMap<>();
+			finalEntry = new HashMap<String, String[][]>();
 			key = entryArray[keyindex][index];
 			finalEntry.put(key, entryArray);
 			finalEntries.add(finalEntry);

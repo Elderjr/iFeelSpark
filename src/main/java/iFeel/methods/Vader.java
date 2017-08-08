@@ -41,7 +41,7 @@ public class Vader extends Method {
 	@Override
 	public void loadDictionaries() {
 
-		this.wordValenceDict = new HashMap<>(); //token and score
+		this.wordValenceDict = new HashMap<String,Double>(); //token and score
 
 		try {
 			File f = new File(this.dictionaryFilePath);			

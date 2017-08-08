@@ -70,7 +70,7 @@ public class Sasa extends Method implements Serializable{
 	@Override
 	public void loadDictionaries() {
 		
-		this.dictionary = new HashMap<>();
+		this.dictionary = new HashMap<String, Map<String, Double>>();
 
 		try {
 			File f = new File(this.dictionaryFilePath);

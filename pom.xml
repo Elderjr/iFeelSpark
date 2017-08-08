@@ -4,10 +4,20 @@
   <artifactId>sparkSentiment</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-		<java.version>1.8</java.version>
-	</properties>
+	<java.version>1.8</java.version>
+</properties>
+	    <build>
 
-
+    <plugins>
+        <plugin>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>1.7</source>
+                <target>1.7</target>
+            </configuration>
+        </plugin>
+    </plugins>
+    </build>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.spark</groupId>

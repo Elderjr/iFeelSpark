@@ -36,7 +36,7 @@ public class Emolex extends Method {
 		final int TOKEN_IDX = 0;
 		final int SENTIMENT_IDX = 1;
 		final int VALUE_IDX = 2;
-		this.dictionary = new HashMap<>();			
+		this.dictionary = new HashMap<String, Map<String, Integer>>();			
 
 		try {
 			File f = new File(this.dictionaryFilePath);			
@@ -51,7 +51,7 @@ public class Emolex extends Method {
 
 					if (!this.dictionary.containsKey(data[TOKEN_IDX])) {
 
-						Map<String, Integer> wordValueBySentiment = new HashMap<>();
+						Map<String, Integer> wordValueBySentiment = new HashMap<String,Integer>();
 						wordValueBySentiment.put(data[SENTIMENT_IDX], 1);
 						this.dictionary.put(data[TOKEN_IDX], wordValueBySentiment);
 					}

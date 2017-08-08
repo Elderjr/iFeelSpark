@@ -25,7 +25,7 @@ public class HappinessIndex extends Method implements Serializable{
 	private static Map<String, Integer> getWordFreq(String text) {
 
 		List<String> words = Arrays.asList( Utils.removePunctuation(text).toLowerCase().split(" ") );
-		Map<String, Integer> wordFreq = new HashMap<>();
+		Map<String, Integer> wordFreq = new HashMap<String,Integer>();
 
 		for (String word : words) {
 			if (wordFreq.containsKey(word)) {
@@ -42,7 +42,7 @@ public class HappinessIndex extends Method implements Serializable{
 	@Override
 	public void loadDictionaries() {
 
-		this.anewSet = new HashMap<>();
+		this.anewSet = new HashMap<String, List<Double>>();
 		try {
 			File f = new File(this.dictionaryFilePath);			
 			FileReader fr = new FileReader(f);

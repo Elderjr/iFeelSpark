@@ -31,7 +31,7 @@ public class Afinn extends Method implements Serializable{
 	@Override
 	public void loadDictionaries() {
 		
-		this.lexiconDictionary = new HashMap<>();			
+		this.lexiconDictionary = new HashMap<String, Integer>();			
 
 		try {
 			File f = new File(this.dictionaryFilePath);			

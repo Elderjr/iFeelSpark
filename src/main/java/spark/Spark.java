@@ -20,9 +20,13 @@ public class Spark {
 	public JavaSparkContext getContext(){
 		return this.sc;
 	}
-	
 	public void initSpark(String appName, String master){
 		String jars[] = {"target/sparkSentiment-0.0.1-SNAPSHOT.jar",
+				"lib/javacsv-2.01.jar",
+				"lib/twitter4j-core-4.0.1.jar",
+				"lib/jsonic-1.2.7.jar",
+				"lib/weka.jar",
+				"lib/ejml-0.23.jar",
 				"lib/SentiStrength.jar",
 				"lib/stanford-corenlp-3.5.2.jar",
 				"lib/stanford-corenlp-models-current-4LG.jar"};

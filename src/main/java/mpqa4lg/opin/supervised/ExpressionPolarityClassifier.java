@@ -199,7 +199,7 @@ public class ExpressionPolarityClassifier
         final ArrayList<ArrayList<Feature>> dataset = new ArrayList<ArrayList<Feature>>();
         final ArrayList<String> ids = new ArrayList<String>();
         for (final Sentence s : sentences) {
-            final TreeMap<Span, ArrayList<Annotation>> clues = new TreeMap<>();
+            final TreeMap<Span, ArrayList<Annotation>> clues = new TreeMap<Span, ArrayList<Annotation>>();
             if (s.getAutoAnns().containsKey("weaksubj")) {
                 clues.putAll(s.getAutoAnns().get("weaksubj"));
             }

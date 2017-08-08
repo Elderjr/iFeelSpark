@@ -1,4 +1,4 @@
-package main;
+package crossValidation.sparkNaiveBayesCrossValidation;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ public class Vector {
 	
 	public Vector(int classification) {
 		this.setClassification(classification);
-		this.setDimensions(new HashMap<>());
+		this.setDimensions(new HashMap<Integer, Integer>());
 	}
 
 	public int getClassification() {
@@ -52,5 +52,16 @@ public class Vector {
 		    builder.append(" ").append(entry.getKey()).append(":").append(entry.getValue());
 		}
 		return builder.toString();
+	}
+	
+	public static Vector createVector(String tweet, HashMap<String, Integer> map, String classification) {
+		int max = map.size();
+		String[] words = tweet.split("\\s+");
+		Vector vector = new Vector(Integer.parseInt(classification.trim()));
+		vector.addDimension(max);
+		for(String word: words) {
+			vector.incrementDimension(map.get(word));
+		}
+		return vector;
 	}
 }

@@ -92,7 +92,6 @@ public class Utils {
 	 * @return <code>d</code> with <code>precision</code> especified
 	 */
 	public static double setPrecision(double d, int precision) {
-
 		BigDecimal bd = new BigDecimal(d).setScale(precision, RoundingMode.HALF_EVEN);
 	    return bd.doubleValue();
 	}
@@ -103,7 +102,7 @@ public class Utils {
 	 * @return Set containing all lexicon word read
 	 */
 	public static Set<String> readFileWordsToSet(final String fileName) {
-		Set<String> set = new HashSet<>();
+		Set<String> set = new HashSet<String>();
 		try {
 			//InputStream in = Utils.class.getResourceAsStream(fileName);
 			File f = new File(fileName);			
@@ -189,12 +188,25 @@ public class Utils {
 			input.close();
 		} catch (IOException e) {
 			e.printStackTrace();
-			//System.err.println("Error opening file: " + fileName);
-			//System.exit(1989);
 		}
-		
-		
 		return set;
+	}
+	
+	public static List<Integer> readClassifications(final String fileName){
+		List<Integer> classifications = new LinkedList<>();
+		try {
+			File f = new File(fileName);			
+			FileReader fr = new FileReader(f);
+			BufferedReader input = new BufferedReader(fr);
+			String line;
+			while((line = input.readLine()) != null) {
+				classifications.add(Integer.parseInt(line));
+			}
+			input.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		return classifications;
 	}
 	
 	/**

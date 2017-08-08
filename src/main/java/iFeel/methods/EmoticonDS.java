@@ -59,7 +59,7 @@ public class EmoticonDS extends Method {
 	//Saving the file's information in map:
 	private Map<String, Integer> readFileLinesToMap(final String fileName) {
 		
-		Map<String , Integer> map = new HashMap<>();
+		Map<String , Integer> map = new HashMap<String, Integer>();
 		try {
 			File f = new File(this.dictionaryFile);			
 			FileReader fr = new FileReader(f);

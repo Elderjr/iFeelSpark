@@ -59,7 +59,7 @@ public class NLPUtil {
 	 */
 	public static List<String> bigrams(List<String> unigrams) {
 		
-		List<String> bigrams = new ArrayList<>(unigrams.size()); 
+		List<String> bigrams = new ArrayList<String>(unigrams.size()); 
 
 		for (int i=0; i < unigrams.size() - 1; ++i) {
 

@@ -44,7 +44,7 @@ public class SenticNet extends Method {
 			String line = br.readLine();
 
 			while (line != null) {
-				Vector<Double> parameters = new Vector<>();
+				Vector<Double> parameters = new Vector<Double>();
 
 				String[] parametersAux = line.split("\t");
 				String word = parametersAux[0].split("=")[1];
