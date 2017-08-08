@@ -154,8 +154,10 @@ public class ClassificadorTeste {
 		NaiveBayesModel sameModel = NaiveBayesModel.load(jsc.sc(), "target/tmp/myNaiveBayesModel");
 		*/
 		
-		String dataSetPath = "datasets/stanford_tweets.txt";
-		String classificationPath = "datasets/stanford_tweets_so_score.txt";
+		//String dataSetPath = "datasets/sentistrength_youtube.txt";
+		//String classificationPath = "datasets/sentistrength_youtube_so_score.txt";
+		String dataSetPath = "datasets/ufla.txt";
+		String classificationPath = "datasets/ufla_score.txt";
 		Set<String> uniqueWordsSet = util.Utils.readFileWordsToSet(dataSetPath);
 		HashMap<String, Integer> map = new HashMap<>();
 		int index = 1;

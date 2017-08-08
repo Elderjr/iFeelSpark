@@ -29,6 +29,7 @@ import util.CrossValidation;
 public class Main {
 	
 	public static void main(String[] args) {
+		//LDA Spark / Topic Modelling spark
 		
 		Method method = MethodCreator.getInstance().createMethod(Method.SASA_ID);
 		//String path = "datasets/stanford_tweets.txt";
