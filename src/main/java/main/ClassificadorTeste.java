@@ -2,6 +2,7 @@ package main;
 
 import scala.Tuple2;
 import scala.tools.scalap.scalax.rules.scalasig.ScalaSig.Entry;
+import spark.Spark;
 import util.CrossValidation;
 
 import java.io.BufferedWriter;

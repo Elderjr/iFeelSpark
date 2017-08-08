@@ -1,6 +1,7 @@
 package main;
 
 import java.io.BufferedReader;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
@@ -20,10 +21,11 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.function.VoidFunction;
 
 import com.fasterxml.jackson.core.JsonFactory;
-import methods.Method;
-import methods.MethodCreator;
-import methods.MethodTest;
+
+import iFeel.Method;
+import iFeel.MethodCreator;
 import scala.Tuple2;
+import spark.Spark;
 import util.CrossValidation;
 
 public class Main {
@@ -31,7 +33,7 @@ public class Main {
 	public static void main(String[] args) {
 		//LDA Spark / Topic Modelling spark
 		
-		Method method = MethodCreator.getInstance().createMethod(Method.SASA_ID);
+		Method method = MethodCreator.getInstance().createMethod(Method.SASA);
 		//String path = "datasets/stanford_tweets.txt";
 		//Spark.getInstance().initSpark("Spark Sentiments", "local");
 		//List<String> texts = Spark.getInstance().getContext().textFile(path).collect();
