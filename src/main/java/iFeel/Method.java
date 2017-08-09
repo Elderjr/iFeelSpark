@@ -17,6 +17,7 @@ import org.apache.spark.api.java.function.Function2;
 import org.apache.spark.api.java.function.PairFunction;
 import org.apache.spark.api.java.function.VoidFunction;
 
+import iFeel.methods.SentiWordNet;
 import scala.Tuple2;
 
 /**

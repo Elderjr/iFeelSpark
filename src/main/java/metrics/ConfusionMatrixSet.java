@@ -25,13 +25,21 @@ public class ConfusionMatrixSet {
 	
 	public void calculeMeans(){
 		for(ConfusionMatrix matrix : this.confusionMatrixs){
-			this.meanAcc += matrix.getAccuracy();
-			this.meanMacroF1 += matrix.getMacroF1();
+			if(!Double.isNaN(matrix.getAccuracy())){
+				this.meanAcc += matrix.getAccuracy();
+			}
+			if(!Double.isNaN(matrix.getMacroF1())){
+				this.meanMacroF1 += matrix.getMacroF1();
+			}
 			double recall[] = matrix.getRecall();
 			double precision[] = matrix.getPrecision();
 			for(int i = 0; i < 3; i++){
-				this.meanRecall[i] += recall[i];
-				this.meanPrecision[i] += precision[i];
+				if(!Double.isNaN(recall[i])){
+					this.meanRecall[i] += recall[i];
+				}
+				if(!Double.isNaN(precision[i])){
+					this.meanPrecision[i] += precision[i];
+				}
 			}
 		}
 		meanAcc /= 10;
@@ -42,14 +50,25 @@ public class ConfusionMatrixSet {
 		}
 	}
 	
-	public void printResults(){
-		calculeMeans();
+	public void printCrossValidationsMatrix(){
 		int index = 1;
 		for(ConfusionMatrix matrix : this.confusionMatrixs){
 			System.out.println("========== CROSS VALIDATION "+index+" ==========");
 			System.out.println(matrix);
 			index++;
 		}
+	}
+	public void printResultsLatex(String methodName){
+		calculeMeans();
+		int neg = 0, neu = 1, pos = 2;
+		System.out.println("\\multirow{3}{*}{" +methodName+"} & Pos: "+String.format("%.2f", this.meanPrecision[pos] * 100.0)+"\\% & Pos: "+String.format("%.2f", this.meanRecall[pos] * 100.0)+"\\% "+
+				"& \\multirow{3}{*}{"+String.format("%.2f", this.meanAcc * 100.0)+"\\%} & \\multirow{3}{*}{"+String.format("%.2f", this.meanMacroF1 * 100.0)+"\\%} \\\\"+
+				"& Neu: "+String.format("%.2f", this.meanPrecision[neu] * 100.0)+"\\% & Neu: "+String.format("%.2f", this.meanRecall[neu] * 100.0)+"\\% & & \\\\"+
+				"& Neg: "+String.format("%.2f", this.meanPrecision[neg] * 100.0)+"\\% & Neg: "+String.format("%.2f", this.meanRecall[neg] * 100.0)+"\\% & & \\\\ \\hline");
+	}
+	
+	public void printResults(){
+		calculeMeans();
 		System.out.println("========== MEAN RESULTS ==========");
 		int classification;
 		for(int j=0; j<3; j++) {
