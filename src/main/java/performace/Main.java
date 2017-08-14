@@ -30,10 +30,10 @@ import spark.Spark;
 public class Main {
 	
 	public static void main(String[] args) {
-		Method method = MethodCreator.getInstance().createMethod(Method.HAPPINESS_INDEX);
-		String datasetPath = "/home/elderjr/Documents/RI/datasets/stanford_tweets.txt";
+		Method method = MethodCreator.getInstance().createMethod(Method.EMOTICONDS);
+		String datasetPath = "/tmp/guest-eidroz/big_dataset.txt";
 		sequencialAnalysis(method, datasetPath);
-		analyseViaSpark(method, datasetPath, "local");
+		//analyseViaSpark(method, datasetPath, "spark://177.105.60.200:7077");
 	}
 	
 	private static void sequencialAnalysis(Method method, String path){

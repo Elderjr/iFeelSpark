@@ -72,7 +72,7 @@ public class MethodCreator {
 		case Method.SASA:
 			return new Sasa("resources/lexicons/sasa/trainedset4LG.txt");
 		case Method.SENTI_STRENGTH:
-			return new SentiStrengthAdapter("resources/lexicons/sentistrength");
+			return new SentiStrengthAdapter("resources/lexicons/portuguese/sentistrength");
 		case Method.SENTI_WORD_NET:
 			return new SentiWordNet("resources/lexicons/sentiwordnet/SentiWordNet_3.0.0_20130122.txt",
 					"resources/models/StanfordTagger/english-bidirectional-distsim.tagger");

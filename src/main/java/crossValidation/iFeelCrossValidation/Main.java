@@ -25,21 +25,21 @@ public class Main {
 				//MethodCreator.getInstance().createMethod(Method.SASA),
 				//MethodCreator.getInstance().createMethod(Method.SENTIC_NET),
 				//MethodCreator.getInstance().createMethod(Method.SENTIMENT_140),
-				//MethodCreator.getInstance().createMethod(Method.SENTI_STRENGTH),
-				MethodCreator.getInstance().createMethod(Method.SO_CAL),
-				MethodCreator.getInstance().createMethod(Method.STANFORD),
-				MethodCreator.getInstance().createMethod(Method.SENTI_WORD_NET),
+				MethodCreator.getInstance().createMethod(Method.SENTI_STRENGTH),
+				//MethodCreator.getInstance().createMethod(Method.SO_CAL),
+				//MethodCreator.getInstance().createMethod(Method.STANFORD),
+				//MethodCreator.getInstance().createMethod(Method.SENTI_WORD_NET),
 				//MethodCreator.getInstance().createMethod(Method.UMIGON),
 				//MethodCreator.getInstance().createMethod(Method.VADER),
 				//MethodCreator.getInstance().createMethod(Method.NRC_HashTag) 
 			};
-				
-		String crossvalidationOutput = "/home/elderjr/Documents/RI/crossValidation(NonSupervisional)/";
-		String dataSetPath = "/home/elderjr/Documents/RI/datasets/sentistrength_twitter.txt";
-		String classificationPath = "/home/elderjr/Documents/RI/datasets/sentistrength_twitter_so_score.txt";
 		
+		String crossvalidationOutput = "/home/elderjr/Documents/RI/crossValidation(NonSupervisional)/";
+		String dataSetPath = "/home/elderjr/Documents/RI/datasets/ufla.txt";
+		String classificationPath = "/home/elderjr/Documents/RI/datasets/ufla_score.txt";
 		//cria os arquivos de cross validation
 		NonSupervisionalCrossValidation.createCrossValidationFiles(dataSetPath, classificationPath, crossvalidationOutput);
+		System.out.println("Algoritmo comecou");
 		for (Method method : methods) {
 			ConfusionMatrixSet results = new ConfusionMatrixSet();
 			for(int i = 0; i < 10; i++) {

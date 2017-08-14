@@ -32,7 +32,6 @@ public abstract class Method implements Serializable{
 	public static final int EMOTICONDS = 2;
 	public static final int EMOTICONS = 3;
 	public static final int HAPPINESS_INDEX = 4;
-	public static final int MOHAMMAD_SENTIMENT_LEXICON = 5;
 	public static final int MPQA = 6;
 	public static final int OPINION = 7;
 	public static final int PANAST = 8;
@@ -67,7 +66,7 @@ public abstract class Method implements Serializable{
 	
 	public List<Integer> analyseFile(String filePath) {
 		try {
-			List<Integer> results = new ArrayList<>();
+			List<Integer> results = new LinkedList<>();
 			BufferedReader br = new BufferedReader(new FileReader(filePath));
 			String line = br.readLine();
 			while (line != null) {

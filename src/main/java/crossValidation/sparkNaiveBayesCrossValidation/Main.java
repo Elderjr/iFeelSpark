@@ -55,8 +55,8 @@ public class Main {
 	public static void main(String[] args) {
 		Spark.getInstance().initSpark("Spark Sentiments", "local");
 		JavaSparkContext jsc = Spark.getInstance().getContext();
-		String dataSetPath = "/home/elderjr/Documents/RI/datasets/stanford_tweets.txt";
-		String classificationPath = "/home/elderjr/Documents/RI/datasets/stanford_tweets_so_score.txt";
+		String dataSetPath = "/home/elderjr/Documents/RI/datasets/ufla.txt";
+		String classificationPath = "/home/elderjr/Documents/RI/datasets/ufla_score.txt";
 		Set<String> uniqueWordsSet = util.Utils.readFileWordsToSet(dataSetPath);
 		HashMap<String, Integer> map = new HashMap<String,Integer>();
 		int index = 1;
@@ -77,6 +77,6 @@ public class Main {
 			results.addConfusionMatrix(ConfusionMatrix.create(predictionAndLabel.collect()));
 		}
 		jsc.stop();
-		results.printResults();
+		results.printResultsLatex("Spark");
 	}
 }
